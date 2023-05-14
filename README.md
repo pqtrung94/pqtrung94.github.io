@@ -1,5 +1,4 @@
-# pqtrung94.github.io
-# [EDIT](https://github.com/pqtrung94/pqtrung94.github.io)
+# [pqtrung94.github.io](https://github.com/pqtrung94/pqtrung94.github.io)
 
 # [list-tv-pqt](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/list-tv-pqt.m3u)
 # [fpt-tv-pqt](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/fpt-tv-pqt.m3u)
