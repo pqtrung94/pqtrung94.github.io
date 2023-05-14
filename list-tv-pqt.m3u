@@ -22,10 +22,9 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
 
 
+#-*--Khác-*--#
 #EXTINF:-1 tvg-id="happykids" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
-
-
 
 
 #-*--HTV&HTVC-*--#
