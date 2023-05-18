@@ -23,8 +23,8 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
 
 
 #-*--Khác-*--#
-#EXTINF:-1 tvg-id="happykids" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
-https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
+http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8
 
 
 #-*--HTV&HTVC-*--#
@@ -107,23 +107,23 @@ http://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
 
 
 #-*--Thiết yếu-*--#
-#EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
-http://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8 
-#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
-http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png", THP HD | TH Hải Phòng
-https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", QPVN HD
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png", THP HD | TH Hải Phòng
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="nhandan" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
 http://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/hunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội HD
-https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
+https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
+http://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8 
 
 
 #-*--THVL-*--#
+
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL2 HD
@@ -142,6 +142,7 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 http://live.vthanhtivi.pw/cinemax
+
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/822/playlist.m3u8
@@ -153,9 +154,13 @@ https://code.vthanhtivi.pw/getlink/cliptv/825/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/838/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+
+
+#EXTINF:-1 tvg-id="hitv" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HCATV1 - HiTV HD
+https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
+#EXTINF:-1 tvg-id="youtv" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 
 
