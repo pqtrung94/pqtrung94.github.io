@@ -37,9 +37,9 @@ https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv4" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.hqth.me/logo/thumbs/265.png", HTV CO.OP
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2"catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8, HTV Thể Thao
