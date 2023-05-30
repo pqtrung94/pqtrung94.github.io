@@ -58,8 +58,7 @@ udp://@225.1.1.185:30120
 udp://@225.1.1.184:30120
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://img.vnmedia.xyz/logo/htvcplushd.jpg", HTVC Plus HD
 udp://@225.1.1.181:30120
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.hqth.me/logo/thumbs/62.png", HTVC Homeshopping
-udp://@225.1.1.172:30120
+
 
 
 #-*--VTC-*--#
@@ -98,18 +97,18 @@ udp://@225.1.2.190:30120
 
 #-*--Thiết yếu-*--#
 
-#EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://img.vnmedia.xyz/logo/vovtvhd.png", VOVTV HD
-udp://@225.1.2.171:30120
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img.vnmedia.xyz/logo/antv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://img.vnmedia.xyz/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", QPVN HD
 udp://@225.1.2.217:30120
-#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://img.vnmedia.xyz/logo/haiphong.png", THP HD
-udp://@225.1.1.44:30120
 #EXTINF:-1 tvg-id="nhandan" tvg-logo="https://img.vnmedia.xyz/logo/nhandan.jpg", Nhân Dân TV
 udp://@225.1.1.91:30120
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://img.vnmedia.xyz/logo/quochoi.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
 udp://@225.1.2.148:30120
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://img.vnmedia.xyz/logo/haiphong.png", THP HD
+udp://@225.1.1.44:30120
+#EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://img.vnmedia.xyz/logo/vovtvhd.png", VOVTV HD
+udp://@225.1.2.171:30120
 
 
 #-*--THVL-*--#
