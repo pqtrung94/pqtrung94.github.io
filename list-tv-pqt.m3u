@@ -129,18 +129,17 @@ udp://@225.1.2.25:30120
 #-*--Quốc tế-*--#
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
 udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
+udp://@225.1.1.135:30120
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 udp://@225.1.1.198:30120
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
-#EXTINF:-1 ,HBO 
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 udp://@225.1.2.86:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", Cinema World
 udp://@225.1.1.142:30120
 
-#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
-udp://@225.1.1.135:30120
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 udp://@225.1.2.225:30120
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png", Baby TV
