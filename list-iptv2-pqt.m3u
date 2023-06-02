@@ -148,20 +148,10 @@ http://live.vthanhtivi.pw/hbo
 http://live.vthanhtivi.pw/cinemax
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/sd2/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:0 tvg-id="happykids" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png",Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:0 tvg-id="animalhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
-https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Channel
-https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sctvonline.vn/
-
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 
 
