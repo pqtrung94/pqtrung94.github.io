@@ -122,6 +122,8 @@ http://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/hunklist_b5000000.m
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png", THP HD | TH Hải Phòng
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
+EXTINF:-1 tvg-id="haiphong" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP HD | TH Hải Phòng
+https://livecdn.fptplay.net/sda/haiphongplus_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
 http://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8 
 
