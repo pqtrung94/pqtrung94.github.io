@@ -34,7 +34,7 @@ udp://@225.1.1.167:30120
 udp://@225.1.1.180:30120
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://img.vnmedia.xyz/logo/htv2hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/hplus/htv2-hd-2669/dvr-${start}-${offset}.m3u8", HTV2 - Vie Channel
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3" tvg-logo="https://img.vnmedia.xyz/logo/htv3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8, HTV3 - Dreams TV
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://img.vnmedia.xyz/logo/htv3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV3 - Dreams TV
 udp://@225.1.1.178:30120
 #EXTINF:-1 tvg-id="htv4" tvg-logo="https://img.vnmedia.xyz/logo/htvkey.jpg", HTV Key
 udp://@225.1.1.177:30120
@@ -42,11 +42,11 @@ udp://@225.1.1.177:30120
 udp://@225.1.1.192:30120
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://img.vnmedia.xyz/logo/htv9hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img.vnmedia.xyz/logo/htvthethaohd.jpg" catchup="append" catchup-days="2"catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8, HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img.vnmedia.xyz/logo/htvthethaohd.jpg" catchup="append" catchup-days="2"catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
 udp://@225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://img.vnmedia.xyz/logo/htvcthuanviet.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 udp://@225.1.1.186:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://img.vnmedia.xyz/logo/htvcgiadinhhd.jpg"  catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8, HTVC Gia đình HD
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://img.vnmedia.xyz/logo/htvcgiadinhhd.jpg"  catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
 udp://@225.1.1.170:30120
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://img.vnmedia.xyz/logo/htvcphunuhd.jpg", HTVC Phụ nữ HD
 udp://@225.1.1.171:30120
