@@ -143,6 +143,8 @@ http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
+http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 http://live.hqth.xyz/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", Cinemax HD
