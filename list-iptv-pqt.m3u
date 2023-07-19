@@ -124,8 +124,6 @@ https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD | TH Hải Phòng
 https://livecdn.fptplay.net/sda/haiphongplus_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
-http://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8 
 
 
 #-*--THVL-*--#
@@ -145,19 +143,10 @@ http://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
-http://live.vthanhtivi.pw/hbo
+http://live.hqth.xyz/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", Cinemax HD
-http://live.vthanhtivi.pw/cinemax
-
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
+http://live.hqth.xyz/cinemax/index.m3u8
 
 
-#EXTINF"-1 VTV1 
-https://s3-fpt-cdn.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/JnTu3cwriGGFMFAv/337a54767a7233703637564336316a6dafcbdf8574e6b7569cd5ed8fd482b6e6689ee688b13e03bb30d8d129e3e4114fb42018a53d560b7f9d603dc59325b80283979bde0a7716c48443eef71b5813d5df6a337dd4cda1a696b7c7e118394abf515313fb0cd90d1ef9098999feb115e45c51ff321d2719dfaedf243822456c6cc7538f541044e64069da77bc7ad1a9eb2fcef5a7900da5629f9f914023df092a6252afc48a480cc1495dd31b02bcdcfdf6abeb16678314dc6a978b6d8d5563668015af3e9f1089d3235ccddddbc57d71d43b81fcbd08d32ac4562a252c8fc7ea3817736d3403a8ffd0c557192a96cc245f42ccb82868990b0651d70c5df5b6cdfa6b412ff9b65125da97857bf6e85c24008ce6b4d0e98b6f01bff831e50985568384dda9cc187f6ddcd9b5d7e005df1f/480.m3u8
 
 
