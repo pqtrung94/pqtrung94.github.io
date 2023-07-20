@@ -42,7 +42,7 @@ udp://@225.1.1.177:30120
 udp://@225.1.1.192:30120
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://img.vnmedia.xyz/logo/htv9hd.jpg", HTV9 HD
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img.vnmedia.xyz/logo/htvthethaohd.jpg", HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img.vnmedia.xyz/logo/htvthethaohd.jpg", HTV Thể Thao HD
 udp://@225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://img.vnmedia.xyz/logo/htvcthuanviet.jpg", HTVC Thuần Việt
 udp://@225.1.1.186:30120
@@ -75,7 +75,7 @@ udp://@225.1.2.200:30120
 udp://@225.1.2.199:30120
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc6hd.jpg", VTC6 HD
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc7hd.png", VTC7 HD - TodayTV
+#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc7hd.png", VTC7 HD - Today TV
 udp://@225.1.2.197:30120
 #EXTINF:-1 tvg-id="vtc8" tvg-logo="https://img.vnmedia.xyz/logo/vtc8.jpg", VTC8
 udp://@225.1.2.196:30120
@@ -137,7 +137,7 @@ udp://@225.1.1.198:30120
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", Cinema World
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", Cinema World HD
 udp://@225.1.1.142:30120
 
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
