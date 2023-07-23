@@ -145,7 +145,7 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/getplay/$1$VGTPV0Ce$CRF.2WopeAdjnULSw1nN61/vieon/nhan-dan-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://logo.anttv.xyz/107.png", catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
-http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
+http://live.anttv.xyz/antmedia/quochoi
 #EXTINF:-1 tvg-id="qpvnhd"" tvg-logo="https://logo.anttv.xyz/108.png", catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
