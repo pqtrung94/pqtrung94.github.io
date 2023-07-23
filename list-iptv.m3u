@@ -143,9 +143,8 @@ http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
-#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
+http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
@@ -157,8 +156,9 @@ https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 
 #-*--Khám phá-*--#
 
-#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
-http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
