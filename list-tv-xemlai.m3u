@@ -24,7 +24,7 @@ udp://@225.1.1.128:30120
 
 #-*--Khác-*--#
 
-#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://img.vnmedia.xyz/logo/ttxvn.jpg", VNews
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://img.vnmedia.xyz/logo/ttxvn.jpg", TTXVN
 udp://@225.1.1.167:30120
 
 
