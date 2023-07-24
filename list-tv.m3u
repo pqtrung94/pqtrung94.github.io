@@ -168,5 +168,5 @@ udp://@225.1.1.211:30120
 udp://@225.1.2.235:30120
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png",Outdoor Channel 
 udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="wbtv" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png,WBTV 
+#EXTINF:-1 tvg-id="wbtv" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png",WBTV 
 udp://@225.1.1.139:30120
