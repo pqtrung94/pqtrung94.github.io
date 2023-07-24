@@ -107,8 +107,8 @@ udp://@225.1.1.91:30120
 udp://@225.1.2.148:30120
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://img.vnmedia.xyz/logo/haiphong.png", THP HD
 udp://@225.1.1.44:30120
-#EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://img.vnmedia.xyz/logo/vovtvhd.png", VOVTV HD
-udp://@225.1.2.171:30120
+#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD
+udp://@225.1.1.113:30120
 
 
 #-*--THVL-*--#
@@ -150,7 +150,7 @@ udp://@225.1.2.225:30120
 udp://@225.1.1.138:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", CARTOON NETWORK
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci Kid
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci
 #udp://@225.1.1.197:30120
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Channel
 udp://@225.1.1.238:30120
