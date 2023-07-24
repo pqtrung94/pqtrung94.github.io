@@ -35,7 +35,7 @@ https://api.anttv.xyz/getplay/$1$Upk2iWWj$LMDDF9D7hZY4f6B.FfBzp./mytv/381/hd.m3u
 
 
 #-*--Khác-*--#
-#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://logo.anttv.xyz/105.png", VNews
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://logo.anttv.xyz/105.png", TTXVN
 https://api.anttv.xyz/getplay/$1$Upk2iWWj$LMDDF9D7hZY4f6B.FfBzp./vieon/vnews-hd/playlist.m3u8
 
 #-*--HTV&HTVC-*--#
