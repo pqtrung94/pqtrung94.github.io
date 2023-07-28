@@ -15,7 +15,7 @@ https://api.anttv.xyz/getplay/ae701cd199036253027aded99b62465dc6ce1996ad02a64c93
 #EXTVLCOPT:http-user-agent=ANTmedia
 #EXTVLCOPT:network-caching=1000
 https://api.anttv.xyz/getplay/ae701cd199036253027aded99b62465dc6ce1996ad02a64c937030be627e/vieon/vtv4-hd/playlist.m3u8
-#EXTINF:0, VTV5 | 50Fps
+#EXTINF:0, VTV5
 #EXTVLCOPT:http-user-agent=ANTmedia
 #EXTVLCOPT:network-caching=1000
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
@@ -60,7 +60,7 @@ https://api.anttv.xyz/getplay/ae701cd199036253027aded99b62465dc6ce1996ad02a64c93
 #EXTVLCOPT:http-user-agent=ANTmedia
 #EXTVLCOPT:network-caching=1000
 https://api.anttv.xyz/getplay/ae701cd199036253027aded99b62465dc6ce1996ad02a64c937030be627e/mytv/190/hd.m3u8
-#EXTINF:0,HTV Thể Thao | 50 Fps
+#EXTINF:0,HTV Thể Thao
 #EXTVLCOPT:http-user-agent=ANTmedia
 #EXTVLCOPT:network-caching=1000
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
@@ -158,10 +158,10 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://api.anttv.xyz/getplay/ae701cd199036253027aded99b62465dc6ce1996ad02a64c937030be627e/vieon/nhan-dan-hd/playlist.m3u8
-#EXTINF:0, catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" -  Quốc Hội HD
+#EXTINF:0, Quốc Hội HD
 #EXTVLCOPT:network-caching=1000
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-#EXTINF:0, catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" -  QPVN HD
+#EXTINF:0, QPVN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
