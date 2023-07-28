@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:40,Transcoder01
+#EXTINF:0,VTV1
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
@@ -14,7 +14,7 @@ https://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF:0,VTV4       
 #EXTVLCOPT:network-caching=1000
 https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
-#EXTINF:0,VTV5 [50fps]
+#EXTINF:0,VTV5
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8
@@ -35,16 +35,16 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8%7CReferer=http://sctvo
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
-#EXTINF:0, HTV1
+#EXTINF:0,HTV1
 #EXTVLCOPT:network-caching=1000
 https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
 #EXTINF:0,HTV2 HD
 #EXTVLCOPT:network-caching=1000
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:0, HTV3
+#EXTINF:0,HTV3
 #EXTVLCOPT:network-caching=1000
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
-#EXTINF:0, HTV Key
+#EXTINF:0,HTV Key
 #EXTVLCOPT:network-caching=1000
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8%7CReferer=http://sctvonline.vn/
 #EXTINF:0,HTV7 HD
@@ -81,7 +81,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Bear TV"
 #EXTVLCOPT:network-caching=1000
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
-#EXTINF:0, VTC2 HD
+#EXTINF:0,VTC2 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
 #EXTVLCOPT:network-caching=1000
 https://1117141481.vnns.net/VTC2/chunks.m3u8
@@ -97,7 +97,7 @@ https://1117141481.vnns.net/VTC4/chunks.m3u8
 #EXTVLCOPT:http-user-agent="Bear TV"
 #EXTVLCOPT:network-caching=1000
 https://1117141481.vnns.net/VTC5/chunks.m3u8
-#EXTINF:0, VTC6 HD
+#EXTINF:0,VTC6 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
 #EXTVLCOPT:network-caching=1000
 https://1117141481.vnns.net/VTC6/chunks.m3u8
@@ -113,11 +113,11 @@ https://1117141481.vnns.net/VTC8/chunks.m3u8
 #EXTVLCOPT:http-user-agent="Bear TV"
 #EXTVLCOPT:network-caching=1000
 https://1117141481.vnns.net/VTC9/chunks.m3u8
-#EXTINF:0, VTC10 HD
+#EXTINF:0,VTC10 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
 #EXTVLCOPT:network-caching=1000
 https://1117141481.vnns.net/VTC10/chunks.m3u8
-#EXTINF:0, VTC11 HD
+#EXTINF:0,VTC11 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
 #EXTVLCOPT:network-caching=1000
 https://1117141481.vnns.net/VTC11/chunks.m3u8
@@ -137,7 +137,7 @@ https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTVLCOPT:http-user-agent="Bear TV"
 #EXTVLCOPT:network-caching=1000
 https://1117141481.vnns.net/VTC16/chunks.m3u8
-#EXTINF:0, ANTV HD
+#EXTINF:0,ANTV HD
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
@@ -151,10 +151,10 @@ http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1933869513_b996
 #EXTINF:0,NHÂN DÂN TV
 #EXTVLCOPT:network-caching=1000
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
-#EXTINF:0, Hải Phòng
+#EXTINF:0,Hải Phòng
 #EXTVLCOPT:network-caching=1000
 https://on.thhp.vn/thplive/tv1live-transmux.m3u8
-#EXTINF:0, Hải Phòng +
+#EXTINF:0,Hải Phòng +
 #EXTVLCOPT:network-caching=1000
 https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
 #EXTINF:0,Vĩnh Long 1 HD
@@ -184,26 +184,26 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8%7CReferer=http://
 #EXTINF:0,AXN HD
 #EXTVLCOPT:network-caching=1000
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
-#EXTINF:0, HBO
+#EXTINF:0,HBO
 #EXTVLCOPT:network-caching=1000
 http://live.vthanhtivi.pw/hbo/index.m3u8
-#EXTINF:0, CINEMAX
+#EXTINF:0,CINEMAX
 #EXTVLCOPT:network-caching=1000
 http://live.vthanhtivi.pw/cinemax/index.m3u8
-#EXTINF:0, IN THE BOX
+#EXTINF:0,IN THE BOX
 #EXTVLCOPT:network-caching=1000
 http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 #EXTINF:0,BOX HITS
 #EXTVLCOPT:network-caching=1000
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
-#EXTINF:0, Cartoon Network HD
+#EXTINF:0,Cartoon Network HD
 #EXTVLCOPT:network-caching=1000
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Happy Kids
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8%7CReferer=http://sctvonline.vn/
-#EXTINF:0, Box Music
+#EXTINF:0,Box Music
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8%7CReferer=http://sctvonline.vn/
@@ -215,11 +215,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8%7CReferer=http://sctv
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8%7CReferer=http://sctvonline.vn/
-#EXTINF:0, Kix HD
+#EXTINF:0,Kix HD
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, Animal Planet
+#EXTINF:0,Animal Planet
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8%7CReferer=http://sctvonline.vn/
 #EXTINF:0,Planet Earth
@@ -234,19 +234,19 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, Outdoor Channel
+#EXTINF:0,Outdoor Channel
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, Fashion TV
+#EXTINF:0,Fashion TV
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:0, Discovery Channel
+#EXTINF:0,Discovery Channel
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 http://212.8.253.117/discovery/tracks-v1a1/mono.m3u8
-#EXTINF:0, TV5MONDE
+#EXTINF:0,TV5MONDE
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8%7CReferer=http://sctvonline.vn/
@@ -257,7 +257,7 @@ http://163.172.70.244:8080/FRANCE_24/mono.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/dw/index.m3u8%7CReferer=http://sctvonline.vn/
-#EXTINF:0, CNBC
+#EXTINF:0,CNBC
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
@@ -265,22 +265,22 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/kbsworld/index.m3u8%7CReferer=http://sctvonline.vn/
-#EXTINF:0, BBC World News
+#EXTINF:0,BBC World News
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8%7CReferer=http://sctvonline.vn/
-#EXTINF:0, CNN
+#EXTINF:0,CNN
 #EXTVLCOPT:network-caching=1000
 http://103.112.191.9:880/LAOSAT1087.m3u8
 #EXTINF:0,CNA
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8%7CReferer=http://sctvonline.vn/
-#EXTINF:0, ABC Australia
+#EXTINF:0,ABC Australia
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8%7CReferer=http://sctvonline.vn/
-#EXTINF:0, Discovery Asia
+#EXTINF:0,Discovery Asia
 #EXTVLCOPT:network-caching=1000
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:dshow-vdev=
