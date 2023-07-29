@@ -1,0 +1,179 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml, https://trada.info/epg.xml"
+
+
+#-*--VTV-*--#
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv1hd.jpg", VTV1
+udp://@225.1.4.1:30120
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv2hd.jpg", VTV2
+udp://@225.1.4.2:30120
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv3hd.jpg", VTV3
+udp://@225.1.4.3:30120
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv4hd.jpg", VTV4
+udp://@225.1.4.4:30120
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hd.jpg", VTV5
+udp://@225.1.4.5:30120
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv6hd.jpg", VTV Cần Thơ
+udp://@225.1.4.108:30120
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv7hd.jpg", VTV7
+udp://@225.1.4.201:30120
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv8hd.jpg", VTV8
+udp://@225.1.4.7:30120
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv9hd.jpg", VTV9
+udp://@225.1.4.8:30120
+
+
+#-*--Khác-*--#
+
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://img.vnmedia.xyz/logo/ttxvn.jpg", TTXVN
+udp://@225.1.4.219:30120
+
+
+#-*--HTV&HTVC-*--#
+
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://img.vnmedia.xyz/logo/htv1.jpg", HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://img.vnmedia.xyz/logo/htv2hd.jpg", HTV2 - Vie Channel
+udp://@225.1.4.56:30120
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://img.vnmedia.xyz/logo/htv3.png", HTV3 - Dreams TV
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-id="htv4" tvg-logo="https://img.vnmedia.xyz/logo/htvkey.jpg", HTV Key
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://img.vnmedia.xyz/logo/htv7hd.jpg", HTV7 HD
+udp://@225.1.4.59:30120
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://img.vnmedia.xyz/logo/htv9hd.jpg", HTV9 HD
+udp://@225.1.4.11:30120
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img.vnmedia.xyz/logo/htvthethaohd.jpg", HTV Thể Thao HD
+udp://@225.1.4.60:30120
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://img.vnmedia.xyz/logo/htvcthuanviet.jpg", HTVC Thuần Việt
+udp://@225.1.4.62:30120
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://img.vnmedia.xyz/logo/htvcgiadinhhd.jpg", HTVC Gia đình HD
+udp://@225.1.4.64:30120
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://img.vnmedia.xyz/logo/htvcphunuhd.jpg", HTVC Phụ nữ HD
+udp://@225.1.4.66:30120
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://img.vnmedia.xyz/logo/htvcdulichhd.jpg", HTVC Du lịch Cuộc sống HD
+udp://@225.1.4.67:30120
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://img.vnmedia.xyz/logo/htvccanhachd.jpg", HTVC Ca nhạc HD
+udp://@225.1.4.92:30120
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://img.vnmedia.xyz/logo/htvcphimhd.jpg", HTVC Phim HD
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://img.vnmedia.xyz/logo/htvcplushd.jpg", HTVC Plus HD
+udp://@225.1.4.91:30120
+
+
+
+#-*--VTC-*--#
+
+#EXTINF:-1 tvg-id="vtc1" tvg-logo="https://img.vnmedia.xyz/logo/vtc1hd.jpg", VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-id="vtc2" tvg-logo="https://img.vnmedia.xyz/logo/vtc2.jpg", VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc3hd.jpg", VTC3 HD
+udp://@225.1.4.42:30120
+#EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc4hd.jpg", VTC4 HD
+udp://@225.1.4.43:30120
+#EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc5hd.jpg", VTC5 HD
+udp://@225.1.2.199:30120
+#EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc6hd.jpg", VTC6 HD
+udp://@225.1.2.198:30120
+#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc7hd.png", VTC7 HD - Today TV
+udp://@225.1.2.197:30120
+#EXTINF:-1 tvg-id="vtc8" tvg-logo="https://img.vnmedia.xyz/logo/vtc8.jpg", VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc9hd.jpg", VTC9 HD
+udp://@225.1.4.48:30120
+#EXTINF:-1 tvg-id="vtc10" tvg-logo="https://img.vnmedia.xyz/logo/vtc10hd.jpg", VTC10 HD
+udp://@225.1.4.49:30120
+#EXTINF:-1 tvg-id="vtc11" tvg-logo="https://img.vnmedia.xyz/logo/vtc11.jpg", VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 tvg-id="vtc12" tvg-logo="https://img.vnmedia.xyz/logo/vtc12.png", VTC12
+udp://@225.1.2.51:30120
+#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc13hd.jpg", VTC13 HD
+udp://@225.1.4.52:30120
+#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc4hd.jpg", VTC14 HD
+udp://@225.1.4.53:30120
+#EXTINF:-1 tvg-id="vtc16" tvg-logo="https://img.vnmedia.xyz/logo/vtc16.jpg", VTC16 HD
+udp://@225.1.4.54:30120
+
+
+#-*--Thiết yếu-*--#
+
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img.vnmedia.xyz/logo/antv.png", ANTV HD
+udp://@225.1.4.221:30120
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://img.vnmedia.xyz/logo/qpvnhd.jpg", QPVN HD
+udp://@225.1.4.170:30120
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://img.vnmedia.xyz/logo/nhandan.jpg", Nhân Dân TV
+udp://@225.1.4.98:30120
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://img.vnmedia.xyz/logo/quochoi.jpg", Quốc Hội HD
+udp://@225.1.4.148:30120
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://img.vnmedia.xyz/logo/haiphong.png", THP HD
+udp://@225.1.1.44:30120
+#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD
+udp://@225.1.1.113:30120
+
+
+#-*--THVL-*--#
+
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
+udp://@225.1.4.202:30120
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
+udp://@225.1.4.87:30120
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
+udp://@225.1.4.176:30120
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
+udp://@225.1.2.25:30120
+
+
+
+
+
+#-*--Quốc tế-*--#
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
+udp://@225.1.4.36:30120
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
+udp://@225.1.4.209:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+udp://@225.1.4.90:30120
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+udp://@225.1.4.205:30120
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", Cinema World HD
+udp://@225.1.4.15:30120
+
+
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
+udp://@225.1.4.168:30120
+#EXTINF:-1 tvg-id="ariang" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",Arirang 
+udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
+udp://@225.1.4.9:30120
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png",BabyTV
+udp://@225.1.4.207:30120
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png",BLOOMBERG
+udp://@225.1.4.18:30120
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", BOOMERANG
+udp://@225.1.4.16:30120
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", CARTOON NETWORK
+udp://@225.1.4.13:30120
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci
+#udp://@225.1.4.208:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
+udp://@225.1.4.25:30120
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Channel
+udp://@225.1.4.24:30120
+
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png",Dreamworks 
+udp://@225.1.4.39:30120
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png",DW 
+udp://@225.1.4.75:30120
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX
+udp://@225.1.4.40:30120
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/207.png", NAT GEO WILD
+udp://@225.1.4.215:30120
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", NATIONAL GEOGRAPHIC HD
+udp://@225.1.4.83:30120
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png",Outdoor Channel 
+udp://@225.1.4.210:30120
+#EXTINF:-1 tvg-id="wbtv" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png",WBTV 
+udp://@225.1.4.14:30120
+
+
