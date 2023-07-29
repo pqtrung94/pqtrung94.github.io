@@ -1,0 +1,327 @@
+#EXTINF:-1 ,VTV1
+udp://@225.1.4.1:30120
+#EXTINF:-1 ,VTV2
+udp://@225.1.4.2:30120
+#EXTINF:-1 ,VTV3
+udp://@225.1.4.3:30120
+#EXTINF:-1 ,VTV4
+udp://@225.1.4.4:30120
+#EXTINF:-1 ,VTV5
+udp://@225.1.4.5:30120
+#EXTINF:-1 ,VTV8
+udp://@225.1.4.7:30120
+#EXTINF:-1 ,VTV9
+udp://@225.1.4.8:30120
+#EXTINF:-1 ,AXN
+udp://@225.1.4.9:30120
+#EXTINF:-1 ,HTV9
+udp://@225.1.4.11:30120
+#EXTINF:-1 ,CARTOON NETWORK
+udp://@225.1.4.13:30120
+#EXTINF:-1 ,WBTV
+udp://@225.1.4.14:30120
+#EXTINF:-1 ,CinemaWorld
+udp://@225.1.4.15:30120
+#EXTINF:-1 ,Cartoonito
+udp://@225.1.4.16:30120
+#EXTINF:-1 ,CNN
+udp://@225.1.4.17:30120
+#EXTINF:-1 ,Bloomberg
+udp://@225.1.4.18:30120
+#EXTINF:-1 ,ABC Australia
+udp://@225.1.4.19:30120
+#EXTINF:-1 ,FashionTV
+udp://@225.1.4.20:30120
+#EXTINF:-1 ,BBC EARTH
+udp://@225.1.4.21:30120
+#EXTINF:-1 ,BBC NEWS
+udp://@225.1.4.22:30120
+#EXTINF:-1 ,BBC lifestyle
+udp://@225.1.4.23:30120
+#EXTINF:-1 ,Discovery Channel
+udp://@225.1.4.24:30120
+#EXTINF:-1 ,Discovery Asia
+udp://@225.1.4.25:30120
+#EXTINF:-1 ,TLC
+udp://@225.1.4.26:30120
+#EXTINF:-1 ,BBC CBeebies
+udp://@225.1.4.29:30120
+#EXTINF:-1 ,Asian Food Channel
+udp://@225.1.4.36:30120
+#EXTINF:-1 ,DreamWork
+udp://@225.1.4.39:30120
+#EXTINF:-1 ,Kix
+udp://@225.1.4.40:30120
+#EXTINF:-1 ,VTC2
+udp://@225.1.4.41:30120
+#EXTINF:-1 ,VTC3 HD
+udp://@225.1.4.42:30120
+#EXTINF:-1 ,VTC4 HD
+udp://@225.1.4.43:30120
+#EXTINF:-1 ,VTC5
+udp://@225.1.4.44:30120
+#EXTINF:-1 ,VTC6 HD
+udp://@225.1.4.45:30120
+#EXTINF:-1 ,VTC7 HD
+udp://@225.1.4.46:30120
+#EXTINF:-1 ,VTC8
+udp://@225.1.4.47:30120
+#EXTINF:-1 ,VTC9 HD
+udp://@225.1.4.48:30120
+#EXTINF:-1 ,VTC10 HD
+udp://@225.1.4.49:30120
+#EXTINF:-1 ,VTC11
+udp://@225.1.4.50:30120
+#EXTINF:-1 ,VTC12
+udp://@225.1.4.51:30120
+#EXTINF:-1 ,VTC13
+udp://@225.1.4.52:30120
+#EXTINF:-1 ,VTC14 HD
+udp://@225.1.4.53:30120
+#EXTINF:-1 ,VTC16 HD
+udp://@225.1.4.54:30120
+#EXTINF:-1 ,HTV1
+udp://@225.1.4.55:30120
+#EXTINF:-1 ,HTV2 HD
+udp://@225.1.4.56:30120
+#EXTINF:-1 ,HTV3
+udp://@225.1.4.57:30120
+#EXTINF:-1 ,HTV Key
+udp://@225.1.4.58:30120
+#EXTINF:-1 ,HTV7 HD
+udp://@225.1.4.59:30120
+#EXTINF:-1 ,HTV The Thao
+udp://@225.1.4.60:30120
+#EXTINF:-1 ,HTVC Thuan Viet
+udp://@225.1.4.62:30120
+#EXTINF:-1 ,HTVC Phim
+udp://@225.1.4.63:30120
+#EXTINF:-1 ,HTVC Gia Dinh
+udp://@225.1.4.64:30120
+#EXTINF:-1 ,HTVC Phu Nu
+udp://@225.1.4.66:30120
+#EXTINF:-1 ,HTVC Du Lich & Cuoc Song
+udp://@225.1.4.67:30120
+#EXTINF:-1 ,NHK World
+udp://@225.1.4.73:30120
+#EXTINF:-1 ,Ariang Korea
+udp://@225.1.4.74:30120
+#EXTINF:-1 ,DW
+udp://@225.1.4.75:30120
+#EXTINF:-1 ,CNA
+udp://@225.1.4.76:30120
+#EXTINF:-1 ,CNBC
+udp://@225.1.4.77:30120
+#EXTINF:-1 ,BTV6
+udp://@225.1.4.78:30120
+#EXTINF:-1 ,VTVCab13 VTV Hyundai Homeshopping
+udp://@225.1.4.79:30120
+#EXTINF:-1 ,BPTV2 - TH Bình Phước
+udp://@225.1.4.80:30120
+#EXTINF:-1 ,BTV2 HD - TH Bình Dương
+udp://@225.1.4.81:30120
+#EXTINF:-1 ,BTV4 HD - TH Bình Dương
+udp://@225.1.4.82:30120
+#EXTINF:-1 ,NAT GEO WILD HD
+udp://@225.1.4.83:30120
+#EXTINF:-1 ,BTV11 TOP Home Shopping
+udp://@225.1.4.84:30120
+#EXTINF:-1 ,ĐNRTV2 HD - TH Đồng Nai
+udp://@225.1.4.85:30120
+#EXTINF:-1 ,QTV3 - TH Quảng Ninh
+udp://@225.1.4.86:30120
+#EXTINF:-1 ,THVL2 HD
+udp://@225.1.4.87:30120
+#EXTINF:-1 ,HTVC VGS SHOP
+udp://@225.1.4.89:30120
+#EXTINF:-1 ,HBO
+udp://@225.1.4.90:30120
+#EXTINF:-1 ,HTVC Plus
+udp://@225.1.4.91:30120
+#EXTINF:-1 ,Nhan Dan TV
+udp://@225.1.4.98:30120
+#EXTINF:-1 ,BTV9
+udp://@225.1.4.99:30120
+#EXTINF:-1 ,VTV Can Tho
+udp://@225.1.4.108:30120
+#EXTINF:-1 ,Bạc Liêu HD
+udp://@225.1.4.109:30120
+#EXTINF:-1 ,Bắc Ninh HD
+udp://@225.1.4.110:30120
+#EXTINF:-1 ,Bến Tre HD
+udp://@225.1.4.111:30120
+#EXTINF:-1 ,Bình Định
+udp://@225.1.4.112:30120
+#EXTINF:-1 ,Bình Phước 1
+udp://@225.1.4.113:30120
+#EXTINF:-1 ,Bình Thuận
+udp://@225.1.4.114:30120
+#EXTINF:-1 ,Bình Dương 1 HD
+udp://@225.1.4.115:30120
+#EXTINF:-1 ,Bình Dương 3 HD
+udp://@225.1.4.116:30120
+#EXTINF:-1 ,Cà Mau HD
+udp://@225.1.4.117:30120
+#EXTINF:-1 ,Cần Thơ
+udp://@225.1.4.118:30120
+#EXTINF:-1 ,Cao Bằng
+udp://@225.1.4.119:30120
+#EXTINF:-1 ,Đà Nẵng 1 HD
+udp://@225.1.4.120:30120
+#EXTINF:-1 ,Đà Nẵng 2 HD
+udp://@225.1.4.121:30120
+#EXTINF:-1 ,Đắk Lắk HD
+udp://@225.1.4.122:30120
+#EXTINF:-1 ,Điện Biên
+udp://@225.1.4.123:30120
+#EXTINF:-1 ,Đồng Nai 1 HD
+udp://@225.1.4.124:30120
+#EXTINF:-1 ,Đồng Tháp 1 HD
+udp://@225.1.4.125:30120
+#EXTINF:-1 ,Gia Lai HD
+udp://@225.1.4.126:30120
+#EXTINF:-1 ,Hà Giang HD
+udp://@225.1.4.127:30120
+#EXTINF:-1 ,Hà Nam
+udp://@225.1.4.128:30120
+#EXTINF:-1 ,Hà Tĩnh
+udp://@225.1.4.129:30120
+#EXTINF:-1 ,Hải Dương
+udp://@225.1.4.130:30120
+#EXTINF:-1 ,Hải Phòng HD
+udp://@225.1.4.131:30120
+#EXTINF:-1 ,Ha Noi 2 HD
+udp://@225.1.4.132:30120
+#EXTINF:-1 ,Hậu Giang
+udp://@225.1.4.133:30120
+#EXTINF:-1 ,Hòa Bình
+udp://@225.1.4.134:30120
+#EXTINF:-1 ,Thừa Thiên Huế
+udp://@225.1.4.135:30120
+#EXTINF:-1 ,Hưng Yên
+udp://@225.1.4.136:30120
+#EXTINF:-1 ,Khánh Hòa HD
+udp://@225.1.4.137:30120
+#EXTINF:-1 ,Kiên Giang
+udp://@225.1.4.138:30120
+#EXTINF:-1 ,Kon Tum
+udp://@225.1.4.139:30120
+#EXTINF:-1 ,Lai Châu HD
+udp://@225.1.4.140:30120
+#EXTINF:-1 ,Lâm Đồng
+udp://@225.1.4.141:30120
+#EXTINF:-1 ,Lạng Sơn
+udp://@225.1.4.142:30120
+#EXTINF:-1 ,Lào Cai
+udp://@225.1.4.143:30120
+#EXTINF:-1 ,Long An
+udp://@225.1.4.144:30120
+#EXTINF:-1 ,Nam Định
+udp://@225.1.4.145:30120
+#EXTINF:-1 ,Nghệ An
+udp://@225.1.4.146:30120
+#EXTINF:-1 ,Ninh Bình
+udp://@225.1.4.147:30120
+#EXTINF:-1 ,Quốc Hội HD
+udp://@225.1.4.148:30120
+#EXTINF:-1 ,Ninh Thuận
+udp://@225.1.4.149:30120
+#EXTINF:-1 ,Phú Thọ HD
+udp://@225.1.4.150:30120
+#EXTINF:-1 ,Phú Yên HD
+udp://@225.1.4.151:30120
+#EXTINF:-1 ,Quảng Bình HD
+udp://@225.1.4.152:30120
+#EXTINF:-1 ,Quảng Nam
+udp://@225.1.4.153:30120
+#EXTINF:-1 ,Quảng Ngãi
+udp://@225.1.4.154:30120
+#EXTINF:-1 ,Quảng Ninh
+udp://@225.1.4.155:30120
+#EXTINF:-1 ,Quảng Trị
+udp://@225.1.4.156:30120
+#EXTINF:-1 ,Sóc Trăng 1
+udp://@225.1.4.157:30120
+#EXTINF:-1 ,Sơn La
+udp://@225.1.4.158:30120
+#EXTINF:-1 ,Tây Ninh 11
+udp://@225.1.4.159:30120
+#EXTINF:-1 ,Thái Bình
+udp://@225.1.4.160:30120
+#EXTINF:-1 ,Thái Nguyên 1
+udp://@225.1.4.161:30120
+#EXTINF:-1 ,Thanh Hoá
+udp://@225.1.4.162:30120
+#EXTINF:-1 ,Tiền Giang
+udp://@225.1.4.163:30120
+#EXTINF:-1 ,Trà Vinh HD
+udp://@225.1.4.164:30120
+#EXTINF:-1 ,Tuyên Quang
+udp://@225.1.4.165:30120
+#EXTINF:-1 ,Vĩnh Phúc HD
+udp://@225.1.4.166:30120
+#EXTINF:-1 ,Yên Bái
+udp://@225.1.4.167:30120
+#EXTINF:-1 ,Animax
+udp://@225.1.4.168:30120
+#EXTINF:-1 ,QPVN
+udp://@225.1.4.170:30120
+#EXTINF:-1 ,An Giang
+udp://@225.1.4.171:30120
+#EXTINF:-1 ,Vũng Tàu HD
+udp://@225.1.4.172:30120
+#EXTINF:-1 ,Bắc Giang
+udp://@225.1.4.173:30120
+#EXTINF:-1 ,Bắc Kạn
+udp://@225.1.4.174:30120
+#EXTINF:-1 ,THVL3 HD
+udp://@225.1.4.176:30120
+#EXTINF:-1 ,Đồng Tháp 2
+udp://@225.1.4.177:30120
+#EXTINF:-1 ,Hải Phòng Plus HD
+udp://@225.1.4.178:30120
+#EXTINF:-1 ,VTV5 Tây Nguyên
+udp://@225.1.4.179:30120
+#EXTINF:-1 ,HBO
+udp://@225.1.4.183:30120
+#EXTINF:-1 ,VTV5 Tây Nam Bộ
+udp://@225.1.4.184:30120
+#EXTINF:-1 ,Giới Thiệu FPT
+udp://@225.1.4.200:30120
+#EXTINF:-1 ,VTV7
+udp://@225.1.4.201:30120
+#EXTINF:-1 ,THVL1
+udp://@225.1.4.202:30120
+#EXTINF:-1 ,Ha Noi 1
+udp://@225.1.4.203:30120
+#EXTINF:-1 ,Cinemax
+udp://@225.1.4.205:30120
+#EXTINF:-1 ,Baby TV
+udp://@225.1.4.207:30120
+#EXTINF:-1 ,Da Vinci
+udp://@225.1.4.208:30120
+#EXTINF:-1 ,Animal Planet
+udp://@225.1.4.209:30120
+#EXTINF:-1 ,Outdoor
+udp://@225.1.4.210:30120
+#EXTINF:-1 ,SCTV6
+udp://@225.1.4.211:30120
+#EXTINF:-1 ,France24
+udp://@225.1.4.212:30120
+#EXTINF:-1 ,TV5 Monde Asie
+udp://@225.1.4.213:30120
+#EXTINF:-1 ,KBS World
+udp://@225.1.4.214:30120
+#EXTINF:-1 ,National Geographic
+udp://@225.1.4.215:30120
+#EXTINF:-1 ,THVL4 HD
+udp://@225.1.4.217:30120
+#EXTINF:-1 ,VNEWS
+udp://@225.1.4.219:30120
+#EXTINF:-1 ,VOV TV
+udp://@225.1.4.220:30120
+#EXTINF:-1 ,ANTV HD
+udp://@225.1.4.221:30120
+#EXTINF:-1 ,HTVC Ca Nhac
+udp://@225.1.4.223:30120
+
