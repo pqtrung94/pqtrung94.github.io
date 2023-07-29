@@ -148,8 +148,6 @@ udp://@225.1.1.201:30120
 udp://@225.1.4.9:30120
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png",BabyTV
 udp://@225.1.4.207:30120
-#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png",BLOOMBERG
-udp://@225.1.4.18:30120
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", BOOMERANG
 udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", CARTOON NETWORK
@@ -160,7 +158,6 @@ udp://@225.1.4.13:30120
 udp://@225.1.4.25:30120
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Channel
 udp://@225.1.4.24:30120
-
 #EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png",Dreamworks 
 udp://@225.1.4.39:30120
 #EXTINF:-1 tvg-id="dw" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png",DW 
