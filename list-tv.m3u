@@ -106,7 +106,7 @@ udp://@225.1.4.98:30120
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://img.vnmedia.xyz/logo/quochoi.jpg", Quốc Hội HD
 udp://@225.1.4.148:30120
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://img.vnmedia.xyz/logo/haiphong.png", THP HD
-udp://@225.1.4.141:30120
+udp://@225.1.4.131:30120
 #EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD
 udp://@225.1.4.178:30120
 
