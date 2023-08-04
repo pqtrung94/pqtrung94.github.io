@@ -146,12 +146,14 @@ udp://@225.1.1.135:30120
 udp://@225.1.1.201:30120
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png",BabyTV
+udp://@225.1.2.146:30120
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", BOOMERANG
 udp://@225.1.1.138:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", CARTOON NETWORK
 udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci
-#udp://@225.1.1.197:30120
+udp://@225.1.1.197:30120
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Channel
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
