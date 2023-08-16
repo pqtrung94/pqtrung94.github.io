@@ -1,0 +1,174 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml, https://trada.info/epg.xml"
+
+
+#-*--VTV-*--#
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://trada.info/tv/logos/vtv1hd.jpg", VTV1
+udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://trada.info/tv/logos/vtv2hd.jpg", VTV2
+udp://@225.1.2.13:30120
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://trada.info/tv/logos/vtv3hd.jpg", VTV3
+udp://@225.1.2.247:30120
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="http://trada.info/tv/logos/vtv4hd.jpg", VTV4
+udp://@225.1.2.20:30120
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="http://trada.info/tv/logos/vtv5hd.jpg", VTV5
+udp://@225.1.1.131:30120
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img.vnmedia.xyz/logo/vtv6hd.jpg", VTV Cần Thơ
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://trada.info/tv/logos/vtv7hd.jpg", VTV7
+udp://@225.1.2.96:30120
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="http://trada.info/tv/logos/vtv8hd.jpg", VTV8
+udp://@225.1.2.166:30120
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://trada.info/tv/logos/vtv9hd.jpg", VTV9
+udp://@225.1.1.128:30120
+
+
+#-*--Khác-*--#
+
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="http://trada.info/tv/logos/vnews.jpg", VNEWS
+udp://@225.1.1.167:30120
+
+
+#-*--HTV&HTVC-*--#
+
+#EXTINF:-1 tvg-id="htv1" tvg-logo="http://trada.info/tv/logos/htv1.jpg", HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="http://trada.info/tv/logos/htv2hd.jpg", HTV2 - Vie Channel
+udp://@225.1.1.193:30120
+#EXTINF:-1 tvg-id="htv3" tvg-logo="http://trada.info/tv/logos/htv3.png", HTV3 - Dreams TV
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-id="htv4" tvg-logo="http://trada.info/tv/logos/htvkey.jpg", HTV Key
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://trada.info/tv/logos/htv7hd.jpg", HTV7 HD
+udp://@225.1.1.192:30120
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="http://trada.info/tv/logos/htv9hd.jpg", HTV9 HD
+udp://@225.1.1.190:30120
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="http://trada.info/tv/logos/htvthethaohd.jpg", HTV Thể Thao HD
+udp://@225.1.1.165:30120
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="http://trada.info/tv/logos/htvcthuanviet.jpg", HTVC Thuần Việt
+udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="http://trada.info/tv/logos/htvcgiadinhhd.jpg", HTVC Gia đình HD
+udp://@225.1.1.170:30120
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="http://trada.info/tv/logos/htvcphunuhd.jpg", HTVC Phụ nữ HD
+udp://@225.1.1.171:30120
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="http://trada.info/tv/logos/htvcdulichhd.jpg", HTVC Du lịch Cuộc sống HD
+udp://@225.1.1.166:30120
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="http://trada.info/tv/logos/htvccanhachd.jpg", HTVC Ca nhạc HD
+udp://@225.1.1.185:30120
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="http://trada.info/tv/logos/htvcphimhd.jpg", HTVC Phim HD
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="http://trada.info/tv/logos/htvcplushd.jpg", HTVC Plus HD
+udp://@225.1.1.181:30120
+
+
+
+#-*--VTC-*--#
+
+#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="http://trada.info/tv/logos/vtc1hd.jpg", VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-id="vtc2hd" tvg-logo="http://trada.info/tv/logos/vtc2hd.jpg", VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 tvg-id="vtc3hd" tvg-logo="http://trada.info/tv/logos/vtc3hd.jpg", VTC3 HD
+udp://@225.1.2.251:30120
+#EXTINF:-1 tvg-id="vtc4hd" tvg-logo="http://trada.info/tv/logos/vtc4hd.jpg", VTC4 HD
+udp://@225.1.2.200:30120
+#EXTINF:-1 tvg-id="vtc5hd" tvg-logo="http://trada.info/tv/logos/vtc5hd.jpg", VTC5 HD
+udp://@225.1.2.199:30120
+#EXTINF:-1 tvg-id="vtc6hd" tvg-logo="http://trada.info/tv/logos/vtc6hd.jpg", VTC6 HD
+udp://@225.1.2.198:30120
+#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="http://trada.info/tv/logos/vtc7hd.png", VTC7 HD - Today TV
+udp://@225.1.2.197:30120
+#EXTINF:-1 tvg-id="vtc8hd" tvg-logo="http://trada.info/tv/logos/vtc8hd.jpg", VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 tvg-id="vtc9hd" tvg-logo="http://trada.info/tv/logos/vtc9hd.jpg", VTC9 HD
+udp://@225.1.2.195:30120
+#EXTINF:-1 tvg-id="vtc10hd" tvg-logo="http://trada.info/tv/logos/vtc10hd.jpg", VTC10 HD
+udp://@225.1.2.194:30120
+#EXTINF:-1 tvg-id="vtc11hd" tvg-logo="http://trada.info/tv/logos/vtc11hd.jpg", VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 tvg-id="vtc12hd" tvg-logo="http://trada.info/tv/logos/vtc12hd.png", VTC12
+udp://@225.1.2.51:30120
+#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="http://trada.info/tv/logos/vtc13hd.jpg", VTC13 HD
+udp://@225.1.2.250:30120
+#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="http://trada.info/tv/logos/vtc14hd.jpg", VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1 tvg-id="vtc16hd" tvg-logo="http://trada.info/tv/logos/vtc16hd.jpg", VTC16 HD
+udp://@225.1.2.190:30120
+
+
+#-*--Thiết yếu-*--#
+
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="http://trada.info/tv/logos/antvhd.jpg", ANTV HD
+udp://@225.1.2.169:30120
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="http://trada.info/tv/logos/qpvnhd.jpg", QPVN HD
+udp://@225.1.2.217:30120
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="http://trada.info/tv/logos/nhandan.jpg", Nhân Dân TV
+udp://@225.1.1.91:30120
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="http://trada.info/tv/logos/quochoi.jpg", Quốc Hội HD
+udp://@225.1.2.148:30120
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="http://trada.info/tv/logos/haiphong.png", THP HD
+udp://@225.1.1.44:30120
+#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD
+udp://@225.1.1.113:30120
+
+
+#-*--THVL-*--#
+
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="http://trada.info/tv/logos/vinhlong1hd.jpg", THVL1 HD
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="http://trada.info/tv/logos/vinhlong2hd.jpg", THVL2 HD
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="http://trada.info/tv/logos/vinhlong3hd.jpg", THVL3 HD
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="http://trada.info/tv/logos/vinhlong4hd.jpg", THVL4 HD
+udp://@225.1.2.25:30120
+
+
+
+
+
+#-*--Quốc tế-*--#
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="http://trada.info/tv/logos/afnhd.jpg", Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="http://trada.info/tv/logos/animalhd.jpg", Animal Planet
+udp://@225.1.1.231:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="http://trada.info/tv/logos/hbohd.jpg", HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="http://trada.info/tv/logos/hbocinemax.jpg", Cinemax HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="http://trada.info/tv/logos/cinemaworld.jpg", Cinema World HD
+udp://@225.1.1.142:30120
+
+
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="http://trada.info/tv/logos/animaxhd.jpg", Animax
+udp://@225.1.1.135:30120
+#EXTINF:-1 tvg-id="ariang" tvg-logo="http://trada.info/tv/logos/arirang.jpg",Arirang 
+#udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="http://trada.info/tv/logos/axnhd.jpg", AXN
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="http://trada.info/tv/logos/babytvhd.jpg",BabyTV
+udp://@225.1.2.146:30120
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://trada.info/tv/logos/boomerang.jpg", BOOMERANG
+udp://@225.1.1.138:30120
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="http://trada.info/tv/logos/cartoonhd.jpg", CARTOON NETWORK
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-id="davinci" tvg-logo="http://trada.info/tv/logos/davinci.jpg", Da Vinci
+udp://@225.1.1.197:30120
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="http://trada.info/tv/logos/discoveryhd.jpg", Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="http://trada.info/tv/logos/discoveryasiahd.jpg", Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="http://trada.info/tv/logos/dreamworks.jpg",Dreamworks 
+udp://@225.1.1.136:30120
+#EXTINF:-1 tvg-id="dw" tvg-logo="http://trada.info/tv/logos/dw.jpg",DW 
+#udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-id="kix" tvg-logo="http://trada.info/tv/logos/kix.jpg", KIX
+udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="http://trada.info/tv/logos/ngwhd.jpg", NAT GEO WILD
+udp://@225.1.1.211:30120
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="http://trada.info/tv/logos/ngchd.jpg", NATIONAL GEOGRAPHIC HD
+udp://@225.1.2.235:30120
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="http://trada.info/tv/logos/outdoorhd.jpg",Outdoor Channel 
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://trada.info/tv/logos/warnertvhd.jpg",WBTV 
+udp://@225.1.1.139:30120
