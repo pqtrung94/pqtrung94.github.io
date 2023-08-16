@@ -89,7 +89,7 @@ udp://@225.1.2.193:30120
 udp://@225.1.2.51:30120
 #EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc13hd.jpg", VTC13 HD
 udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc4hd.jpg", VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://img.vnmedia.xyz/logo/vtc14hd.jpg", VTC14 HD
 udp://@225.1.2.88:30120
 #EXTINF:-1 tvg-id="vtc16" tvg-logo="https://img.vnmedia.xyz/logo/vtc16.jpg", VTC16 HD
 udp://@225.1.2.190:30120
