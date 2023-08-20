@@ -1,0 +1,174 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml, https://trada.info/epg.xml"
+
+
+#-*--VTV-*--#
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://meco.mytv.vn/static/channel/1.png", VTV1
+udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://meco.mytv.vn/static/channel/2.png", VTV2
+udp://@225.1.2.13:30120
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://meco.mytv.vn/static/channel/3.png", VTV3
+udp://@225.1.2.247:30120
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://meco.mytv.vn/static/channel/4.png", VTV4
+udp://@225.1.2.20:30120
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://meco.mytv.vn/static/channel/5.png", VTV5
+udp://@225.1.1.131:30120
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://meco.mytv.vn/static/channel/6.png", VTV Cần Thơ
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://meco.mytv.vn/static/channel/9.png", VTV7
+udp://@225.1.2.96:30120
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://meco.mytv.vn/static/channel/68.png", VTV8
+udp://@225.1.2.166:30120
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://meco.mytv.vn/static/channel/69.png", VTV9
+udp://@225.1.1.128:30120
+
+
+#-*--Khác-*--#
+
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://webapi.mytv.vn/static/channel/317.png", VNEWS
+udp://@225.1.1.167:30120
+
+
+#-*--HTV&HTVC-*--#
+
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://meco.mytv.vn/static/channel/10.png", HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://meco.mytv.vn/static/channel/93.png", HTV2 - Vie Channel
+udp://@225.1.1.193:30120
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://meco.mytv.vn/static/channel/87.png", HTV3 - Dreams TV
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-id="htv4" tvg-logo="https://meco.mytv.vn/static/channel/14.png", HTV Key
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://meco.mytv.vn/static/channel/94.png", HTV7 HD
+udp://@225.1.1.192:30120
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://meco.mytv.vn/static/channel/95.png", HTV9 HD
+udp://@225.1.1.190:30120
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://meco.mytv.vn/static/channel/15.png", HTV Thể Thao HD
+udp://@225.1.1.165:30120
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="http://trada.info/tv/logos/htvcthuanviet.jpg", HTVC Thuần Việt
+udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="http://trada.info/tv/logos/htvcgiadinhhd.jpg", HTVC Gia đình HD
+udp://@225.1.1.170:30120
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://meco.mytv.vn/static/channel/205.png", HTVC Phụ nữ HD
+udp://@225.1.1.171:30120
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://meco.mytv.vn/static/channel/144.png", HTVC Du lịch Cuộc sống HD
+udp://@225.1.1.166:30120
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://meco.mytv.vn/static/channel/107.png", HTVC Ca nhạc HD
+udp://@225.1.1.185:30120
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://meco.mytv.vn/static/channel/77.png", HTVC Phim HD
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://meco.mytv.vn/static/channel/168.png", HTVC Plus HD
+udp://@225.1.1.181:30120
+
+
+
+#-*--VTC-*--#
+
+#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://meco.mytv.vn/static/channel/20.png", VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-id="vtc2hd" tvg-logo="https://meco.mytv.vn/static/channel/21.png", VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://meco.mytv.vn/static/channel/83.png", VTC3 HD
+udp://@225.1.2.251:30120
+#EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://meco.mytv.vn/static/channel/186.png", VTC4 HD
+udp://@225.1.2.200:30120
+#EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://meco.mytv.vn/static/channel/187.png", VTC5 HD
+udp://@225.1.2.199:30120
+#EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://meco.mytv.vn/static/channel/23.png", VTC6 HD
+udp://@225.1.2.198:30120
+#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://meco.mytv.vn/static/channel/18.png", VTC7 HD - Today TV
+udp://@225.1.2.197:30120
+#EXTINF:-1 tvg-id="vtc8hd" tvg-logo="https://meco.mytv.vn/static/channel/164.png", VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://meco.mytv.vn/static/channel/189.png", VTC9 HD
+udp://@225.1.2.195:30120
+#EXTINF:-1 tvg-id="vtc10hd" tvg-logo="https://meco.mytv.vn/static/channel/116.png", VTC10 HD
+udp://@225.1.2.194:30120
+#EXTINF:-1 tvg-id="vtc11hd" tvg-logo="https://meco.mytv.vn/static/channel/26.png", VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 tvg-id="vtc12hd" tvg-logo="https://meco.mytv.vn/static/channel/210.png", VTC12
+udp://@225.1.2.51:30120
+#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://meco.mytv.vn/static/channel/78.png", VTC13 HD
+udp://@225.1.2.250:30120
+#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://meco.mytv.vn/static/channel/207.png", VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1 tvg-id="vtc16hd" tvg-logo="https://meco.mytv.vn/static/channel/206.png", VTC16 HD
+udp://@225.1.2.190:30120
+
+
+#-*--Thiết yếu-*--#
+
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://meco.mytv.vn/static/channel/35.png", ANTV HD
+udp://@225.1.2.169:30120
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://meco.mytv.vn/static/channel/127.png", QPVN HD
+udp://@225.1.2.217:30120
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://meco.mytv.vn/static/channel/80.png", Nhân Dân TV
+udp://@225.1.1.91:30120
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://meco.mytv.vn/static/channel/7.png", Quốc Hội HD
+udp://@225.1.2.148:30120
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://meco.mytv.vn/static/channel/159.png", THP HD
+udp://@225.1.1.44:30120
+#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://meco.mytv.vn/static/channel/149.png", THP+ HD
+udp://@225.1.1.113:30120
+
+
+#-*--THVL-*--#
+
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://meco.mytv.vn/static/channel/24.png", THVL1 HD
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://meco.mytv.vn/static/channel/28.png", THVL2 HD
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://meco.mytv.vn/static/channel/29.png", THVL3 HD
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://meco.mytv.vn/static/channel/57.png", THVL4 HD
+udp://@225.1.2.25:30120
+
+
+
+
+
+#-*--Quốc tế-*--#
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://meco.mytv.vn/static/channel/150.png", Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://meco.mytv.vn/static/channel/223.png", Animal Planet
+udp://@225.1.1.231:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://meco.mytv.vn/static/channel/173.png", HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://meco.mytv.vn/static/channel/174.png", Cinemax HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://meco.mytv.vn/static/channel/155.png", Cinema World HD
+udp://@225.1.1.142:30120
+
+
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://meco.mytv.vn/static/channel/204.png", Animax
+udp://@225.1.1.135:30120
+#EXTINF:-1 tvg-id="ariang" tvg-logo="https://meco.mytv.vn/static/channel/170.png",Arirang 
+#udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://meco.mytv.vn/static/channel/224.png", AXN
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://meco.mytv.vn/static/channel/163.png",BabyTV
+udp://@225.1.2.146:30120
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://trada.info/tv/logos/boomerang.jpg", BOOMERANG
+udp://@225.1.1.138:30120
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://meco.mytv.vn/static/channel/226.png", CARTOON NETWORK
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://meco.mytv.vn/static/channel/148.png", Da Vinci
+udp://@225.1.1.197:30120
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://meco.mytv.vn/static/channel/228.png", Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://meco.mytv.vn/static/channel/213.png", Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://meco.mytv.vn/static/channel/256.png",Dreamworks 
+udp://@225.1.1.136:30120
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://meco.mytv.vn/static/channel/136.png",DW 
+#udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-id="kix" tvg-logo="http://trada.info/tv/logos/kix.jpg", KIX
+udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="http://trada.info/tv/logos/ngwhd.jpg", NAT GEO WILD
+udp://@225.1.1.211:30120
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://meco.mytv.vn/static/channel/46.png", NATIONAL GEOGRAPHIC HD
+udp://@225.1.2.235:30120
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://meco.mytv.vn/static/channel/108.png",Outdoor Channel 
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://meco.mytv.vn/static/channel/151.png",WBTV 
+udp://@225.1.1.139:30120

@@ -1,0 +1,174 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml, https://trada.info/epg.xml"
+
+
+#-*--VTV-*--#
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://webapi.mytv.vn/static/channel/210.png", VTV1
+udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://webapi.mytv.vn/static/channel/377.png", VTV2
+udp://@225.1.2.13:30120
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://webapi.mytv.vn/static/channel/211.png", VTV3
+udp://@225.1.2.247:30120
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://webapi.mytv.vn/static/channel/378.png", VTV4
+udp://@225.1.2.20:30120
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://webapi.mytv.vn/static/channel/379.png", VTV5
+udp://@225.1.1.131:30120
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://webapi.mytv.vn/static/channel/212.png", VTV Cần Thơ
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://webapi.mytv.vn/static/channel/459.png", VTV7
+udp://@225.1.2.96:30120
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://webapi.mytv.vn/static/channel/380.png", VTV8
+udp://@225.1.2.166:30120
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://webapi.mytv.vn/static/channel/381.png", VTV9
+udp://@225.1.1.128:30120
+
+
+#-*--Khác-*--#
+
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://webapi.mytv.vn/static/channel/58.png", VNEWS
+udp://@225.1.1.167:30120
+
+
+#-*--HTV&HTVC-*--#
+
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://webapi.mytv.vn/static/channel/7.png", HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://webapi.mytv.vn/static/channel/8.png", HTV2 - Vie Channel
+udp://@225.1.1.193:30120
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://webapi.mytv.vn/static/channel/110.png", HTV3 - Dreams TV
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-id="htv4" tvg-logo="https://webapi.mytv.vn/static/channel/9.png", HTV Key
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://webapi.mytv.vn/static/channel/128.png", HTV7 HD
+udp://@225.1.1.192:30120
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://webapi.mytv.vn/static/channel/190.png", HTV9 HD
+udp://@225.1.1.190:30120
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://webapi.mytv.vn/static/channel/18.png", HTV Thể Thao HD
+udp://@225.1.1.165:30120
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://webapi.mytv.vn/static/channel/17.png", HTVC Thuần Việt
+udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://webapi.mytv.vn/static/channel/14.png", HTVC Gia đình HD
+udp://@225.1.1.170:30120
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://webapi.mytv.vn/static/channel/16.png", HTVC Phụ nữ HD
+udp://@225.1.1.171:30120
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://webapi.mytv.vn/static/channel/13.png", HTVC Du lịch Cuộc sống HD
+udp://@225.1.1.166:30120
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://webapi.mytv.vn/static/channel/12.png", HTVC Ca nhạc HD
+udp://@225.1.1.185:30120
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://webapi.mytv.vn/static/channel/15.png", HTVC Phim HD
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://webapi.mytv.vn/static/channel/384.png", HTVC Plus HD
+udp://@225.1.1.181:30120
+
+
+
+#-*--VTC-*--#
+
+#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://webapi.mytv.vn/static/channel/188.png", VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-id="vtc2hd" tvg-logo="https://webapi.mytv.vn/static/channel/20.png", VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://webapi.mytv.vn/static/channel/192.png", VTC3 HD
+udp://@225.1.2.251:30120
+#EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://webapi.mytv.vn/static/channel/396.png", VTC4 HD
+udp://@225.1.2.200:30120
+#EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://webapi.mytv.vn/static/channel/397.png", VTC5 HD
+udp://@225.1.2.199:30120
+#EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://webapi.mytv.vn/static/channel/22.png", VTC6 HD
+udp://@225.1.2.198:30120
+#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://webapi.mytv.vn/static/channel/398.png", VTC7 HD - Today TV
+udp://@225.1.2.197:30120
+#EXTINF:-1 tvg-id="vtc8hd" tvg-logo="https://webapi.mytv.vn/static/channel/24.png", VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://webapi.mytv.vn/static/channel/399.png", VTC9 HD
+udp://@225.1.2.195:30120
+#EXTINF:-1 tvg-id="vtc10hd" tvg-logo="https://webapi.mytv.vn/static/channel/29.png", VTC10 HD
+udp://@225.1.2.194:30120
+#EXTINF:-1 tvg-id="vtc11hd" tvg-logo="https://webapi.mytv.vn/static/channel/30.png", VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 tvg-id="vtc12hd" tvg-logo="https://webapi.mytv.vn/static/channel/463.png", VTC12
+udp://@225.1.2.51:30120
+#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://webapi.mytv.vn/static/channel/31.png", VTC13 HD
+udp://@225.1.2.250:30120
+#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://webapi.mytv.vn/static/channel/32.png", VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1 tvg-id="vtc16hd" tvg-logo="https://webapi.mytv.vn/static/channel/33.png", VTC16 HD
+udp://@225.1.2.190:30120
+
+
+#-*--Thiết yếu-*--#
+
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://webapi.mytv.vn/static/channel/35.png", ANTV HD
+udp://@225.1.2.169:30120
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://webapi.mytv.vn/static/channel/50.png", QPVN HD
+udp://@225.1.2.217:30120
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://webapi.mytv.vn/static/channel/224.png", Nhân Dân TV
+udp://@225.1.1.91:30120
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://webapi.mytv.vn/static/channel/223.png", Quốc Hội HD
+udp://@225.1.2.148:30120
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://webapi.mytv.vn/static/channel/407.png", THP HD
+udp://@225.1.1.44:30120
+#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://webapi.mytv.vn/static/channel/616.png", THP+ HD
+udp://@225.1.1.113:30120
+
+
+#-*--THVL-*--#
+
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://webapi.mytv.vn/static/channel/421.png", THVL1 HD
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://webapi.mytv.vn/static/channel/423.png", THVL2 HD
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://webapi.mytv.vn/static/channel/425.png", THVL3 HD
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://webapi.mytv.vn/static/channel/429.png", THVL4 HD
+udp://@225.1.2.25:30120
+
+
+
+
+
+#-*--Quốc tế-*--#
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://webapi.mytv.vn/static/channel/139.png", Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://webapi.mytv.vn/static/channel/62.png", Animal Planet
+udp://@225.1.1.231:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://webapi.mytv.vn/static/channel/76.png", HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://webapi.mytv.vn/static/channel/386.png", Cinemax HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://webapi.mytv.vn/static/channel/260.png", Cinema World HD
+udp://@225.1.1.142:30120
+
+
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://webapi.mytv.vn/static/channel/390.png", Animax
+udp://@225.1.1.135:30120
+#EXTINF:-1 tvg-id="ariang" tvg-logo="https://webapi.mytv.vn/static/channel/63.png",Arirang 
+#udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://webapi.mytv.vn/static/channel/65.png", AXN
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://webapi.mytv.vn/static/channel/382.png",BabyTV
+udp://@225.1.2.146:30120
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://trada.info/tv/logos/boomerang.jpg", BOOMERANG
+udp://@225.1.1.138:30120
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://webapi.mytv.vn/static/channel/67.png", CARTOON NETWORK
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://webapi.mytv.vn/static/channel/144.png", Da Vinci
+udp://@225.1.1.197:30120
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://webapi.mytv.vn/static/channel/71.png", Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://webapi.mytv.vn/static/channel/527.png", Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://webapi.mytv.vn/static/channel/553.png",Dreamworks 
+udp://@225.1.1.136:30120
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://webapi.mytv.vn/static/channel/73.png",DW 
+#udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-id="kix" tvg-logo="http://trada.info/tv/logos/kix.jpg", KIX
+udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="http://trada.info/tv/logos/ngwhd.jpg", NAT GEO WILD
+udp://@225.1.1.211:30120
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://webapi.mytv.vn/static/channel/101.png", NATIONAL GEOGRAPHIC HD
+udp://@225.1.2.235:30120
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://webapi.mytv.vn/static/channel/191.png",Outdoor Channel 
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://webapi.mytv.vn/static/channel/271.png",WBTV 
+udp://@225.1.1.139:30120
