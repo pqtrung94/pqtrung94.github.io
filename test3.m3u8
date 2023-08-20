@@ -129,7 +129,7 @@ udp://@225.1.2.25:30120
 #-*--Quốc tế-*--#
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/afn.jpg", Asian Food Network
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/anmal.jpg", Animal Planet
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animal.jpg", Animal Planet
 udp://@225.1.1.231:30120
 
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hbo.jpg", HBO HD
