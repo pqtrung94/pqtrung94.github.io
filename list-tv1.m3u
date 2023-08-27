@@ -148,7 +148,7 @@ udp://@225.1.4.168:30120
 udp://@225.1.4.9:30120
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/babytv.jpg",BabyTV
 udp://@225.1.4.207:30120
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/boomerang.jpg", BOOMERANG
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoonito.jpg", CARTOONITO
 udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoon.jpg", CARTOON NETWORK
 udp://@225.1.4.13:30120
