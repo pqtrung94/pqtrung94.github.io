@@ -4,4 +4,4 @@
 # [List TV 4mbps](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/list-tv1.m3u)
 # [List IPTV VTTivi](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/list-iptv.m3u)
 # [List IPTV BearTV](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/list-bear-tv.m3u)
-# [List VTVCab SCTV](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/list-vtvcab-sctv.m3u)
+# [List Phim](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/list-phim.m3u)
