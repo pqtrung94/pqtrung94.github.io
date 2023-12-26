@@ -153,8 +153,9 @@ udp://@225.1.3.18:30120
 udp://@225.1.3.63:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoon.jpg", CARTOON NETWORK
 udp://@225.1.3.17:30120
+
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/davinci.jpg", Da Vinci
-udp://@225.1.3.40:30120
+
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discovery.jpg", Discovery Channel
 udp://@225.1.3.40:30120
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discoveryasia.jpg", Discovery Asia
