@@ -44,20 +44,21 @@ udp://@225.1.4.59:30120
 udp://@225.1.4.11:30120
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvthethao.jpg", HTV Thể Thao HD
 udp://@225.1.4.60:30120
-#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcthuanviet.jpg", HTVC Thuần Việt
-udp://@225.1.4.62:30120
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcdulich.jpg", HTVC Du lịch Cuộc sống HD
+udp://@225.1.4.67:30120
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcgiadinh.jpg", HTVC Gia đình HD
 udp://@225.1.4.64:30120
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcphunu.jpg", HTVC Phụ nữ HD
 udp://@225.1.4.66:30120
-#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcdulich.jpg", HTVC Du lịch Cuộc sống HD
-udp://@225.1.4.67:30120
-#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvccanhac.jpg", HTVC Ca nhạc HD
-udp://@225.1.4.223:30120
-#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcphim.jpg", HTVC Phim HD
-udp://@225.1.4.63:30120
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcplus.jpg", HTVC Plus HD
 udp://@225.1.4.91:30120
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcphim.jpg", HTVC Phim HD
+udp://@225.1.4.63:30120
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvccanhac.jpg", HTVC Ca nhạc HD
+udp://@225.1.4.223:30120
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/htvcthuanviet.jpg", HTVC Thuần Việt
+udp://@225.1.4.62:30120
+
 
 
 
@@ -144,34 +145,40 @@ udp://@225.1.3.81:30120
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animax.jpg", Animax
 udp://@225.1.4.168:30120
-#EXTINF:-1 tvg-id="ariang" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ariang.jpg",Arirang 
-#udp://@225.1.4.74:30120
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/axn.jpg", AXN
 udp://@225.1.4.9:30120
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/babytv.jpg",BabyTV
-#udp://@225.1.4.207:30120
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/bbcearth.jpg",BBC Earth
+udp://@225.1.4.21:30120
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoonito.jpg", CARTOONITO
 udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoon.jpg", CARTOON NETWORK
 udp://@225.1.4.13:30120
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/davinci.jpg", Da Vinci
-#udp://@225.1.4.208:30120
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discovery.jpg", Discovery Channel
 udp://@225.1.4.24:30120
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discoveryasia.jpg", Discovery Asia
 udp://@225.1.4.25:30120
 #EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/dreamworks.jpg",Dreamworks 
 udp://@225.1.4.39:30120
-#EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/dw.jpg",DW 
-#udp://@225.1.4.75:30120
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/kix.jpg", KIX
-#udp://@225.1.4.40:30120
-udp://@225.1.3.76:30120
-#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ngw.jpg", NAT GEO WILD
-#udp://@225.1.4.215:30120
-#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ngc.jpg", NATIONAL GEOGRAPHIC HD
-#udp://@225.1.4.83:30120
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/outdoorhd.jpg",Outdoor Channel 
 udp://@225.1.4.210:30120
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/wbtv.jpg",WBTV 
 udp://@225.1.4.14:30120
+
+
+
+
+#EXTINF:-1 tvg-id="ariang" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ariang.jpg",Arirang 
+#udp://@225.1.4.74:30120
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/babytv.jpg",BabyTV
+#udp://@225.1.4.207:30120
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/davinci.jpg", Da Vinci
+#udp://@225.1.4.208:30120
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/dw.jpg",DW 
+#udp://@225.1.4.75:30120
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/kix.jpg", KIX
+#udp://@225.1.4.40:30120
+#udp://@225.1.3.76:30120
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ngw.jpg", NAT GEO WILD
+#udp://@225.1.4.215:30120
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ngc.jpg", NATIONAL GEOGRAPHIC HD
+#udp://@225.1.4.83:30120
