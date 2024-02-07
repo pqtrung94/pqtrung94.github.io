@@ -135,17 +135,16 @@ udp://@225.1.2.148:30120
 
 
 #-*--Quốc tế-*--#
-#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discovery.jpg", Discovery Channel
-udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discoveryasia.jpg", Discovery Asia
-udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hbo.jpg", HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/wbtv.jpg",WBTV 
+udp://@225.1.1.139:30120
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/afn.jpg", Asian Food Network
 udp://@225.1.1.198:30120
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animal.jpg", Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hbo.jpg", HBO HD
-udp://@225.1.2.233:30120
+
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemax.jpg", Cinemax HD
 #udp://@225.1.2.86:30120
@@ -153,8 +152,6 @@ udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemaworld.jpg", Cinema World HD
 #udp://@225.1.1.142:30120
 #udp://@225.1.3.81:30120
-
-
 
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animax.jpg", Animax
@@ -167,13 +164,15 @@ udp://@225.1.2.24:30120
 udp://@225.1.1.138:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoon.jpg", CARTOON NETWORK
 udp://@225.1.2.231:30120
-
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discovery.jpg", Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discoveryasia.jpg", Discovery Asia
+udp://@225.1.2.223:30120
 #EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/dreamworks.jpg",Dreamworks 
 udp://@225.1.1.136:30120
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/outdoorhd.jpg",Outdoor Channel 
 udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/wbtv.jpg",WBTV 
-udp://@225.1.1.139:30120
+
 
 
 
