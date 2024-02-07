@@ -86,30 +86,16 @@ udp://@225.1.4.48:30120
 udp://@225.1.4.49:30120
 #EXTINF:-1 tvg-id="vtc11hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc11.jpg", VTC11
 udp://@225.1.4.50:30120
+
 #EXTINF:-1 tvg-id="vtc12hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc12.jpg", VTC12
-udp://@225.1.4.51:30120
+#udp://@225.1.4.51:30120
 #EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc13.jpg", VTC13 HD
-udp://@225.1.4.52:30120
+#udp://@225.1.4.52:30120
+
 #EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc14.jpg", VTC14 HD
 udp://@225.1.4.53:30120
 #EXTINF:-1 tvg-id="vtc16hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc16.jpg", VTC16 HD
 udp://@225.1.4.54:30120
-
-
-#-*--Thiết yếu-*--#
-
-#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/antv.jpg", ANTV HD
-udp://@225.1.4.221:30120
-#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/qpvn.jpg", QPVN HD
-udp://@225.1.4.170:30120
-#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ndtv.jpg", Nhân Dân TV
-udp://@225.1.4.98:30120
-#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/qhtv.jpg", Quốc Hội HD
-udp://@225.1.4.148:30120
-#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/thp.jpg", THP HD
-udp://@225.1.4.131:30120
-#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/thpplus.jpg", THP+ HD
-udp://@225.1.4.178:30120
 
 
 #-*--THVL-*--#
@@ -126,8 +112,36 @@ udp://@225.1.4.217:30120
 
 
 
+#-*--Thiết yếu-*--#
+
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/antv.jpg", ANTV HD
+udp://@225.1.4.221:30120
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/qpvn.jpg", QPVN HD
+udp://@225.1.4.170:30120
+
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/thp.jpg", THP HD
+udp://@225.1.4.131:30120
+#EXTINF:-1 tvg-id="haiphongplus" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/thpplus.jpg", THP+ HD
+udp://@225.1.4.178:30120
+
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ndtv.jpg", Nhân Dân TV
+udp://@225.1.4.98:30120
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/qhtv.jpg", Quốc Hội HD
+udp://@225.1.4.148:30120
+
+
+
+
+
+
 
 #-*--Quốc tế-*--#
+
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discovery.jpg", Discovery Channel
+udp://@225.1.4.24:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discoveryasia.jpg", Discovery Asia
+udp://@225.1.4.25:30120
+
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/afn.jpg", Asian Food Network
 udp://@225.1.4.36:30120
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animal.jpg", Animal Planet
@@ -137,10 +151,10 @@ udp://@225.1.4.209:30120
 udp://@225.1.4.90:30120
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemax.jpg", Cinemax HD
 #udp://@225.1.4.205:30120
-udp://@225.1.3.14:30120
+#udp://@225.1.3.14:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemaworld.jpg", Cinema World HD
 #udp://@225.1.4.15:30120
-udp://@225.1.3.81:30120
+#udp://@225.1.3.81:30120
 
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animax.jpg", Animax
@@ -153,10 +167,7 @@ udp://@225.1.4.21:30120
 udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoon.jpg", CARTOON NETWORK
 udp://@225.1.4.13:30120
-#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discovery.jpg", Discovery Channel
-udp://@225.1.4.24:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/discoveryasia.jpg", Discovery Asia
-udp://@225.1.4.25:30120
+
 #EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/dreamworks.jpg",Dreamworks 
 udp://@225.1.4.39:30120
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/outdoorhd.jpg",Outdoor Channel 
