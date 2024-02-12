@@ -114,7 +114,7 @@ udp://@225.1.2.25:30120
 
 #EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vovtvhd.png",VOV TV
 udp://@225.1.2.171:30120
-#EXTINF:-1 tvg-id="SCTV6hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/sctv6hd.png",SCTV 6
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/sctv6hd.png",SCTV 6
 udp://@225.1.1.188:30120
 
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/thp.jpg", THP HD
