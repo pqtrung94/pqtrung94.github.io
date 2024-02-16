@@ -144,19 +144,19 @@ udp://@225.1.1.231:30120
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hbo.jpg", HBO HD
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemax.jpg", Cinemax HD
-#udp://@225.1.2.86:30120
-#udp://@225.1.3.14:30120
+http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemaworld.jpg", Cinema World HD
-#udp://@225.1.1.142:30120
-#udp://@225.1.3.81:30120
+
 
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animax.jpg", Animax
 udp://@225.1.1.135:30120
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/axn.jpg", AXN
 udp://@225.1.2.225:30120
+
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/bbcearth.jpg",BBC Earth
-udp://@225.1.2.24:30120
+#udp://@225.1.2.24:30120
+
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoonito.jpg", CARTOONITO
 udp://@225.1.1.138:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoon.jpg", CARTOON NETWORK
@@ -179,13 +179,4 @@ udp://@225.1.1.139:30120
 #udp://@225.1.1.201:30120
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/babytv.jpg",BabyTV
 #udp://@225.1.2.146:30120
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/davinci.jpg", Da Vinci
-#udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/dw.jpg",DW 
-#udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/kix.jpg", KIX
-#udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ngw.jpg", NAT GEO WILD
-#udp://@225.1.1.211:30120
-#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ngc.jpg", NATIONAL GEOGRAPHIC HD
-#udp://@225.1.2.235:30120
+
