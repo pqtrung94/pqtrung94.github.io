@@ -15,7 +15,7 @@ http://viettel.nekocdn.xyz/VTV5/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 http://viettel.nekocdn.xyz/VTVCT/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
-https://code.vthanhtivi.pw/getlink/vtvgo/27/playlist.m3u8
+http://vcis.nekocdn.xyz/VTV7/mpegts
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 http://viettel.nekocdn.xyz/VTV8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
@@ -30,7 +30,7 @@ https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
 #-*--HTV&HTVC-*--#
 
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
-https://htvc271120.cdn.vnns.io/0cc5e3ee3e252e5859a3b7e35c5fb3461708351939/htv1.720p.nimble.tms/chunks.m3u8
+https://code.vthanhtivi.pw/getlink/htv/htv1-2631/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2 - Vie Channel
 https://code.vthanhtivi.pw/getlink/htv/htv2-hd-2669/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png", HTV3
