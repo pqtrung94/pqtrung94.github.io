@@ -87,10 +87,6 @@ udp://@225.1.2.194:30120
 #EXTINF:-1 tvg-id="vtc11hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc11.jpg", VTC11
 udp://@225.1.2.193:30120
 
-#EXTINF:-1 tvg-id="vtc12hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc12.jpg", VTC12
-#udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc13.jpg", VTC13 HD
-#udp://@225.1.2.250:30120
 
 #EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc14.jpg", VTC14 HD
 udp://@225.1.2.88:30120
@@ -174,9 +170,4 @@ udp://@225.1.1.139:30120
 
 
 
-
-#EXTINF:-1 tvg-id="ariang" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/ariang.jpg",Arirang 
-#udp://@225.1.1.201:30120
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/babytv.jpg",BabyTV
-#udp://@225.1.2.146:30120
 
