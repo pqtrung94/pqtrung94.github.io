@@ -144,14 +144,29 @@ http://viettel.nekocdn.xyz/HBO/index.m3u8
 http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/boxmovie1.jpg" ,BOX MOVIE 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hollywoodclassics.jpg",HOLLYWOOD CLASSICS
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:-1 tvg-id="happykids" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/happykids.jpg",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animax.jpg", Animax
 udp://@225.1.1.135:30120
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/axn.jpg", AXN
 udp://@225.1.2.225:30120
-
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/bbcearth.jpg",BBC Earth
 #udp://@225.1.2.24:30120
-
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoonito.jpg", CARTOONITO
 udp://@225.1.1.138:30120
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cartoon.jpg", CARTOON NETWORK
