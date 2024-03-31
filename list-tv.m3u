@@ -138,11 +138,10 @@ udp://@225.1.1.198:30120
 udp://@225.1.1.231:30120
 
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hbo.jpg", HBO HD
-udp://@225.1.2.233:30120
+http://viettel.nekocdn.xyz/HBO/index.m3u8
+###udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemax.jpg", Cinemax HD
-http://fpt.vthanhtivi.pw/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemaworld.jpg", Cinema World HD
-
+http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animax.jpg", Animax
