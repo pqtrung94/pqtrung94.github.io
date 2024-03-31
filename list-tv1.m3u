@@ -145,12 +145,12 @@ udp://@225.1.4.36:30120
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animal.jpg", Animal Planet
 udp://@225.1.4.209:30120
 
-#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hbo.jpg", HBO HD
-udp://@225.1.4.90:30120
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemax.jpg", Cinemax HD
-http://fpt.vthanhtivi.pw/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemaworld.jpg", Cinema World HD
 
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hbo.jpg", HBO HD
+http://viettel.nekocdn.xyz/HBO/index.m3u8
+###udp://@225.1.4.90:30120
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemax.jpg", Cinemax HD
+http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animax.jpg", Animax
