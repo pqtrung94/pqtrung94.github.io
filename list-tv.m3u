@@ -60,8 +60,6 @@ udp://@225.1.1.185:30120
 udp://@225.1.1.186:30120
 
 
-
-
 #-*--VTC-*--#
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc1.jpg", VTC1 HD
@@ -87,12 +85,10 @@ udp://@225.1.2.194:30120
 #EXTINF:-1 tvg-id="vtc11hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc11.jpg", VTC11
 udp://@225.1.2.193:30120
 
-
 #EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc14.jpg", VTC14 HD
 udp://@225.1.2.88:30120
 #EXTINF:-1 tvg-id="vtc16hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vtc16.jpg", VTC16 HD
 udp://@225.1.2.190:30120
-
 
 
 #-*--THVL-*--#
@@ -105,6 +101,7 @@ udp://@225.1.1.154:30120
 udp://@225.1.1.235:30120
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/thvl4.jpg", THVL4 HD
 udp://@225.1.2.25:30120
+
 
 #-*--Thiết yếu-*--#
 
@@ -128,8 +125,6 @@ udp://@225.1.1.91:30120
 udp://@225.1.2.148:30120
 
 
-
-
 #-*--Quốc tế-*--#
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/afn.jpg", Asian Food Network
@@ -143,8 +138,6 @@ http://viettel.nekocdn.xyz/HBO/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemax.jpg", Cinemax HD
 http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/boxmovie1.jpg" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
@@ -157,9 +150,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/animax.jpg", Animax
 udp://@225.1.1.135:30120
@@ -181,7 +171,3 @@ udp://@225.1.1.136:30120
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/wbtv.jpg",WBTV 
 udp://@225.1.1.139:30120
-
-
-
-
