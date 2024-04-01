@@ -10,9 +10,13 @@
 #EXTVLCOPT:http-referer=https://sctvonline.vn/    
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 
+#EXTINF:-1 tvg-id="VTV2" tvg-logo="",VTV2 (1080p)
+http://str1.cvtv.xyz/vtv2
+
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/      
+#https://edge1.laotv.la/live/VTV3/sc-gaFECQ/v1_index.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -267,3 +271,22 @@ http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id=""" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",AXN
+http://viettel.nekocdn.xyz/AXN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Cartoon Network
+http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Cinemax
+http://viettel.nekocdn.xyz/Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",HBO
+http://viettel.nekocdn.xyz/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",History
+http://viettel.nekocdn.xyz/History/index.m3u8
+
+
+
