@@ -145,9 +145,9 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thnhandan/index.m3u8
 https://playlive.qpvn.vn/live/qpvn.m3u8
 
 
-#EXTINF:-1 ,Asian Food Network HD
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 udp://@225.1.3.47:30120
-#EXTINF:-1 ,Animal Planet HD
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
 udp://@225.1.3.27:30120
 
 
