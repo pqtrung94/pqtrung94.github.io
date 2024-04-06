@@ -133,10 +133,10 @@ udp://@225.1.1.198:30120
 udp://@225.1.1.231:30120
 
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/hbo.jpg", HBO HD
-http://viettel.nekocdn.xyz/HBO/index.m3u8
-###udp://@225.1.2.233:30120
+#http://viettel.nekocdn.xyz/HBO/index.m3u8
+udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/cinemax.jpg", Cinemax HD
-http://viettel.nekocdn.xyz/Cinemax/index.m3u8
+#http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/boxmovie1.jpg" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
