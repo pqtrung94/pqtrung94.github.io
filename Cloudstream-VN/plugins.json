@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 11361,
         "status": 1,
         "language": "vi",
@@ -14,13 +14,13 @@
         ],
         "version": 1,
         "internalName": "AnimeHayProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/AnimeHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 15616,
         "status": 1,
         "language": "vi",
@@ -35,13 +35,13 @@
         ],
         "version": 1,
         "internalName": "BluphimProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/BluphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/BluphimProvider.cs3",
         "name": "BluphimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 13485,
         "status": 1,
         "language": "vi",
@@ -53,13 +53,13 @@
         ],
         "version": 2,
         "internalName": "HHPandaProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/HHPandaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
     },
     {
         "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 15038,
         "status": 1,
         "language": "vi",
@@ -74,13 +74,13 @@
         ],
         "version": 2,
         "internalName": "KKPhimProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/KKPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 14052,
         "status": 0,
         "language": "vi",
@@ -95,13 +95,13 @@
         ],
         "version": 2,
         "internalName": "MotchillProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/MotchillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/MotchillProvider.cs3",
         "name": "MotchillProvider"
     },
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 14827,
         "status": 1,
         "language": "vi",
@@ -116,13 +116,13 @@
         ],
         "version": 3,
         "internalName": "NguonCProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/NguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 15081,
         "status": 1,
         "language": "vi",
@@ -137,13 +137,13 @@
         ],
         "version": 5,
         "internalName": "OPhimProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/OPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/OPhimProvider.cs3",
         "name": "OPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 15051,
         "status": 1,
         "language": "vi",
@@ -158,13 +158,13 @@
         ],
         "version": 1,
         "internalName": "PhimLongTiengProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/PhimLongTiengProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 15054,
         "status": 1,
         "language": "vi",
@@ -179,13 +179,13 @@
         ],
         "version": 1,
         "internalName": "PhimmoichillProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/PhimmoichillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/tree/main/Cloudstream-VN",
+        "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
         "fileSize": 12275,
         "status": 1,
         "language": "vi",
@@ -200,7 +200,7 @@
         ],
         "version": 2,
         "internalName": "SubnhanhProvider",
-        "url": "https://github.com/pqtrung94/pqtrung94.github.io/raw/main/Cloudstream-VN/SubnhanhProvider.cs3",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/SubnhanhProvider.cs3",
         "name": "SubnhanhProvider"
     }
 ]
