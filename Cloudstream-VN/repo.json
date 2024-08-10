@@ -3,6 +3,6 @@
     "description": "Vietnamese Extension Beta",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/plugins.json"
+      "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/plugins.json"
     ]
 }
