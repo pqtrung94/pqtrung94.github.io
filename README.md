@@ -3,3 +3,4 @@
 # [List TV 4mbps](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/list-tv1.m3u)
 # [List IPTV](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/list-iptv.m3u)
 # [Cloudstream VN](https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream.VN.json)
+# [Cloudstream VN (codeberg)](https://codeberg.org/pqtrung94/Cloudstream.VN/raw/branch/main/repo.json)
