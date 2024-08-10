@@ -1,0 +1,8 @@
+{
+    "name": "Vietnamese Extension Beta",
+    "description": "Vietnamese Extension Beta",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/plugins.json"
+    ]
+}
