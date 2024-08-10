@@ -1,6 +1,6 @@
 {
-    "name": "Vietnamese Extension Beta",
-    "description": "Vietnamese Extension Beta",
+    "name": "Vietnamese Extension",
+    "description": "Vietnamese Extension",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/plugins.json"
