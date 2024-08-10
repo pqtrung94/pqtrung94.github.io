@@ -3,11 +3,11 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 11361,
+        "fileSize": 11175,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "Anime"
@@ -21,11 +21,11 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 15616,
+        "fileSize": 15460,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -42,11 +42,11 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 13485,
+        "fileSize": 13401,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "Anime"
@@ -57,14 +57,14 @@
         "name": "HHPandaProvider"
     },
     {
-        "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hotphimvn.cc&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 15038,
+        "fileSize": 15269,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -72,20 +72,20 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
-        "internalName": "KKPhimProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/KKPhimProvider.cs3",
-        "name": "KKPhimProvider"
+        "version": 1,
+        "internalName": "HotphimProvider",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/HotphimProvider.cs3",
+        "name": "HotphimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 14052,
+        "fileSize": 13736,
         "status": 0,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -99,14 +99,13 @@
         "name": "MotchillProvider"
     },
     {
-        "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 14827,
+        "fileSize": 27824,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -114,41 +113,37 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
-        "internalName": "NguonCProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/NguonCProvider.cs3",
-        "name": "NguonCProvider"
+        "version": 2,
+        "internalName": "NguonPhimProvider",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/NguonPhimProvider.cs3",
+        "name": "NguonPhimProvider"
     },
     {
-        "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 15081,
+        "fileSize": 15498,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
+            "NSFW"
         ],
-        "version": 5,
-        "internalName": "OPhimProvider",
-        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/OPhimProvider.cs3",
-        "name": "OPhimProvider"
+        "version": 1,
+        "internalName": "NsfwProvider",
+        "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/NsfwProvider.cs3",
+        "name": "NsfwProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 15051,
+        "fileSize": 14974,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -156,7 +151,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "PhimLongTiengProvider",
         "url": "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
@@ -165,11 +160,11 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 15054,
+        "fileSize": 15004,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -186,11 +181,11 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pqtrung94/pqtrung94.github.io/main/Cloudstream-VN",
-        "fileSize": 12275,
+        "fileSize": 12207,
         "status": 1,
         "language": "vi",
         "authors": [
-            "PQT"
+            "anhdadendaden"
         ],
         "tvTypes": [
             "AsianDrama",
