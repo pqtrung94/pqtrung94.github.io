@@ -1,0 +1,129 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
+
+
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V1.png",VTV1
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtv1?token=live
+#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V2.png",VTV2
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtv2?token=live
+#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V3.png",VTV3
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtv3?token=live
+#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V4.png",VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv4/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V5.png",VTV5
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtv5?token=live
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png",VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtvct?token=live
+#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V7.png",VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V8.png",VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V9.png",VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv9/index.m3u8
+
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/VNEWS.png",VNews — Truyền Hình Thông Tấn Xã Việt Nam
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" group-logo="https://teohdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV1.png",HTV1
+https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:-1 tvg-id="htv2" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV2.png",HTV2
+https://vc.101vn.com/htv/htvcmb.php?id=2669
+#EXTINF:-1 tvg-id="htv3" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV3.png",HTV3
+https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV4.png",HTV Key
+https://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV7.png",HTV7
+https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV9.png",HTV9
+https://vc.101vn.com/htv/htvcmb.php?id=2667
+#EXTINF:-1 group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/COOP.png",HTV CO.OP
+#https://vc.101vn.com/htv/htvcmb.php?id=31973
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://teohdtv.github.io/thumbs/HTV/THETHAO.png",HTV Thể Thao
+https://thvip.site/htvtt/index.m3u8
+
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/CANHAC.png",HTVC Ca Nhạc
+https://thvip.site/canhac/index.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/DULICH.png",HTVC Du Lịch và Cuộc Sống
+https://thvip.site/dulich/index.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/GIADINH.png",HTVC Gia Đình
+https://thvip.site/giadinh/index.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/phim.png",HTVC Phim
+https://thvip.site/htvcphim/index.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/PHUNU.png",HTVC Phụ Nữ
+https://thvip.site/phunu/index.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/thuan_viet.png",HTVC Thuần Việt
+https://thvip.site/thuanviet/index.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/htvc_plus.png",HTVC+
+https://thvip.site/htvcplus/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+#EXTINF:-1 tvg-id="vtc2hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC2.png",VTC2
+https://thvip.site/vtc2/index.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC3.png",VTC3
+https://thvip.site/vtc3/index.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC4.png",VTC4
+https://thvip.site/vtc4/index.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC5.png",VTC5
+https://thvip.site/vtc5/index.m3u8
+#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC6.png",VTC6
+https://thvip.site/vtc6/index.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC7.png",VTC7 — todayTV
+https://thvip.site/today/index.m3u8
+#EXTINF:-1 tvg-id="vtc8hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC8.png",VTC8
+https://thvip.site/vtc8/index.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC9.png",VTC9
+https://thvip.site/vtc9/index.m3u8
+#EXTINF:-1 tvg-id="vtc10hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC10.png",VTC10
+https://thvip.site/vtc10/index.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC11.png",VTC11
+https://thvip.site/vtc11/index.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC14.png",VTC14
+https://thvip.site/vtc14/index.m3u8
+#EXTINF:-1 tvg-id="vtc16hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC16.png",VTC16
+https://thvip.site/vtc16/index.m3u8
+
+
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV1.png",ON Vie Giải Trí
+https://thvip.site/vtvcab1/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
+https://thvip.site/vtvcab19/index.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/THVL1.png",THVL1 | TH Vĩnh Long
+https://thvip.site/vinhlong1/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/THVL2.png",THVL2 | TH Vĩnh Long
+https://thvip.site/vl2/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/THVL3.png",THVL3 | TH Vĩnh Long
+https://thvip.site/vl3/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/THVL1.png",THVL4 | TH Vĩnh Long
+https://thvip.site/vl4/index.m3u8
+
+
+#EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hai_phong.png",THP HD | TH Hải Phòng
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+#EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hai_phong_plus.png",THP+ HD | TH Hải Phòng
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://teohdtv.github.io/thumbs/National/QHTV.png",Quốc Hội
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/ANTV.png",ANTV
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/NDTV.png",Nhân Dân
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/QPVN.png",QPVN
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+
+
+
+
