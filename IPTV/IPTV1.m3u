@@ -108,10 +108,6 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=290
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=215
 #EXTINF:-1, Planet Earth HD
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=135
-#EXTINF:-1, DaVinci HD
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=214
-#EXTINF:-1, Outdoor Channel HD
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=216
 #EXTINF:-1, Box Movie 1
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=159
 #EXTINF:-1, Hollywood Classics
@@ -120,8 +116,8 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=160
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
 #EXTINF:-1 tvg-id="boxhits", Box Hits
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
-#EXTINF:-1, Happy Kids HD
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=212
+#EXTINF:-1, France 24 English
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=96
 #EXTINF:-1, HGTV
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=99
 #EXTINF:-1, NHK WORLD
@@ -136,15 +132,20 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=111
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=162
 #EXTINF:-1, Woman HD
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=163
+#EXTINF:-1, Happy Kids HD
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=212
 #EXTINF:-1, KBS World
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=213
+#EXTINF:-1, DaVinci HD
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=214
+#EXTINF:-1, Outdoor Channel HD
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=216
 #EXTINF:-1, MAN HD
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=237
 #EXTINF:-1, Music Box HD
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=289
 #EXTINF:-1, History HD
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
-
 
 
 #EXTINF:-1, VTC1 HD
@@ -167,6 +168,8 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=202
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=203
 #EXTINF:-1, VTC10
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=204
+#EXTINF:-1, VTC11
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=205
 #EXTINF:-1, VTC14 HD
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=17
 #EXTINF:-1, VTC16
@@ -187,5 +190,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=49
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=232
 #EXTINF:-1, BTV9
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=151
-#EXTINF:-1, Home Shopping
+#EXTINF:-1, ON Home Shopping
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=27
+#EXTINF:-1, ON Golf
+#http://hoatv001.ddns.net:8002/ott/tv360.php?id=169
