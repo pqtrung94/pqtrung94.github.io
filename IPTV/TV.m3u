@@ -23,9 +23,8 @@ udp://@225.1.1.128:30120
 
 
 #-*--Khác-*--#
-
-#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vnews.jpg", VNEWS
-udp://@225.1.1.167:30120
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/sctv6hd.png",SCTV 6
+udp://@225.1.1.188:30120
 
 
 #-*--HTV&HTVC-*--#
@@ -107,8 +106,8 @@ udp://@225.1.2.25:30120
 
 #EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vovtvhd.png",VOV TV
 udp://@225.1.2.171:30120
-#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/sctv6hd.png",SCTV 6
-udp://@225.1.1.188:30120
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/vnews.jpg", VNEWS
+udp://@225.1.1.167:30120
 
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/thp.jpg", THP HD
 udp://@225.1.1.44:30120
