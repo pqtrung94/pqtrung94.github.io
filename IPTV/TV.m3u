@@ -32,7 +32,7 @@ udp://@225.1.1.167:30120
 udp://@225.1.1.180:30120
 #EXTINF:-1 tvg-id="htv2hd", HTV2 - Vie Channel
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3" HTV3 - Dreams TV
+#EXTINF:-1 tvg-id="htv3", HTV3 - Dreams TV
 udp://@225.1.1.178:30120
 #EXTINF:-1 tvg-id="htvkey", HTV Key
 udp://@225.1.1.177:30120
@@ -132,7 +132,7 @@ udp://@225.1.1.231:30120
 
 #EXTINF:-1 tvg-id="hbohd", HBO HD
 udp://@225.1.1.112:30120
-udp://@225.1.2.233:30120
+#udp://@225.1.2.233:30120
 
 #EXTINF:-1 tvg-id="boxmovie1",BOX MOVIE 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
