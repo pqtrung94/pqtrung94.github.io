@@ -102,11 +102,12 @@ udp://@225.1.2.25:30120
 
 #-*--Thiết yếu-*--#
 
-#EXTINF:-1 tvg-id="vovtvhd",VOV TV
-udp://@225.1.2.171:30120
-#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
-udp://@225.1.1.188:30120
 
+
+#EXTINF:0 tvg-id="danang1", Đà Nẵng 1
+udp://@225.1.1.147:30120
+#EXTINF:0 tvg-id="danang2", Đà Nẵng 2
+udp://@225.1.1.146:30120
 
 #EXTINF:-1 tvg-id="haiphong", THP HD
 udp://@225.1.1.44:30120
@@ -168,3 +169,8 @@ udp://@225.1.1.136:30120
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="warnertvhd",WBTV 
 udp://@225.1.1.139:30120
+
+#EXTINF:-1 tvg-id="vovtvhd",VOV TV
+#udp://@225.1.2.171:30120
+#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
+udp://@225.1.1.188:30120
