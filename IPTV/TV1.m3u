@@ -1,0 +1,175 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml, https://trada.info/epg.xml"
+
+
+#-*--VTV-*--#
+#EXTINF:-1 tvg-id="vtv1hd", VTV1
+udp://@225.1.4.1:30120
+#EXTINF:-1 tvg-id="vtv2hd", VTV2
+udp://@225.1.4.2:30120
+#EXTINF:-1 tvg-id="vtv3hd", VTV3
+udp://@225.1.4.3:30120
+#EXTINF:-1 tvg-id="vtv4hd", VTV4
+udp://@225.1.4.4:30120
+#EXTINF:-1 tvg-id="vtv5hd", VTV5
+udp://@225.1.4.5:30120
+#EXTINF:-1 tvg-id="vtv6hd", VTV Cần Thơ
+udp://@225.1.4.108:30120
+#EXTINF:-1 tvg-id="vtv7hd", VTV7
+udp://@225.1.4.201:30120
+#EXTINF:-1 tvg-id="vtv8hd", VTV8
+udp://@225.1.4.7:30120
+#EXTINF:-1 tvg-id="vtv9hd", VTV9
+udp://@225.1.4.8:30120
+
+
+#-*--Khác-*--#
+#EXTINF:-1 tvg-id="ttxvnhd", VNEWS
+udp://@225.1.4.219:30120
+
+
+#-*--HTV&HTVC-*--#
+
+#EXTINF:-1 tvg-id="htv1", HTV1
+udp://@225.1.4.55:30120
+#EXTINF:-1 tvg-id="htv2hd", HTV2 - Vie Channel
+udp://@225.1.3.13:30120
+#EXTINF:-1 tvg-id="htv3", HTV3 - Dreams TV
+udp://@225.1.4.57:30120
+#EXTINF:-1 tvg-id="htvkey", HTV Key
+udp://@225.1.4.58:30120
+#EXTINF:-1 tvg-id="htv7hd", HTV7 HD
+udp://@225.1.4.59:30120
+#EXTINF:-1 tvg-id="htv9hd", HTV9 HD
+udp://@225.1.4.11:30120
+#EXTINF:-1 tvg-id="htvthethaohd", HTV Thể Thao HD
+udp://@225.1.4.60:30120
+#EXTINF:-1 tvg-id="htvcdulichhd", HTVC Du lịch Cuộc sống HD
+udp://@225.1.4.67:30120
+#EXTINF:-1 tvg-id="htvcgiadinhhd", HTVC Gia đình HD
+udp://@225.1.4.64:30120
+#EXTINF:-1 tvg-id="htvcphunuhd", HTVC Phụ nữ HD
+udp://@225.1.4.66:30120
+#EXTINF:-1 tvg-id="htvcplushd", HTVC Plus HD
+udp://@225.1.4.91:30120
+#EXTINF:-1 tvg-id="htvcphimhd", HTVC Phim HD
+udp://@225.1.4.63:30120
+#EXTINF:-1 tvg-id="htvccanhachd", HTVC Ca nhạc HD
+udp://@225.1.4.223:30120
+#EXTINF:-1 tvg-id="htvcthuanviet", HTVC Thuần Việt
+udp://@225.1.4.62:30120
+
+
+#-*--VTC-*--#
+
+#EXTINF:-1 tvg-id="vtc1hd", VTC1 HD
+udp://@225.1.3.50:30120
+#EXTINF:-1 tvg-id="vtc2", VTC2
+udp://@225.1.4.41:30120
+#EXTINF:-1 tvg-id="vtc3hd", VTC3 HD
+udp://@225.1.4.42:30120
+#EXTINF:-1 tvg-id="vtc4hd", VTC4 HD
+udp://@225.1.4.43:30120
+#EXTINF:-1 tvg-id="vtc5hd", VTC5 HD
+udp://@225.1.4.44:30120
+#EXTINF:-1 tvg-id="vtc6hd", VTC6 HD
+udp://@225.1.4.45:30120
+#EXTINF:-1 tvg-id="vtc7hd", VTC7 HD - Today TV
+udp://@225.1.4.46:30120
+#EXTINF:-1 tvg-id="vtc8", VTC8
+udp://@225.1.4.47:30120
+#EXTINF:-1 tvg-id="vtc9hd", VTC9 HD
+udp://@225.1.4.48:30120
+#EXTINF:-1 tvg-id="vtc10", VTC10 HD
+udp://@225.1.4.49:30120
+#EXTINF:-1 tvg-id="vtc11hd", VTC11
+udp://@225.1.4.50:30120
+#EXTINF:-1 tvg-id="vtc14hd", VTC14 HD
+udp://@225.1.4.53:30120
+#EXTINF:-1 tvg-id="vtc16", VTC16 HD
+udp://@225.1.4.54:30120
+
+
+#-*--THVL-*--#
+
+#EXTINF:-1 tvg-id="vinhlong1hd", THVL1 HD
+udp://@225.1.4.202:30120
+#EXTINF:-1 tvg-id="vinhlong2hd", THVL2 HD
+udp://@225.1.4.87:30120
+#EXTINF:-1 tvg-id="vinhlong3hd", THVL3 HD
+udp://@225.1.4.176:30120
+#EXTINF:-1 tvg-id="vinhlong4hd", THVL4 HD
+udp://@225.1.4.217:30120
+
+
+#-*--Thiết yếu-*--#
+
+#EXTINF:0 tvg-id="danang1", Đà Nẵng 1
+udp://@225.1.4.120:30120
+#EXTINF:0 tvg-id="danang2", Đà Nẵng 2
+udp://@225.1.4.121:30120
+#EXTINF:-1 tvg-id="haiphong", THP HD
+udp://@225.1.4.131:30120
+#EXTINF:-1 tvg-id="haiphongplus", THP+ HD
+udp://@225.1.4.178:30120
+
+#EXTINF:-1 tvg-id="antvhd", ANTV HD
+udp://@225.1.4.221:30120
+#EXTINF:-1 tvg-id="qpvnhd", QPVN HD
+udp://@225.1.4.170:30120
+#EXTINF:-1 tvg-id="nhandan", Nhân Dân TV
+udp://@225.1.4.98:30120
+#EXTINF:-1 tvg-id="quochoi", Quốc Hội HD
+udp://@225.1.4.148:30120
+
+
+#-*--Quốc tế-*--#
+
+#EXTINF:-1 tvg-id="afnhd", Asian Food Network
+udp://@225.1.4.36:30120
+#EXTINF:-1 tvg-id="animalhd", Animal Planet
+udp://@225.1.4.209:30120
+
+#EXTINF:-1 tvg-id="hbohd", HBO HD
+udp://@225.1.3.10:30120
+#udp://@225.1.4.90:30120
+
+#EXTINF:-1 tvg-id="boxmovie1",BOX MOVIE 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics",HOLLYWOOD CLASSICS
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:-1 tvg-id="happykids",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+
+#EXTINF:-1 tvg-id="animaxhd", Animax
+udp://@225.1.4.168:30120
+#EXTINF:-1 tvg-id="axnhd", AXN
+udp://@225.1.4.9:30120
+#EXTINF:-1 tvg-id="bbcearth",BBC Earth
+#udp://@225.1.4.21:30120
+#EXTINF:-1 tvg-id="boomerang", CARTOONITO
+udp://@225.1.4.16:30120
+#EXTINF:-1 tvg-id="cartoonhd", CARTOON NETWORK
+udp://@225.1.4.13:30120
+#EXTINF:-1 tvg-id="discoveryhd", Discovery Channel
+udp://@225.1.4.24:30120
+#EXTINF:-1 tvg-id="discoveryasiahd", Discovery Asia
+udp://@225.1.4.25:30120
+#EXTINF:-1 tvg-id="dreamworks",Dreamworks 
+udp://@225.1.4.39:30120
+#EXTINF:-1 tvg-id="outdoorhd",Outdoor Channel 
+udp://@225.1.4.210:30120
+#EXTINF:-1 tvg-id="warnertvhd",WBTV 
+udp://@225.1.4.14:30120
+
+
+
+#EXTINF:-1 tvg-id="vovtvhd",VOV TV
+#udp://@225.1.4.220:30120
+#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
+udp://@225.1.4.211:30120
