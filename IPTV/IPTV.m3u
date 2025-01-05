@@ -98,15 +98,15 @@ https://tv.TruyenHinh.Click/CoBan/149/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/120/TuyetDoiKhongKinhDoanh
 
 
-#EXTINF:-1 tvg-id="htvl1" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/htvl1/KenhCoBan",Vĩnh Long 1
-https://tv.TruyenHinh.Click/CoBan/htvl1/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="thvl2" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl2/KenhCoBan",Vĩnh Long 2
-https://tv.TruyenHinh.Click/CoBan/thvl2/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="thvl3" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl3/KenhCoBan",Vĩnh Long 3
-https://tv.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="thvl4" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl4/KenhCoBan",Vĩnh Long 4
-https://tv.TruyenHinh.Click/CoBan/thvl4/TuyetDoiKhongKinhDoanh
 
+#EXTINF:-1 tvg-id="quochoi" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/quochoi/KenhCoBan",Kênh quốc hội HD
+https://tv.TruyenHinh.Click/CoBan/quochoi/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/antvhd/KenhCoBan",ANTV
+https://tv.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/qpvnhd/KenhCoBan",QPVN HD
+https://tv.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="nhandan" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/nhandan/KenhCoBan",Nhân Dân
+https://tv.TruyenHinh.Click/CoBan/nhandan/TuyetDoiKhongKinhDoanh
 
 
 
@@ -164,22 +164,24 @@ https://tv.TruyenHinh.Click/CoBan/121/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="137" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/137/KenhCoBan",Đà Nẵng
 https://tv.TruyenHinh.Click/CoBan/137/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/htvl1/KenhCoBan",Vĩnh Long 1
+https://tv.TruyenHinh.Click/CoBan/thvl1/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl2/KenhCoBan",Vĩnh Long 2
+https://tv.TruyenHinh.Click/CoBan/thvl2/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl3/KenhCoBan",Vĩnh Long 3
+https://tv.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl4/KenhCoBan",Vĩnh Long 4
+https://tv.TruyenHinh.Click/CoBan/thvl4/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hdtn/KenhCoBan",VTV5 Tây Nguyên
 https://tv.TruyenHinh.Click/CoBan/vtv5hdtn/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hdtnb/KenhCoBan",VTV5 Tây Nam Bộ
 https://tv.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="VovTVhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/VovTVhd/KenhBoSung",VOV TV
 https://tv.TruyenHinh.Click/BoSung/VovTVhd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="quochoi" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/quochoi/KenhCoBan",Kênh quốc hội HD
-https://tv.TruyenHinh.Click/CoBan/quochoi/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/antvhd/KenhCoBan",ANTV
-https://tv.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/qpvnhd/KenhCoBan",QPVN HD
-https://tv.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="nhandan" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/nhandan/KenhCoBan",Nhân Dân
-https://tv.TruyenHinh.Click/CoBan/nhandan/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="qdnd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/qdnd/KenhCoBan",QĐND (Sự kiện trực tiếp)
 https://tv.TruyenHinh.Click/CoBan/qdnd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://tv.truyenhinh.click/Logo/vtc1hd/KenhCoBan",VTC1 HD
 https://tv.TruyenHinh.Click/CoBan/vtc1hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtc2hd" group-title="VTC" tvg-logo="https://tv.truyenhinh.click/Logo/vtc2hd/KenhCoBan",VTC2
