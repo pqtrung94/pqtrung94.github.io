@@ -20,7 +20,7 @@ https://tv.TruyenHinh.Click/CoBan/vtv8hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv9hd/KenhCoBan",VTV9 HD
 https://tv.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh
 
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/ttxvnhd/KenhBoSung",VNews
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/vnews/KenhBoSung",VNews
 https://tv.TruyenHinh.Click/BoSung/TTXVN/TruyenHinh.Click
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
