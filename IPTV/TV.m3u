@@ -57,10 +57,15 @@ udp://@225.1.1.181:30120
 
 
 
+#-*--Thiết yếu-*--#
+
+#EXTINF:-1 tvg-id="antvhd", ANTV HD
+udp://@225.1.2.169:30120
+#EXTINF:-1 tvg-id="qpvnhd", QPVN HD
+udp://@225.1.2.217:30120
 
 
-
-#-*--THVL-*--#
+#-*--Địa Phương-*--#
 
 #EXTINF:-1 tvg-id="vinhlong1hd", THVL1 HD
 udp://@225.1.1.155:30120
@@ -70,14 +75,6 @@ udp://@225.1.1.154:30120
 udp://@225.1.1.235:30120
 #EXTINF:-1 tvg-id="vinhlong4hd", THVL4 HD
 udp://@225.1.2.25:30120
-
-
-#-*--Thiết yếu-*--#
-
-#EXTINF:-1 ,Hanoi 1
-udp://@225.1.2.186:30120
-#EXTINF:-1 ,Hanoi 2 HD
-udp://@225.1.1.125:30120
 
 #EXTINF:0 tvg-id="danang1", Đà Nẵng 1
 udp://@225.1.1.147:30120
@@ -89,96 +86,94 @@ udp://@225.1.1.44:30120
 #EXTINF:-1 tvg-id="haiphongplus", THP+ HD
 udp://@225.1.1.113:30120
 
-#EXTINF:-1 tvg-id="antvhd", ANTV HD
-udp://@225.1.2.169:30120
-#EXTINF:-1 tvg-id="qpvnhd", QPVN HD
-udp://@225.1.2.217:30120
 
 
 
 
-
-
-
-
-#-*--Quốc tế-*--#
-
-
-
-#EXTINF:-1 ,Animal Planet
-udp://@225.1.1.231:30120
-#EXTINF:-1 ,Cinemax
-udp://@225.1.2.86:30120
-#EXTINF:-1 ,HBO
-udp://@225.1.2.54:30120
+#---QUÓC TẾ 1---#
+#EXTINF:-1 tvg-id="hbohd", HBO HD
+#udp://@225.1.2.54:30120
 #udp://@225.1.2.233:30120
-#udp://@225.1.1.112:30120
-#EXTINF:-1 ,CinemaWorld
+udp://@225.1.1.112:30120
+#EXTINF:-1 tvg-id="cinemaxhd", Cinemax HD
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="cinemaworldhd",Cinema World HD
 udp://@225.1.1.142:30120
-#EXTINF:-1 ,Animax
-udp://@225.1.2.44:30120
-#udp://@225.1.1.135:30120
-#EXTINF:-1 ,ABC Autralia
-udp://@225.1.2.21:30120
-#EXTINF:-1 ,BBC Earth
-udp://@225.1.2.24:30120
-#EXTINF:-1 ,BBC Lifestyle
-udp://@225.1.2.52:30120
-#EXTINF:-1 ,BBC New World
-udp://@225.1.2.74:30120
-#EXTINF:-1 ,CBeebies BBC
-udp://@225.1.2.39:30120
-#udp://@225.1.1.134:30120
-#EXTINF:-1 ,Dreamwork
-udp://@225.1.2.48:30120
-#udp://@225.1.1.136:30120
-#EXTINF:-1 ,Bloomberg
-udp://@225.1.2.91:30120
-#udp://@225.1.1.138:30120
-#EXTINF:-1 ,Fashion TV
-udp://@225.1.2.117:30120
-#udp://@225.1.2.227:30120
-#EXTINF:-1 ,Asian food Chanel
-udp://@225.1.1.198:30120
-#EXTINF:-1 ,KIX
+#EXTINF:-1 ,KIX HD
 udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="warnertvhd",WBTV
+udp://@225.1.1.139:30120
 #EXTINF:-1 ,Baby TV
 udp://@225.1.2.146:30120
-#EXTINF:-1 ,France 24
-udp://@225.1.2.211:30120
-#EXTINF:-1 ,Outdoor Chanel
-udp://@225.1.2.215:30120
-#EXTINF:-1 ,Discovery Asia
-udp://@225.1.2.223:30120
-#EXTINF:-1 ,AXN
-udp://@225.1.2.225:30120
-#EXTINF:-1 ,Cartoon network
+#EXTINF:-1 tvg-id="cartoonhd",Cartoon network
 udp://@225.1.2.231:30120
-#EXTINF:-1 ,National Gegraphic HD
-udp://@225.1.2.235:30120
-#EXTINF:-1 ,DW
-udp://@225.1.1.46:30120
-#EXTINF:-1 ,WBTV
-udp://@225.1.1.139:30120
-#EXTINF:-1 ,KBS World
-udp://@225.1.1.196:30120
-#EXTINF:-1 ,Da Vinci
-udp://@225.1.1.197:30120
-#EXTINF:-1 ,TV5 Monde Asie
-udp://@225.1.1.200:30120
-#EXTINF:-1 ,Ariang
-udp://@225.1.1.201:30120
-#EXTINF:-1 ,Chanel New Asia
-udp://@225.1.1.202:30120
-#EXTINF:-1 ,Wild Asia
-udp://@225.1.1.211:30120
-#EXTINF:-1 ,CNBC
-udp://@225.1.1.227:30120
-#EXTINF:-1 ,TLC
-udp://@225.1.1.236:30120
-#EXTINF:-1 ,Discovery
+#EXTINF:-1 tvg-id="boomerang",Cartoonito
+udp://@225.1.1.138:30120
+#EXTINF:-1 tvg-id="dreamworks",Dreamwork
+udp://@225.1.2.48:30120
+#udp://@225.1.1.136:30120
+#---QUỐC TẾ 2---#
+
+#EXTINF:-1 tvg-id="animalhd",Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-id="discoveryasiahd",Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="discoveryhd",Discovery
 udp://@225.1.1.238:30120
-#EXTINF:-1 ,CNN
+#EXTINF:-1 tvg-id="outdoorhd",Outdoor Chanel
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="",National Gegraphic HD
+udp://@225.1.2.235:30120
+#EXTINF:-1 tvg-id="davinci",Da Vinci
+udp://@225.1.1.197:30120
+
+#EXTINF:-1 tvg-id="afnhd",Asian food Chanel
+udp://@225.1.1.198:30120
+
+
+
+
+#EXTINF:-1 tvg-id="",Animax
+#udp://@225.1.2.44:30120
+#udp://@225.1.1.135:30120
+#EXTINF:-1 tvg-id="abcaustralia",ABC Autralia
+udp://@225.1.2.21:30120
+#EXTINF:-1 tvg-id="bbcearth",BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:-1 tvg-id="bbclifestyle",BBC Lifestyle
+udp://@225.1.2.52:30120
+#EXTINF:-1 tvg-id="bbcworldnews",BBC New World
+udp://@225.1.2.74:30120
+#EXTINF:-1 tvg-id="cbeebies",CBeebies BBC
+udp://@225.1.2.39:30120
+#udp://@225.1.1.134:30120
+
+
+#EXTINF:-1 tvg-id="bloomberg",Bloomberg
+udp://@225.1.2.91:30120
+
+
+#EXTINF:-1 tvg-id="fashionhd",Fashion TV
+udp://@225.1.2.117:30120
+#udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-id="france24eng",France 24
+udp://@225.1.2.211:30120
+#EXTINF:-1 tvg-id="axnhd",AXN
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="dw",DW
+udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-id="kbsworld",KBS World
+udp://@225.1.1.196:30120
+#EXTINF:-1 tvg-id="tv5monde",TV5 Monde Asie
+udp://@225.1.1.200:30120
+
+#EXTINF:-1 tvg-id="",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 tvg-id="",TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 tvg-id="cnn",CNN
 udp://@225.1.1.242:30120
-#EXTINF:-1 ,NHK World
+#EXTINF:-1 tvg-id="arirang",Ariang
+udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-id="nhkworld",NHK World
 udp://@225.1.1.47:30120
