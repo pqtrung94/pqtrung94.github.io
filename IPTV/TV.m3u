@@ -112,7 +112,8 @@ udp://@225.1.1.138:30120
 udp://@225.1.1.136:30120
 
 #---QUỐC TẾ 2---#
-
+#EXTINF:-1 tvg-id="axnhd", AXN
+udp://@225.1.2.225:30120
 #EXTINF:-1 tvg-id="animalhd", Animal Planet HD
 udp://@225.1.1.231:30120
 #EXTINF:-1 tvg-id="discoveryasiahd", Discovery Asia HD
@@ -123,37 +124,11 @@ udp://@225.1.1.238:30120
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="davinci", DaVinci HD
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="arirang", Ariang
-udp://@225.1.1.201:30120
-#EXTINF:-1 tvg-id="nhkworld", NHK World
-udp://@225.1.1.47:30120
+#EXTINF:-1 tvg-id="fashionhd", Fashion TV HD
+udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="afnhd", AFN HD
 udp://@225.1.1.198:30120
 
 
 
 
-#EXTINF:-1 tvg-id="abcaustralia", ABC Autralia
-udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="bbcearth", BBC Earth
-udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="bbclifestyle", BBC Lifestyle
-udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-id="bbcworldnews",BBC New World
-udp://@225.1.2.74:30120
-#EXTINF:-1 tvg-id="bloomberg", Bloomberg
-udp://@225.1.2.91:30120
-#EXTINF:-1 tvg-id="fashionhd", Fashion TV HD
-udp://@225.1.2.227:30120
-#EXTINF:-1 tvg-id="france24eng", France 24 EN
-udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="axnhd", AXN
-udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="dw", DW
-udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-id="kbsworld", KBS World
-udp://@225.1.1.196:30120
-#EXTINF:-1 tvg-id="tv5monde", TV5 Monde
-udp://@225.1.1.200:30120
-#EXTINF:-1 tvg-id="cnn", CNN
-udp://@225.1.1.242:30120
