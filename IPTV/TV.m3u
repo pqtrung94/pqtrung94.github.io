@@ -21,10 +21,8 @@ udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd", VTV9
 udp://@225.1.1.128:30120
 
-
-#-*--Khác-*--#
-#EXTINF:-1 tvg-id="ttxvnhd", VNEWS
-udp://@225.1.1.167:30120
+#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
+udp://@225.1.1.188:30120
 
 #-*--HTV&HTVC-*--#
 
@@ -58,35 +56,6 @@ udp://@225.1.1.185:30120
 udp://@225.1.1.186:30120
 
 
-#-*--VTC-*--#
-
-#EXTINF:-1 tvg-id="vtc1hd", VTC1 HD
-udp://@225.1.2.254:30120
-#EXTINF:-1 tvg-id="vtc2", VTC2
-udp://@225.1.2.202:30120
-#EXTINF:-1 tvg-id="vtc3hd", VTC3 HD
-udp://@225.1.2.251:30120
-#EXTINF:-1 tvg-id="vtc4hd", VTC4 HD
-udp://@225.1.2.200:30120
-#EXTINF:-1 tvg-id="vtc5hd", VTC5 HD
-udp://@225.1.2.199:30120
-#EXTINF:-1 tvg-id="vtc6hd", VTC6 HD
-udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="vtc7hd", VTC7 HD - Today TV
-udp://@225.1.2.197:30120
-#EXTINF:-1 tvg-id="vtc8", VTC8
-udp://@225.1.2.196:30120
-#EXTINF:-1 tvg-id="vtc9hd", VTC9 HD
-udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-id="vtc10", VTC10 HD
-udp://@225.1.2.194:30120
-#EXTINF:-1 tvg-id="vtc11", VTC11
-udp://@225.1.2.193:30120
-#EXTINF:-1 tvg-id="vtc14hd", VTC14 HD
-udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="vtc16", VTC16 HD
-udp://@225.1.2.190:30120
-
 
 #-*--THVL-*--#
 
@@ -118,10 +87,12 @@ udp://@225.1.1.113:30120
 udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-id="qpvnhd", QPVN HD
 udp://@225.1.2.217:30120
-#EXTINF:-1 tvg-id="nhandan", Nhân Dân TV
-udp://@225.1.1.91:30120
-#EXTINF:-1 tvg-id="quochoi", Quốc Hội HD
-udp://@225.1.2.148:30120
+
+
+
+
+
+
 
 
 #-*--Quốc tế-*--#
@@ -134,25 +105,17 @@ udp://@225.1.1.231:30120
 #EXTINF:-1 tvg-id="hbohd", HBO HD
 udp://@225.1.1.112:30120
 #udp://@225.1.2.233:30120
-
-#EXTINF:-1 tvg-id="boxmovie1",BOX MOVIE 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics",HOLLYWOOD CLASSICS
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-#EXTINF:-1 tvg-id="happykids",Happy Kids
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-
+#EXTINF:-1 ,Cinemax
+udp://@225.1.2.86:30120
+#EXTINF:-1 ,CinemaWorld
+udp://@225.1.1.142:30120
 
 #EXTINF:-1 tvg-id="animaxhd", Animax
 udp://@225.1.1.135:30120
 #EXTINF:-1 tvg-id="axnhd", AXN
 udp://@225.1.2.225:30120
+#EXTINF:-1 ,ABC Autralia
+udp://@225.1.2.21:30120
 #EXTINF:-1 tvg-id="bbcearth",BBC Earth
 #udp://@225.1.2.24:30120
 #EXTINF:-1 tvg-id="boomerang", CARTOONITO
@@ -170,7 +133,87 @@ udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="warnertvhd",WBTV 
 udp://@225.1.1.139:30120
 
-#EXTINF:-1 tvg-id="vovtvhd",VOV TV
-#udp://@225.1.2.171:30120
-#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
-udp://@225.1.1.188:30120
+
+#EXTINF:-1 tvg-id="boxmovie1",BOX MOVIE 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics",HOLLYWOOD CLASSICS
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:-1 tvg-id="happykids",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+
+#EXTINF:-1 ,Animax
+udp://@225.1.2.44:30120
+#EXTINF:-1 ,Animax
+udp://@225.1.1.135:30120
+#EXTINF:-1 ,ABC Autralia
+udp://@225.1.2.21:30120
+#EXTINF:-1 ,BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:-1 ,BBC Lifestyle
+udp://@225.1.2.52:30120
+#EXTINF:-1 ,BBC New World
+udp://@225.1.2.74:30120
+#EXTINF:-1 ,CBeebies BBC
+udp://@225.1.2.39:30120
+#EXTINF:-1 ,CBeebies BBC
+udp://@225.1.1.134:30120
+#EXTINF:-1 ,Dreamwork
+udp://@225.1.2.48:30120
+#EXTINF:-1 ,Dreamwork
+udp://@225.1.1.136:30120
+#EXTINF:-1 ,Bloomberg
+udp://@225.1.2.91:30120
+#EXTINF:-1 ,Boomerang
+udp://@225.1.1.138:30120
+#EXTINF:-1 ,Fashion TV
+udp://@225.1.2.117:30120
+#EXTINF:-1 ,Fashion TV
+udp://@225.1.2.227:30120
+#EXTINF:-1 ,KIX
+udp://@225.1.2.144:30120
+#EXTINF:-1 ,Baby TV
+udp://@225.1.2.146:30120
+#EXTINF:-1 ,France 24
+udp://@225.1.2.211:30120
+#EXTINF:-1 ,Outdoor Chanel
+udp://@225.1.2.215:30120
+#EXTINF:-1 ,Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:-1 ,AXN
+udp://@225.1.2.225:30120
+#EXTINF:-1 ,Cartoon network
+udp://@225.1.2.231:30120
+#EXTINF:-1 ,National Gegraphic HD
+udp://@225.1.2.235:30120
+#EXTINF:-1 ,DW
+udp://@225.1.1.46:30120
+#EXTINF:-1 ,WBTV
+udp://@225.1.1.139:30120
+#EXTINF:-1 ,KBS World
+udp://@225.1.1.196:30120
+#EXTINF:-1 ,Da Vinci
+udp://@225.1.1.197:30120
+#EXTINF:-1 ,TV5 Monde Asie
+udp://@225.1.1.200:30120
+#EXTINF:-1 ,Ariang
+udp://@225.1.1.201:30120
+#EXTINF:-1 ,Chanel New Asia
+udp://@225.1.1.202:30120
+#EXTINF:-1 ,Wild Asia
+udp://@225.1.1.211:30120
+#EXTINF:-1 ,CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 ,TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 ,Discovery
+udp://@225.1.1.238:30120
+#EXTINF:-1 ,CNN
+udp://@225.1.1.242:30120
+#EXTINF:-1 ,NHK World
+udp://@225.1.1.47:30120
