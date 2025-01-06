@@ -40,20 +40,23 @@ udp://@225.1.1.192:30120
 udp://@225.1.1.190:30120
 #EXTINF:-1 tvg-id="htvthethaohd", HTV Thể Thao HD
 udp://@225.1.1.165:30120
-#EXTINF:-1 tvg-id="htvcdulichhd", HTVC Du lịch Cuộc sống HD
-udp://@225.1.1.166:30120
+#EXTINF:-1 tvg-id="htvcphimhd", HTVC Phim HD
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-id="htvcthuanviethd", HTVC Thuần Việt
+udp://@225.1.1.186:30120
 #EXTINF:-1 tvg-id="htvcgiadinhhd", HTVC Gia đình HD
 udp://@225.1.1.170:30120
 #EXTINF:-1 tvg-id="htvcphunuhd", HTVC Phụ nữ HD
 udp://@225.1.1.171:30120
-#EXTINF:-1 tvg-id="htvcplushd", HTVC Plus HD
-udp://@225.1.1.181:30120
-#EXTINF:-1 tvg-id="htvcphimhd", HTVC Phim HD
-udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-id="htvcdulichhd", HTVC Du lịch Cuộc sống HD
+udp://@225.1.1.166:30120
 #EXTINF:-1 tvg-id="htvccanhachd", HTVC Ca nhạc HD
 udp://@225.1.1.185:30120
-#EXTINF:-1 tvg-id="htvcthuanviethd", HTVC Thuần Việt
-udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-id="htvcplushd", HTVC Plus HD
+udp://@225.1.1.181:30120
+
+
+
 
 
 
@@ -71,7 +74,10 @@ udp://@225.1.2.25:30120
 
 #-*--Thiết yếu-*--#
 
-
+#EXTINF:-1 ,Hanoi 1
+udp://@225.1.2.186:30120
+#EXTINF:-1 ,Hanoi 2 HD
+udp://@225.1.1.125:30120
 
 #EXTINF:0 tvg-id="danang1", Đà Nẵng 1
 udp://@225.1.1.147:30120
@@ -97,60 +103,21 @@ udp://@225.1.2.217:30120
 
 #-*--Quốc tế-*--#
 
-#EXTINF:-1 tvg-id="afnhd", Asian Food Network
-udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="animalhd", Animal Planet
-udp://@225.1.1.231:30120
 
-#EXTINF:-1 tvg-id="hbohd", HBO HD
-udp://@225.1.1.112:30120
-#udp://@225.1.2.233:30120
+
+#EXTINF:-1 ,Animal Planet
+udp://@225.1.1.231:30120
 #EXTINF:-1 ,Cinemax
 udp://@225.1.2.86:30120
+#EXTINF:-1 ,HBO
+udp://@225.1.2.54:30120
+#udp://@225.1.2.233:30120
+#udp://@225.1.1.112:30120
 #EXTINF:-1 ,CinemaWorld
 udp://@225.1.1.142:30120
-
-#EXTINF:-1 tvg-id="animaxhd", Animax
-udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-id="axnhd", AXN
-udp://@225.1.2.225:30120
-#EXTINF:-1 ,ABC Autralia
-udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="bbcearth",BBC Earth
-#udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-id="boomerang", CARTOONITO
-udp://@225.1.1.138:30120
-#EXTINF:-1 tvg-id="cartoonhd", CARTOON NETWORK
-udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="discoveryhd", Discovery Channel
-udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="discoveryasiahd", Discovery Asia
-udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="dreamworks",Dreamworks 
-udp://@225.1.1.136:30120
-#EXTINF:-1 tvg-id="outdoorhd",Outdoor Channel 
-udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="warnertvhd",WBTV 
-udp://@225.1.1.139:30120
-
-
-#EXTINF:-1 tvg-id="boxmovie1",BOX MOVIE 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics",HOLLYWOOD CLASSICS
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-#EXTINF:-1 tvg-id="happykids",Happy Kids
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-
 #EXTINF:-1 ,Animax
 udp://@225.1.2.44:30120
-#EXTINF:-1 ,Animax
-udp://@225.1.1.135:30120
+#udp://@225.1.1.135:30120
 #EXTINF:-1 ,ABC Autralia
 udp://@225.1.2.21:30120
 #EXTINF:-1 ,BBC Earth
@@ -161,20 +128,18 @@ udp://@225.1.2.52:30120
 udp://@225.1.2.74:30120
 #EXTINF:-1 ,CBeebies BBC
 udp://@225.1.2.39:30120
-#EXTINF:-1 ,CBeebies BBC
-udp://@225.1.1.134:30120
+#udp://@225.1.1.134:30120
 #EXTINF:-1 ,Dreamwork
 udp://@225.1.2.48:30120
-#EXTINF:-1 ,Dreamwork
-udp://@225.1.1.136:30120
+#udp://@225.1.1.136:30120
 #EXTINF:-1 ,Bloomberg
 udp://@225.1.2.91:30120
-#EXTINF:-1 ,Boomerang
-udp://@225.1.1.138:30120
+#udp://@225.1.1.138:30120
 #EXTINF:-1 ,Fashion TV
 udp://@225.1.2.117:30120
-#EXTINF:-1 ,Fashion TV
-udp://@225.1.2.227:30120
+#udp://@225.1.2.227:30120
+#EXTINF:-1 ,Asian food Chanel
+udp://@225.1.1.198:30120
 #EXTINF:-1 ,KIX
 udp://@225.1.2.144:30120
 #EXTINF:-1 ,Baby TV
