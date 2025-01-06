@@ -21,17 +21,20 @@ udp://@225.1.4.7:30120
 #EXTINF:-1 tvg-id="vtv9hd", VTV9
 udp://@225.1.4.8:30120
 
-#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
-udp://@225.1.4.211:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 4Mbps)
+udp://@225.1.4.184:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
+udp://@225.1.4.179:30120
+
 
 
 #-*--HTV&HTVC-*--#
 
-#EXTINF:-1 tvg-id="htv1", HTV1
-udp://@225.1.4.55:30120
 #EXTINF:-1 tvg-id="htv2hd", HTV2 - Vie Channel
 udp://@225.1.3.13:30120
-#EXTINF:-1 tvg-id="htv3", HTV3 - Dreams TV
+#EXTINF:-1 tvg-id="htv1", HTV1
+udp://@225.1.4.55:30120
+#EXTINF:-1 tvg-id="htv3", HTV3
 udp://@225.1.4.57:30120
 #EXTINF:-1 tvg-id="htvkey", HTV Key
 udp://@225.1.4.58:30120
@@ -109,7 +112,8 @@ udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="dreamworks",DreamWorks HD
 udp://@225.1.4.39:30120
 
-
+#EXTINF:-1 tvg-id="axnhd", AXN
+udp://@225.1.4.9:30120
 #EXTINF:-1 tvg-id="animalhd", Animal Planet HD
 udp://@225.1.4.209:30120
 #EXTINF:-1 tvg-id="discoveryasiahd", Discovery Asia HD
@@ -123,6 +127,7 @@ udp://@225.1.4.208:30120
 
 #EXTINF:-1 tvg-id="fashionhd", Fashion TV HD
 udp://@225.1.4.20:30120
-#EXTINF:-1 tvg-id="axnhd", AXN
-udp://@225.1.4.9:30120
 
+
+#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
+udp://@225.1.4.211:30120
