@@ -99,10 +99,11 @@ http://hoatv001.ddns.net:8002/ott/tv3603.php?id=9832
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=19
 #EXTINF:-1, ANTV HD
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=20
-#EXTINF:-1, Nhân Dân
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=23
-#EXTINF:-1, Quốc Hội
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=290
+#EXTINF:-1, VTV5 HD - Tây Nam Bộ
+http://hoatv001.ddns.net:8002/ott/tv3603.php?id=157
+#EXTINF:-1, VTV5 HD - Tây Nguyên
+http://hoatv001.ddns.net:8002/ott/tv3603.php?id=207
+
 
 #EXTINF:-1, AFN HD
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=215
@@ -148,38 +149,9 @@ http://hoatv001.ddns.net:8002/ott/tv3603.php?id=289
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=9856
 
 
-#EXTINF:-1, VTC1 HD
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=16
-#EXTINF:-1, VTC2
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=196
-#EXTINF:-1, VTC3 HD
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=197
-#EXTINF:-1, VTC4 HD
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=198
-#EXTINF:-1, VTC5 HD
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=199
-#EXTINF:-1, VTC6 HD
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=200
-#EXTINF:-1, VTC7 HD - Today TV
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=201
-#EXTINF:-1, VTC8
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=202
-#EXTINF:-1, VTC9 HD
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=203
-#EXTINF:-1, VTC10
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=204
-#EXTINF:-1, VTC11
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=205
-#EXTINF:-1, VTC14 HD
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=17
-#EXTINF:-1, VTC16
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=18
 
 
-#EXTINF:-1, VTV5 HD - Tây Nam Bộ
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=157
-#EXTINF:-1, VTV5 HD - Tây Nguyên
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=207
+
 #EXTINF:-1, Hà nội 1
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=33
 #EXTINF:-1, Hà nội 2
