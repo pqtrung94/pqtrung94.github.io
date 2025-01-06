@@ -21,16 +21,20 @@ udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd", VTV9
 udp://@225.1.1.128:30120
 
-#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
-udp://@225.1.1.188:30120
+#EXTINF:0 tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
+udp://@225.1.2.236:30120
+#EXTINF:0 tvg-id="vtv5hdtn",VTV5 Tây Nguyên
+udp://@225.1.1.108:30120
+
 
 #-*--HTV&HTVC-*--#
 
-#EXTINF:-1 tvg-id="htv1", HTV1
-udp://@225.1.1.180:30120
+
 #EXTINF:-1 tvg-id="htv2hd", HTV2 - Vie Channel
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3", HTV3 - Dreams TV
+#EXTINF:-1 tvg-id="htv1", HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-id="htv3", HTV3
 udp://@225.1.1.178:30120
 #EXTINF:-1 tvg-id="htvkey", HTV Key
 udp://@225.1.1.177:30120
@@ -133,4 +137,5 @@ udp://@225.1.2.227:30120
 
 
 
-
+#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
+udp://@225.1.1.188:30120
