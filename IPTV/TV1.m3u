@@ -60,6 +60,11 @@ udp://@225.1.4.223:30120
 udp://@225.1.4.91:30120
 
 
+
+#-*--Thiết yếu-*--#
+
+#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
+udp://@225.1.4.211:30120
 #EXTINF:-1 tvg-id="antvhd", ANTV HD
 udp://@225.1.4.221:30120
 #EXTINF:-1 tvg-id="qpvnhd", QPVN HD
@@ -78,12 +83,12 @@ udp://@225.1.4.176:30120
 udp://@225.1.4.217:30120
 
 
-#-*--Thiết yếu-*--#
+#-*--Địa phương-*--#
 
 #EXTINF:0 tvg-id="danang1", Đà Nẵng 1
-udp://@225.1.4.120:30120
+#udp://@225.1.4.120:30120
 #EXTINF:0 tvg-id="danang2", Đà Nẵng 2
-udp://@225.1.4.121:30120
+#udp://@225.1.4.121:30120
 #EXTINF:-1 tvg-id="haiphong", THP HD
 udp://@225.1.4.131:30120
 #EXTINF:-1 tvg-id="haiphongplus", THP+ HD
@@ -129,5 +134,4 @@ udp://@225.1.4.208:30120
 udp://@225.1.4.20:30120
 
 
-#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
-udp://@225.1.4.211:30120
+
