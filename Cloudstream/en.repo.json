@@ -3,6 +3,6 @@
     "description": "ENG Extension",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/refs/heads/main/Cloudstream-VN/plugins.en.json"
+      "https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/refs/heads/main/Cloudstream-VN/en.plugins.json"
     ]
 }
