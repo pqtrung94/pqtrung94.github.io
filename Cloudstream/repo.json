@@ -1,0 +1,8 @@
+{
+    "name": "Vietnamese Extension",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/plugins.json?ref_type=heads"
+    ]
+}
