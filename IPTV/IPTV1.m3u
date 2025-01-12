@@ -107,17 +107,12 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png", THVL4 HD - Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png", THP HD _ TH TP. Hải Phòng
+#EXTINF:0 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png", THP HD
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="haiduong" tvg-logo="https://i.imgur.com/QmzXd4R.png", THD _ TH Hải Dương
-https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="sctv6" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png", SCTV6
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8 
 
-#EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/6OWQ8lU.png", DaNangTV1 HD _ TH TP. Đà Nẵng
-#https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="danang2" tvg-logo="https://i.imgur.com/hkzIqEV.png", DaNangTV2 HD _ TH TP. Đà Nẵng
-#https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 
 #QUỐC TẾ
 
@@ -136,3 +131,17 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
+#EXTINF:0 tvg-id="haiduong" tvg-logo="https://i.imgur.com/QmzXd4R.png", THD
+#https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/6OWQ8lU.png", DaNangTV1 HD
+#https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="danang2" tvg-logo="https://i.imgur.com/hkzIqEV.png", DaNangTV2 HD
+#https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/y4xbk7Z/khich-online-vtv2.jpg",VTV2
+#https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/YcjL05p/khichtv-logo-VTV3-PLUS.png",VTV3
+#https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vtv5hd" "tvg-logo="https://i.ibb.co/Xk44Tnq/khich-online-vtv5-plus.jpg",VTV5
+#https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="vtv6hd" group-title="khichtv|VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+#https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
