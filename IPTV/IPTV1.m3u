@@ -3,38 +3,38 @@
 
 # VTV
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV", VTV2
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg" group-title="VTV", VTV3
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", VTV3
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg" group-title="VTV", VTV4
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg" group-title="VTV", VTV5
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg", VTV5
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg" group-title="VTV", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg", VTV Cần Thơ
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg" group-title="VTV", VTV7
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg", VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg" group-title="VTV", VTV8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg", VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" group-title="VTV", VTV9
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg", VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png" group-title="VTV", VTV5 TNB
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png", VTV5 TNB
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.png" group-title="VTV", VTV5 TN
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.png", VTV5 TN
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
 #--*.*--HTV--*.*--#
@@ -84,13 +84,13 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 
 #--*.*--VTC--*.*--#
 
-#EXTINF:0 tvg-id="vtc1" group-title="VTC" tvg-logo="https://img.lichphatsong.xyz/logo/vtc1hd.jpg", VTC1 HD
+#EXTINF:0 tvg-id="vtc1" tvg-logo="https://img.lichphatsong.xyz/logo/vtc1hd.jpg", VTC1 HD
 https://live.fptplay53.net/fnxhd2/vtc1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/antv.png", ANTV
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img.lichphatsong.xyz/logo/antv.png", ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg", QPVN
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg", QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 #-*--Địa phương-*--#
@@ -116,16 +116,16 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
 #QUỐC TẾ
 
-#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế", Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.imgur.com/B8zA2gc.png", Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg", Kix
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png" group-title="Quốc Tế", Da Vinci
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png", Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg" group-title="Quốc Tế", Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg", Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 
