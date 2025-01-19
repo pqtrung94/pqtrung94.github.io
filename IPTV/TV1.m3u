@@ -93,7 +93,7 @@ udp://@225.1.4.217:30120
 #EXTINF:-1 tvg-id="haiphong", THP HD
 udp://@225.1.4.131:30120
 #EXTINF:-1 tvg-id="haiphongplus", THP+ HD
-udp://@225.1.4.178:30120
+#udp://@225.1.4.178:30120
 
 
 
