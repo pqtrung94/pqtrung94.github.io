@@ -1,31 +1,31 @@
 #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
 
 #VTV
-#EXTINF:-1 ,VTV1
+#EXTINF:-1 ,VTV1 HD
 http://thvip.site/vtv1/index.m3u8
-#EXTINF:-1 ,VTV2
+#EXTINF:-1 ,VTV2 HD
 http://thvip.site/vtv2/index.m3u8
-#EXTINF:-1 ,VTV3
+#EXTINF:-1 ,VTV3 HD
 http://thvip.site/vtv3/index.m3u8
-#EXTINF:-1 ,VTV4
+#EXTINF:-1 ,VTV4 HD
 http://thvip.site/vtv4/index.m3u8
-#EXTINF:-1 ,VTV5
+#EXTINF:-1 ,VTV5 HD
 http://thvip.site/vtv5/index.m3u8
-#EXTINF:-1 ,VTV Cần Thơ
+#EXTINF:-1 ,VTV Cần Thơ HD
 http://thvip.site/vtv6/index.m3u8
-#EXTINF:-1 ,VTV7
+#EXTINF:-1 ,VTV7 HD
 http://thvip.site/vtv7/index.m3u8
-#EXTINF:-1 ,VTV8
+#EXTINF:-1 ,VTV8 HD
 http://thvip.site/vtv8/index.m3u8
-#EXTINF:-1 ,VTV9
+#EXTINF:-1 ,VTV9 HD
 http://thvip.site/vtv9/index.m3u8
-#EXTINF:-1 ,VTV5 Tây Nguyên
+#EXTINF:-1 ,VTV5 HD - Tây Nguyên
 http://thvip.site/taynguyen/index.m3u8
-#EXTINF:-1 ,VTV5 Tây Nam Bộ
+#EXTINF:-1 ,VTV5 HD - Tây Nam Bộ
 http://thvip.site/taynambo/index.m3u8
 
 #HTV/HTVC
-#EXTINF:-1 ,HTV2
+#EXTINF:-1 ,HTV2 HD
 https://thvip.site/htv2/index.m3u8
 #EXTINF:-1 ,HTV1
 https://thvip.site/htv1/index.m3u8
@@ -33,45 +33,47 @@ https://thvip.site/htv1/index.m3u8
 https://thvip.site/htv3/index.m3u8
 #EXTINF:-1 ,HTV Key
 https://thvip.site/htv4/index.m3u8
-#EXTINF:-1 ,HTV7
+#EXTINF:-1 ,HTV7 HD
 https://thvip.site/htv7/index.m3u8
-#EXTINF:-1 ,HTV9
+#EXTINF:-1 ,HTV9 HD
 https://thvip.site/htv9/index.m3u8
-#EXTINF:-1 ,HTV Thể Thao
+#EXTINF:-1 ,HTV Thể Thao HD
 https://thvip.site/htvtt/index.m3u8
-#EXTINF:-1 ,HTVC Thuần Việt
+#EXTINF:-1 ,HTVC Thuần Việt HD
 https://thvip.site/thuanviet/index.m3u8
-#EXTINF:-1 ,HTVC Gia Đình
+#EXTINF:-1 ,HTVC Gia Đình HD
 https://thvip.site/giadinh/index.m3u8
-#EXTINF:-1 ,HTVC Phụ Nữ
+#EXTINF:-1 ,HTVC Phụ Nữ HD
 https://thvip.site/phunu/index.m3u8
-#EXTINF:-1 ,HTVC Du Lịch
+#EXTINF:-1 ,HTVC Du Lịch HD
 https://thvip.site/dulich/index.m3u8
-#EXTINF:-1 ,HTVC Ca Nhạc
+#EXTINF:-1 ,HTVC Ca Nhạc HD
 https://thvip.site/canhac/index.m3u8
-#EXTINF:-1 ,HTVC Phim
+#EXTINF:-1 ,HTVC Phim HD
 https://thvip.site/htvcphim/index.m3u8
-#EXTINF:-1 ,HTVC Plus
+#EXTINF:-1 ,HTVC Plus HD
 https://thvip.site/htvcplus/index.m3u8
 
 
 #Thiết yếu
-#EXTINF:-1 ,ANTV
+#EXTINF:-1 ,ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 ,QPVN
+#EXTINF:-1 ,QPVN HD
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
-#EXTINF:-1 ,THVL1
+#EXTINF:-1 ,THVL1 HD
 https://thvip.site/vl1/index.m3u8
-#EXTINF:-1 ,THVL2
+#EXTINF:-1 ,THVL2 HD
 https://thvip.site/vl2/index.m3u8
-#EXTINF:-1 ,THVL3
+#EXTINF:-1 ,THVL3 HD
 https://thvip.site/vl3/index.m3u8
-#EXTINF:-1 ,THVL4
+#EXTINF:-1 ,THVL4 HD
 https://thvip.site/vl4/index.m3u8
-#EXTINF:-1 ,THP+
+#EXTINF:-1 ,Hải Phòng +
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 ,THP
+#EXTINF:-1 ,Hải Phòng
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-id="afnhd",AFN HD
+https://tv.TruyenHinh.Click/CoBan/afnhd/TuyetDoiKhongKinhDoanh
 
 #VieOn
 #EXTINF:-1 ,HTV2
