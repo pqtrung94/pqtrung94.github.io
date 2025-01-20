@@ -1,4 +1,5 @@
-﻿
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
+
 #VTV
 #EXTINF:-1 ,VTV1
 http://thvip.site/vtv1/index.m3u8
