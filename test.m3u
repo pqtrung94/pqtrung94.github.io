@@ -1,142 +1,104 @@
-﻿#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz, https://trada.info/epg.xml"
+﻿
+#VTV
+#EXTINF:-1 ,VTV1
+http://thvip.site/vtv1/index.m3u8
+#EXTINF:-1 ,VTV2
+http://thvip.site/vtv2/index.m3u8
+#EXTINF:-1 ,VTV3
+http://thvip.site/vtv3/index.m3u8
+#EXTINF:-1 ,VTV4
+http://thvip.site/vtv4/index.m3u8
+#EXTINF:-1 ,VTV5
+http://thvip.site/vtv5/index.m3u8
+#EXTINF:-1 ,VTV Cần Thơ
+http://thvip.site/vtv6/index.m3u8
+#EXTINF:-1 ,VTV7
+http://thvip.site/vtv7/index.m3u8
+#EXTINF:-1 ,VTV8
+http://thvip.site/vtv8/index.m3u8
+#EXTINF:-1 ,VTV9
+http://thvip.site/vtv9/index.m3u8
+#EXTINF:-1 ,VTV5 Tây Nguyên
+http://thvip.site/taynguyen/index.m3u8
+#EXTINF:-1 ,VTV5 Tây Nam Bộ
+http://thvip.site/taynambo/index.m3u8
+
+#HTV/HTVC
+#EXTINF:-1 ,HTV2
+https://thvip.site/htv2/index.m3u8
+#EXTINF:-1 ,HTV1
+https://thvip.site/htv1/index.m3u8
+#EXTINF:-1 ,HTV3
+https://thvip.site/htv3/index.m3u8
+#EXTINF:-1 ,HTV Key
+https://thvip.site/htv4/index.m3u8
+#EXTINF:-1 ,HTV7
+https://thvip.site/htv7/index.m3u8
+#EXTINF:-1 ,HTV9
+https://thvip.site/htv9/index.m3u8
+#EXTINF:-1 ,HTV Thể Thao
+https://thvip.site/htvtt/index.m3u8
+#EXTINF:-1 ,HTVC Thuần Việt
+https://thvip.site/thuanviet/index.m3u8
+#EXTINF:-1 ,HTVC Gia Đình
+https://thvip.site/giadinh/index.m3u8
+#EXTINF:-1 ,HTVC Phụ Nữ
+https://thvip.site/phunu/index.m3u8
+#EXTINF:-1 ,HTVC Du Lịch
+https://thvip.site/dulich/index.m3u8
+#EXTINF:-1 ,HTVC Ca Nhạc
+https://thvip.site/canhac/index.m3u8
+#EXTINF:-1 ,HTVC Phim
+https://thvip.site/htvcphim/index.m3u8
+#EXTINF:-1 ,HTVC Plus
+https://thvip.site/htvcplus/index.m3u8
 
 
-#-*--VTV-*--#
-#EXTINF:-1 tvg-id="vtv1hd", VTV1
-http://192.168.10.1:1903/udp/@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd", VTV2
-http://192.168.10.1:1903/udp/@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd", VTV3
-http://192.168.10.1:1903/udp/@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd", VTV4
-http://192.168.10.1:1903/udp/@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd", VTV5
-http://192.168.10.1:1903/udp/@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd", VTV Cần Thơ
-http://192.168.10.1:1903/udp/@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd", VTV7
-http://192.168.10.1:1903/udp/@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd", VTV8
-http://192.168.10.1:1903/udp/@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd", VTV9
-http://192.168.10.1:1903/udp/@225.1.1.128:30120
+#Thiết yếu
+#EXTINF:-1 ,ANTV
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 ,QPVN
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+#EXTINF:-1 ,THVL1
+https://thvip.site/vl1/index.m3u8
+#EXTINF:-1 ,THVL2
+https://thvip.site/vl2/index.m3u8
+#EXTINF:-1 ,THVL3
+https://thvip.site/vl3/index.m3u8
+#EXTINF:-1 ,THVL4
+https://thvip.site/vl4/index.m3u8
+#EXTINF:-1 ,THP
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 ,THP+
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
-#EXTINF:0 tvg-id="vtv5hdtn",VTV5 Tây Nguyên
-http://192.168.10.1:1903/udp/@225.1.1.108:30120
-#EXTINF:0 tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
-http://192.168.10.1:1903/udp/@225.1.2.236:30120
-
-
-
-#-*--HTV&HTVC-*--#
-
-
-#EXTINF:-1 tvg-id="htv2hd", HTV2 - Vie Channel
-http://192.168.10.1:1903/udp/@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv1", HTV1
-http://192.168.10.1:1903/udp/@225.1.1.180:30120
-#EXTINF:-1 tvg-id="htv3", HTV3
-http://192.168.10.1:1903/udp/@225.1.1.178:30120
-#EXTINF:-1 tvg-id="htvkey", HTV Key
-http://192.168.10.1:1903/udp/@225.1.1.177:30120
-#EXTINF:-1 tvg-id="htv7hd", HTV7 HD
-http://192.168.10.1:1903/udp/@225.1.1.192:30120
-#EXTINF:-1 tvg-id="htv9hd", HTV9 HD
-http://192.168.10.1:1903/udp/@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvthethaohd", HTV Thể Thao HD
-http://192.168.10.1:1903/udp/@225.1.1.165:30120
-#EXTINF:-1 tvg-id="htvcphimhd", HTVC Phim HD
-http://192.168.10.1:1903/udp/@225.1.1.184:30120
-#EXTINF:-1 tvg-id="htvcthuanviethd", HTVC Thuần Việt
-http://192.168.10.1:1903/udp/@225.1.1.186:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd", HTVC Gia đình HD
-http://192.168.10.1:1903/udp/@225.1.1.170:30120
-#EXTINF:-1 tvg-id="htvcphunuhd", HTVC Phụ nữ HD
-http://192.168.10.1:1903/udp/@225.1.1.171:30120
-#EXTINF:-1 tvg-id="htvcdulichhd", HTVC Du lịch Cuộc sống HD
-http://192.168.10.1:1903/udp/@225.1.1.166:30120
-#EXTINF:-1 tvg-id="htvccanhachd", HTVC Ca nhạc HD
-http://192.168.10.1:1903/udp/@225.1.1.185:30120
-#EXTINF:-1 tvg-id="htvcplushd", HTVC Plus HD
-http://192.168.10.1:1903/udp/@225.1.1.181:30120
-
-
-
-#-*--Thiết yếu-*--#
-
-#EXTINF:-1 tvg-id="sctv6hd",SCTV 6
-http://192.168.10.1:1903/udp/@225.1.1.188:30120
-#EXTINF:-1 tvg-id="antvhd", ANTV HD
-http://192.168.10.1:1903/udp/@225.1.2.169:30120
-#EXTINF:-1 tvg-id="qpvnhd", QPVN HD
-http://192.168.10.1:1903/udp/@225.1.2.217:30120
-
-
-#-*--Địa Phương-*--#
-
-#EXTINF:-1 tvg-id="vinhlong1hd", THVL1 HD
-http://192.168.10.1:1903/udp/@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd", THVL2 HD
-http://192.168.10.1:1903/udp/@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd", THVL3 HD
-http://192.168.10.1:1903/udp/@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd", THVL4 HD
-http://192.168.10.1:1903/udp/@225.1.2.25:30120
-
-#EXTINF:0 tvg-id="danang1", Đà Nẵng 1
-#http://192.168.10.1:1903/udp/@225.1.1.147:30120
-#EXTINF:0 tvg-id="danang2", Đà Nẵng 2
-#http://192.168.10.1:1903/udp/@225.1.1.146:30120
-
-#EXTINF:-1 tvg-id="haiphong", THP HD
-http://192.168.10.1:1903/udp/@225.1.1.44:30120
-#EXTINF:-1 tvg-id="haiphongplus", THP+ HD
-#http://192.168.10.1:1903/udp/@225.1.1.113:30120
-http://192.168.10.1:1903/udp/@225.1.3.52:30120
-
-
-
-
-
-#---QUÓC TẾ 1---#
-#EXTINF:-1 tvg-id="afnhd", AFN HD
-http://192.168.10.1:1903/udp/@225.1.1.198:30120
-
-#EXTINF:-1 tvg-id="hbohd", HBO HD
-#http://192.168.10.1:1903/udp/@225.1.2.54:30120
-#http://192.168.10.1:1903/udp/@225.1.2.233:30120
-http://192.168.10.1:1903/udp/@225.1.1.112:30120
-#EXTINF:-1 tvg-id="cinemaxhd", Cinemax HD
-http://192.168.10.1:1903/udp/@225.1.2.86:30120
-#EXTINF:-1 tvg-id="cinemaworldhd", Cinema World HD
-http://192.168.10.1:1903/udp/@225.1.1.142:30120
-#EXTINF:-1 tvg-id="warnertvhd", Warner TV HD
-http://192.168.10.1:1903/udp/@225.1.1.139:30120
-
-#EXTINF:-1 tvg-id="cbeebies", CBeebies
-http://192.168.10.1:1903/udp/@225.1.1.134:30120
-#EXTINF:-1 tvg-id="cartoonhd", Cartoon Network HD
-http://192.168.10.1:1903/udp/@225.1.2.231:30120
-#EXTINF:-1 tvg-id="boomerang", Boomerang
-http://192.168.10.1:1903/udp/@225.1.1.138:30120
-#EXTINF:-1 tvg-id="dreamworks", Dreamworks HD
-http://192.168.10.1:1903/udp/@225.1.1.136:30120
-
-#---QUỐC TẾ 2---#
-#EXTINF:-1 tvg-id="axnhd", AXN
-http://192.168.10.1:1903/udp/@225.1.2.225:30120
-#EXTINF:-1 tvg-id="animalhd", Animal Planet HD
-http://192.168.10.1:1903/udp/@225.1.1.231:30120
-#EXTINF:-1 tvg-id="discoveryasiahd", Discovery Asia HD
-http://192.168.10.1:1903/udp/@225.1.2.223:30120
-#EXTINF:-1 tvg-id="discoveryhd", Discovery Channel HD
-http://192.168.10.1:1903/udp/@225.1.1.238:30120
-#EXTINF:-1 tvg-id="outdoorhd", Outdoor Channel HD
-http://192.168.10.1:1903/udp/@225.1.2.215:30120
-#EXTINF:-1 tvg-id="davinci", DaVinci HD
-http://192.168.10.1:1903/udp/@225.1.1.197:30120
-#EXTINF:-1 tvg-id="fashionhd", Fashion TV HD
-http://192.168.10.1:1903/udp/@225.1.2.227:30120
-
-
+#VieOn
+#EXTINF:-1 ,HTV2
+https://thvip.site/Vieon.php?id=htv2
+#EXTINF:-1 ,HTV1
+https://thvip.site/Vieon.php?id=htv1
+#EXTINF:-1 ,HTV3
+https://thvip.site/Vieon.php?id=htv3
+#EXTINF:-1 ,HTV Key
+https://thvip.site/Vieon.php?id=htv4
+#EXTINF:-1 ,HTV7
+https://thvip.site/Vieon.php?id=htv7
+#EXTINF:-1 ,HTV9
+https://thvip.site/Vieon.php?id=htv9
+#EXTINF:-1 ,HTV Thể Thao
+https://thvip.site/Vieon.php?id=htvtt
+#EXTINF:-1 ,HTVC Thuần Việt
+https://thvip.site/Vieon.php?id=thuanviet
+#EXTINF:-1 ,HTVC Gia Đình
+https://thvip.site/Vieon.php?id=giadinh
+#EXTINF:-1 ,HTVC Phụ Nữ
+https://thvip.site/Vieon.php?id=phunu
+#EXTINF:-1 ,HTVC Du Lịch
+https://thvip.site/Vieon.php?id=dulich
+#EXTINF:-1 ,HTVC Ca Nhạc
+https://thvip.site/Vieon.php?id=canhac
+#EXTINF:-1 ,HTVC Phim
+https://thvip.site/Vieon.php?id=htvcphim
+#EXTINF:-1 ,HTVC Plus
+https://thvip.site/Vieon.php?id=htvcplus
 
