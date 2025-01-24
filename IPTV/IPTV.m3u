@@ -1,173 +1,174 @@
 #EXTM3U url-tvg="https://url.truyenhinh.click/EPG-VN"
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv1hd/KenhCoBan",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv1hd/KenhCoBan",VTV1 HD
 https://tv.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv2hd/KenhCoBan",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv2hd/KenhCoBan",VTV2 HD
 https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv3hd/KenhCoBan",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv3hd/KenhCoBan",VTV3 HD
 https://tv.TruyenHinh.Click/CoBan/vtv3hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv4hd/KenhCoBan",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv4hd/KenhCoBan",VTV4 HD
 https://tv.TruyenHinh.Click/CoBan/vtv4hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hd/KenhCoBan",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hd/KenhCoBan",VTV5 HD
 https://tv.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv6hd/KenhCoBan",VTV Cần Thơ HD
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv6hd/KenhCoBan",VTV Cần Thơ HD
 https://tv.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv7hd/KenhCoBan",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv7hd/KenhCoBan",VTV7 HD
 https://tv.TruyenHinh.Click/CoBan/vtv7hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv8hd/KenhCoBan",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv8hd/KenhCoBan",VTV8 HD
 https://tv.TruyenHinh.Click/CoBan/vtv8hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv9hd/KenhCoBan",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtv9hd/KenhCoBan",VTV9 HD
 https://tv.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh
 
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hdtn/KenhCoBan",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hdtn/KenhCoBan",VTV5 Tây Nguyên
 https://tv.TruyenHinh.Click/CoBan/vtv5hdtn/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hdtnb/KenhCoBan",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hdtnb/KenhCoBan",VTV5 Tây Nam Bộ
 https://tv.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh
 
 
 
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htv2hd/KenhCoBan",HTV2
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://tv.truyenhinh.click/Logo/htv2hd/KenhCoBan",HTV2
 https://tv.TruyenHinh.Click/CoBan/htv2hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://tv.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
 https://tv.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htv4/KenhCoBan",HTVKey
+#EXTINF:-1 tvg-id="htvkey" tvg-logo="https://tv.truyenhinh.click/Logo/htv4/KenhCoBan",HTVKey
 https://tv.TruyenHinh.Click/CoBan/htv4/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htv7hd/KenhCoBan",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://tv.truyenhinh.click/Logo/htv7hd/KenhCoBan",HTV7 HD
 https://tv.TruyenHinh.Click/CoBan/htv7hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htv9hd/KenhCoBan",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://tv.truyenhinh.click/Logo/htv9hd/KenhCoBan",HTV9 HD
 https://tv.TruyenHinh.Click/CoBan/htv9hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://tv.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",HTV Thể Thao
 https://tv.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htvcgiadinhhd/KenhCoBan",HTVC gia đình
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://tv.truyenhinh.click/Logo/htvcgiadinhhd/KenhCoBan",HTVC gia đình
 https://tv.TruyenHinh.Click/CoBan/htvcgiadinhhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htvcphunuhd/KenhCoBan",HTVC phụ Nữ
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://tv.truyenhinh.click/Logo/htvcphunuhd/KenhCoBan",HTVC phụ Nữ
 https://tv.TruyenHinh.Click/CoBan/htvcphunuhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htvcthuanviet/KenhCoBan",HTVC thuần việt
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://tv.truyenhinh.click/Logo/htvcthuanviet/KenhCoBan",HTVC thuần việt
 https://tv.TruyenHinh.Click/CoBan/htvcthuanviet/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htvcphimhd/KenhCoBan",HTVC phim truyện HD
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://tv.truyenhinh.click/Logo/htvcphimhd/KenhCoBan",HTVC phim truyện HD
 https://tv.TruyenHinh.Click/CoBan/htvcphimhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htvccanhachd/KenhCoBan",HTVC ca nhạc
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://tv.truyenhinh.click/Logo/htvccanhachd/KenhCoBan",HTVC ca nhạc
 https://tv.TruyenHinh.Click/CoBan/htvccanhachd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htvcplushd/KenhCoBan",HTVC+ Channel
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://tv.truyenhinh.click/Logo/htvcplushd/KenhCoBan",HTVC+ Channel
 https://tv.TruyenHinh.Click/CoBan/htvcplushd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://tv.truyenhinh.click/Logo/htvcdulichhd/KenhCoBan",HTVC du lịch & cuộc sống
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://tv.truyenhinh.click/Logo/htvcdulichhd/KenhCoBan",HTVC du lịch & cuộc sống
 https://tv.TruyenHinh.Click/CoBan/htvcdulichhd/TuyetDoiKhongKinhDoanh
 
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/antvhd/KenhCoBan",ANTV
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://tv.truyenhinh.click/Logo/antvhd/KenhCoBan",ANTV
 https://tv.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/qpvnhd/KenhCoBan",QPVN HD
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://tv.truyenhinh.click/Logo/qpvnhd/KenhCoBan",QPVN HD
 https://tv.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh
 
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/htvl1/KenhCoBan",Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://tv.truyenhinh.click/Logo/htvl1/KenhCoBan",Vĩnh Long 1
 https://tv.TruyenHinh.Click/CoBan/htvl1/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl2/KenhCoBan",Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://tv.truyenhinh.click/Logo/thvl2/KenhCoBan",Vĩnh Long 2
 https://tv.TruyenHinh.Click/CoBan/thvl2/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl3/KenhCoBan",Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://tv.truyenhinh.click/Logo/thvl3/KenhCoBan",Vĩnh Long 3
 https://tv.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/thvl4/KenhCoBan",Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://tv.truyenhinh.click/Logo/thvl4/KenhCoBan",Vĩnh Long 4
 https://tv.TruyenHinh.Click/CoBan/thvl4/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="121" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/121/KenhCoBan",Hà Nội 1
+#EXTINF:-1 tvg-id="121" tvg-logo="https://tv.truyenhinh.click/Logo/121/KenhCoBan",Hà Nội 1
 https://tv.TruyenHinh.Click/CoBan/121/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="122" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/122/KenhCoBan",Hà Nội 2
+#EXTINF:-1 tvg-id="122" tvg-logo="https://tv.truyenhinh.click/Logo/122/KenhCoBan",Hà Nội 2
 https://tv.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="149" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/149/KenhCoBan",Hải Phòng
+#EXTINF:-1 tvg-id="149" tvg-logo="https://tv.truyenhinh.click/Logo/149/KenhCoBan",Hải Phòng
 https://tv.TruyenHinh.Click/CoBan/149/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="120" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/120/KenhCoBan",Hải Phòng +
+#EXTINF:-1 tvg-id="120" tvg-logo="https://tv.truyenhinh.click/Logo/120/KenhCoBan",Hải Phòng +
 #https://tv.TruyenHinh.Click/CoBan/120/TuyetDoiKhongKinhDoanh
 
 
 
-#EXTINF:-1 tvg-id="afnhd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/afnhd/KenhCoBan",AFN HD
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://tv.truyenhinh.click/Logo/afnhd/KenhCoBan",AFN HD
 https://tv.TruyenHinh.Click/CoBan/afnhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/planetearthhd/KenhCoBan",Planet Earth HD
+#EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://tv.truyenhinh.click/Logo/planetearthhd/KenhCoBan",Planet Earth HD
 https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/boxhits/KenhCoBan",Box Hits
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://tv.truyenhinh.click/Logo/boxhits/KenhCoBan",Box Hits
 https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="boxmovie1hd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/boxmovie1hd/KenhCoBan",Box Movie 1 HD
+#EXTINF:-1 tvg-id="boxmovie1hd" tvg-logo="https://tv.truyenhinh.click/Logo/boxmovie1hd/KenhCoBan",Box Movie 1 HD
 https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/hollywoodclassichd/KenhCoBan",Hollywood Classic HD
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://tv.truyenhinh.click/Logo/hollywoodclassichd/KenhCoBan",Hollywood Classic HD
 https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/inthebox/KenhCoBan",In The Box
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://tv.truyenhinh.click/Logo/inthebox/KenhCoBan",In The Box
 https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="happykidshd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/happykidshd/KenhCoBan",Happy Kids HD
+#EXTINF:-1 tvg-id="happykidshd" tvg-logo="https://tv.truyenhinh.click/Logo/happykidshd/KenhCoBan",Happy Kids HD
 https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="womanhd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/womanhd/KenhCoBan",Woman HD
+#EXTINF:-1 tvg-id="womanhd" tvg-logo="https://tv.truyenhinh.click/Logo/womanhd/KenhCoBan",Woman HD
 https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/man/KenhCoBan",Man
+#EXTINF:-1 tvg-id="man" tvg-logo="https://tv.truyenhinh.click/Logo/man/KenhCoBan",Man
 https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 
-#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/drfithd/KenhCoBan",Dr Fit HD
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://tv.truyenhinh.click/Logo/drfithd/KenhCoBan",Dr Fit HD
 https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/musicbox/KenhCoBan",Music box
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://tv.truyenhinh.click/Logo/musicbox/KenhCoBan",Music box
 https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="outdoorhd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/outdoorhd/KenhCoBan",Outdoor HD
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://tv.truyenhinh.click/Logo/outdoorhd/KenhCoBan",Outdoor HD
 https://tv.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="channelnewsasia" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/channelnewsasia/KenhCoBan",Channel News Asia
+#EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://tv.truyenhinh.click/Logo/channelnewsasia/KenhCoBan",Channel News Asia
 https://tv.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh
 
-#EXTINF:-1 tvg-id="hgtv" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/hgtv/KenhCoBan",HGTV
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://tv.truyenhinh.click/Logo/hgtv/KenhCoBan",HGTV
 https://tv.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="kbsworld" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/kbsworld/KenhCoBan",KBS World
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://tv.truyenhinh.click/Logo/kbsworld/KenhCoBan",KBS World
 https://tv.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="nhkworld" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/nhk/KenhCoBan",NHK
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://tv.truyenhinh.click/Logo/nhk/KenhCoBan",NHK
 https://tv.TruyenHinh.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="france24eng" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/france24/KenhCoBan",France 24
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://tv.truyenhinh.click/Logo/france24/KenhCoBan",France 24
 https://tv.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="cnbcsd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/cnbcsd/KenhCoBan",CNBC SD
+#EXTINF:-1 tvg-id="cnbcsd" tvg-logo="https://tv.truyenhinh.click/Logo/cnbcsd/KenhCoBan",CNBC SD
 https://tv.TruyenHinh.Click/CoBan/cnbcsd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="historyhd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/historyhd/KenhCoBan",History HD
+#EXTINF:-1 tvg-id="historyhd" tvg-logo="https://tv.truyenhinh.click/Logo/historyhd/KenhCoBan",History HD
 https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="arirang" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/arirang/KenhCoBan",Arirang
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://tv.truyenhinh.click/Logo/arirang/KenhCoBan",Arirang
 https://tv.TruyenHinh.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="davincihd" group-title="In The Box" tvg-logo="https://tv.truyenhinh.click/Logo/davincihd/KenhCoBan",DaVinci HD
+#EXTINF:-1 tvg-id="davincihd" tvg-logo="https://tv.truyenhinh.click/Logo/davincihd/KenhCoBan",DaVinci HD
 https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="BNCNow" group-title="Kênh thiết yếu" tvg-logo="https://tv.truyenhinh.click/Logo/BNCNow/KenhBoSung",BNC Now
+#EXTINF:-1 tvg-id="BNCNow" tvg-logo="https://tv.truyenhinh.click/Logo/BNCNow/KenhBoSung",BNC Now
 https://tv.TruyenHinh.Click/BoSung/BNCNow/TruyenHinh.Click
 
 
-#EXTINF:-1 tvg-id="onfootball" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab16hd/KenhCoBan",VTVcab 16 - On Football HD
+#EXTINF:-1 tvg-id="onfootball" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab16hd/KenhCoBan",VTVcab 16 - On Football HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab16hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="onsports" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab3hd/KenhCoBan",VTVcab 3 - On Sports
+#EXTINF:-1 tvg-id="onsports" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab3hd/KenhCoBan",VTVcab 3 - On Sports
 https://tv.TruyenHinh.Click/CoBan/vtvcab3hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab23hd/KenhCoBan",VTVcab 23 - Golf Channel
+#EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab23hd/KenhCoBan",VTVcab 23 - Golf Channel
 https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab6hd/KenhCoBan",VTVcab 6 - On Sports +
+#EXTINF:-1 tvg-id="onsportsplus" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab6hd/KenhCoBan",VTVcab 6 - On Sports +
 https://tv.TruyenHinh.Click/CoBan/vtvcab6hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab1hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab1hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab2hd/KenhCoBan",VTVcab 2 - Phim Việt HD
+#EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab2hd/KenhCoBan",VTVcab 2 - Phim Việt HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab10hd/KenhCoBan",VTVcab10 - On Cine HD
+#EXTINF:-1 tvg-id="vtvcab10hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab10hd/KenhCoBan",VTVcab10 - On Cine HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab19hd/KenhCoBan",VTVcab19 – Vie Dramas
+#EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab19hd/KenhCoBan",VTVcab19 – Vie Dramas
 https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab8hd/KenhCoBan",VTVcab 8 Bibi SD
+#EXTINF:-1 tvg-id="vtvcab8hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab8hd/KenhCoBan",VTVcab 8 Bibi SD
 https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab21hd/KenhCoBan",VTVcab 21- Cartoon Kids HD
+#EXTINF:-1 tvg-id="vtvcab21hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab21hd/KenhCoBan",VTVcab 21- Cartoon Kids HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab4hd/KenhCoBan",Vtvcab 4 – On Movies
+#EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab4hd/KenhCoBan",Vtvcab 4 – On Movies
 https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab5hd/KenhCoBan",VTVcab 5 - E Channel HD
+#EXTINF:-1 tvg-id="vtvcab5hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab5hd/KenhCoBan",VTVcab 5 - E Channel HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab12hd/KenhCoBan",VTVcab 12 - StyleTV HD
+#EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab12hd/KenhCoBan",VTVcab 12 - StyleTV HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab15hd/KenhCoBan",VTVcab15 – On Music
+#EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab15hd/KenhCoBan",VTVcab15 – On Music
 https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab17hd/KenhCoBan",Vtvcab17 – Trending TV
+#EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab17hd/KenhCoBan",Vtvcab17 – Trending TV
 https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab20hd/KenhCoBan",VTVcab 20 - V Family HD
+#EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab20hd/KenhCoBan",VTVcab 20 - V Family HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab22hd/KenhCoBan",VTVcab 22 - Life TV HD
+#EXTINF:-1 tvg-id="vtvcab22hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab22hd/KenhCoBan",VTVcab 22 - Life TV HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab9hd/KenhCoBan",VTVcab 9 - InfoTV HD
+#EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab9hd/KenhCoBan",VTVcab 9 - InfoTV HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab13hd/KenhCoBan",VTVcab13-On Homeshopping
+#EXTINF:-1 tvg-id="vtvcab13hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab13hd/KenhCoBan",VTVcab13-On Homeshopping
 https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTV Cab" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab7hd/KenhCoBan",O2TV
+#EXTINF:-1 tvg-id="vtvcab7hd" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab7hd/KenhCoBan",O2TV
 https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh
 
 
-#EXTINF:-1 tvg-id="137" group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/137/KenhCoBan",Đà Nẵng 1
+#EXTINF:-1 tvg-id="137" tvg-logo="https://tv.truyenhinh.click/Logo/137/KenhCoBan",Đà Nẵng 1
 https://tv.TruyenHinh.Click/CoBan/137/TuyetDoiKhongKinhDoanh
+
