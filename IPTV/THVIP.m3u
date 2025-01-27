@@ -76,32 +76,31 @@ https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u
 https://tv.TruyenHinh.Click/CoBan/afnhd/TuyetDoiKhongKinhDoanh
 
 #VieOn
-#EXTINF:-1 ,HTV2
+#EXTINF:-1 ,HTV2 HD - VieOn
 https://thvip.site/Vieon.php?id=htv2
-#EXTINF:-1 ,HTV1
+#EXTINF:-1 ,HTV1 - VieOn
 https://thvip.site/Vieon.php?id=htv1
-#EXTINF:-1 ,HTV3
+#EXTINF:-1 ,HTV3 - VieOn
 https://thvip.site/Vieon.php?id=htv3
-#EXTINF:-1 ,HTV Key
+#EXTINF:-1 ,HTV Key - VieOn
 https://thvip.site/Vieon.php?id=htv4
-#EXTINF:-1 ,HTV7
+#EXTINF:-1 ,HTV7 HD - VieOn
 https://thvip.site/Vieon.php?id=htv7
-#EXTINF:-1 ,HTV9
+#EXTINF:-1 ,HTV9 HD - VieOn
 https://thvip.site/Vieon.php?id=htv9
-#EXTINF:-1 ,HTV Thể Thao
+#EXTINF:-1 ,HTV Thể Thao HD - VieOn
 https://thvip.site/Vieon.php?id=htvtt
-#EXTINF:-1 ,HTVC Thuần Việt
+#EXTINF:-1 ,HTVC Thuần Việt HD - VieOn
 https://thvip.site/Vieon.php?id=thuanviet
-#EXTINF:-1 ,HTVC Gia Đình
+#EXTINF:-1 ,HTVC Gia Đình HD - VieOn
 https://thvip.site/Vieon.php?id=giadinh
-#EXTINF:-1 ,HTVC Phụ Nữ
+#EXTINF:-1 ,HTVC Phụ Nữ HD - VieOn
 https://thvip.site/Vieon.php?id=phunu
-#EXTINF:-1 ,HTVC Du Lịch
+#EXTINF:-1 ,HTVC Du Lịch HD - VieOn
 https://thvip.site/Vieon.php?id=dulich
-#EXTINF:-1 ,HTVC Ca Nhạc
+#EXTINF:-1 ,HTVC Ca Nhạc HD - VieOn
 https://thvip.site/Vieon.php?id=canhac
-#EXTINF:-1 ,HTVC Phim
+#EXTINF:-1 ,HTVC Phim HD - VieOn
 https://thvip.site/Vieon.php?id=htvcphim
-#EXTINF:-1 ,HTVC Plus
+#EXTINF:-1 ,HTVC Plus HD - VieOn
 https://thvip.site/Vieon.php?id=htvcplus
-
