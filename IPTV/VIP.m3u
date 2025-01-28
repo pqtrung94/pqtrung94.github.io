@@ -27,13 +27,13 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="ON Plus", ON Sports HD (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="ON Plus”, ON Sports+ (ON PLUS)
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="ON Plus", ON Sports+ (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/onplus/HAY_TV/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON Plus”, ON Football HD (ON PLUS)
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON Plus", ON Football HD (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="ON Plus”, ON Sports News (ON PLUS)
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="ON Plus", ON Sports News (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
 
