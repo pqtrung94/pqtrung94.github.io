@@ -13,13 +13,20 @@ https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u
 #---K+
 #EXTINF:-1 tvg-id="kaction" group-title="K+", K+ACTION HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
-#EXTINF:-1 tvg-id="kcinehd" cgroup-title="K+", K+CINE HD
+#https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
+https://HaNoiIPTV.short.gy/HaNoiIPTV-K_ACTION_HD
+http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+", K+CINE HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
+#https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
+https://HaNoiIPTV.short.gy/HaNoiIPTV-K_CINE_HD
+http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
+
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+",K+KIDS HD SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
+https://HaNoiIPTV.short.gy/HaNoiIPTV-K_KIDS_HD
 
 
 #---On Plus
