@@ -72,7 +72,7 @@ https://tv.TruyenHinh.Click/CoBan/thvl2/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="thvl4" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/thvl4/KenhCoBan",Vĩnh Long 4
 https://tv.TruyenHinh.Click/CoBan/thvl4/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="137" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/137/KenhCoBan",Đà Nẵng
+#EXTINF:-1 tvg-id="137" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/137/KenhCoBan",Đà Nẵng 1
 https://tv.TruyenHinh.Click/CoBan/137/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="120" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/120/KenhCoBan",Hải Phòng +
 https://tv.TruyenHinh.Click/CoBan/120/TuyetDoiKhongKinhDoanh
@@ -88,7 +88,7 @@ https://tv.TruyenHinh.Click/CoBan/kix/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="boxmovie1hd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/boxmovie1hd/KenhCoBan",Box Movie 1 HD
 https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="hollywoodclassichd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/hollywoodclassichd/KenhCoBan",Hollywood Classic HD
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/hollywoodclassichd/KenhCoBan",Hollywood Classic
 https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/inthebox/KenhCoBan",In The Box
 https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
@@ -107,14 +107,14 @@ https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="outdoorhd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/outdoorhd/KenhCoBan",Outdoor HD
 https://tv.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="channelnewsasia" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/channelnewsasia/KenhCoBan",Channel News Asia
-https://tv.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh
+#https://tv.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="hgtv" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/hgtv/KenhCoBan",HGTV
 https://tv.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="kbsworld" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/kbsworld/KenhCoBan",KBS World
 https://tv.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="nhk" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/nhk/KenhCoBan",NHK
+#EXTINF:-1 tvg-id="nhkworld" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/nhk/KenhCoBan",NHK World
 https://tv.TruyenHinh.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="france24" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/france24/KenhCoBan",France 24
+#EXTINF:-1 tvg-id="france24eng" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/france24/KenhCoBan",France 24
 https://tv.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="cnbcsd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/cnbcsd/KenhCoBan",CNBC SD
 https://tv.TruyenHinh.Click/CoBan/cnbcsd/TuyetDoiKhongKinhDoanh
@@ -160,13 +160,13 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab7hd/KenhCoBan",O2TV
 https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab16hd/KenhCoBan",VTVcab 16 - On Football HD
+#EXTINF:-1 tvg-id="onfootball" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab16hd/KenhCoBan",VTVcab 16 - On Football HD
 https://tv.TruyenHinh.Click/CoBan/vtvcab16hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab3hd/KenhCoBan",VTVcab 3 - On Sports
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab3hd/KenhCoBan",VTVcab 3 - On Sports
 https://tv.TruyenHinh.Click/CoBan/vtvcab3hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab23hd/KenhCoBan",VTVcab 23 - Golf Channel
+#EXTINF:-1 tvg-id="ongolf" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab23hd/KenhCoBan",VTVcab 23 - Golf Channel
 https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab6hd/KenhCoBan",VTVcab 6 - On Sports +
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTV Cab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab6hd/KenhCoBan",VTVcab 6 - On Sports +
 https://tv.TruyenHinh.Click/CoBan/vtvcab6hd/TuyetDoiKhongKinhDoanh
 
 
@@ -258,6 +258,23 @@ https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tá»•ng Há»£p
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+
+
+
+#---K+
+#EXTINF:-1 tvg-id="kaction" group-title="K+", K+ACTION HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
+http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+", K+CINE HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
+http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+",K+KIDS HD SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
