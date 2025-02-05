@@ -124,6 +124,118 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 
+
+
+#---On Plus
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="ON Plus", ON Sports HD (ON PLUS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="ON Plus", ON Sports+ (ON PLUS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://509942876.r.vtvcdn.com/onplus/HAY_TV/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON Plus", ON Football HD (ON PLUS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="ON Plus", ON Sports News (ON PLUS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
+
+
+#---SCTV
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV", SCTV1 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV", SCTV2 HD - TODAY TV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV", SCTV3 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV", SCTV4 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV", SCTV5 HD - SCJ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV", SCTV6 HD
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV", SCTV7 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv7/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV", SCTV8 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV", SCTV9 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV", SCTV10
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV", SCTV11 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV", SCTV12 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV", SCTV13 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV", SCTV14 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV", SCTV15 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e9.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV", SCTV16 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV", SCTV17 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e9.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV", SCTV18 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV", SCTV19 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV", SCTV20 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV", SCTV21 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV", SCTV22 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV", SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+
+
 #EXTINF:0 tvg-id="haiduong" tvg-logo="https://i.imgur.com/QmzXd4R.png", THD
 #https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/6OWQ8lU.png", DaNangTV1 HD
@@ -138,3 +250,23 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="khichtv|VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
 #https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+
+
+###
+#---K+
+#EXTINF:-1 tvg-id="kaction" group-title="K+", K+ACTION HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
+http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
+#https://HaNoiIPTV.short.gy/HaNoiIPTV-K_ACTION_HD
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+", K+CINE HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
+http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
+#https://HaNoiIPTV.short.gy/HaNoiIPTV-K_CINE_HD
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+",K+KIDS HD SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
+#https://HaNoiIPTV.short.gy/HaNoiIPTV-K_KIDS_HD
