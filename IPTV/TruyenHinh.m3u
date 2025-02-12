@@ -34,7 +34,7 @@ https://tv.TruyenHinh.Click/CoBan/htv2hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
 https://tv.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/htv4/KenhCoBan",HTV4
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/htv4/KenhCoBan",HTV Key
 https://tv.TruyenHinh.Click/CoBan/htv4/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/htv7hd/KenhCoBan",HTV7 HD
 https://tv.TruyenHinh.Click/CoBan/htv7hd/TuyetDoiKhongKinhDoanh
@@ -64,13 +64,13 @@ https://tv.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh thiết yếu" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/qpvnhd/KenhCoBan",QPVN HD
 https://tv.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh
 
-#EXTINF:-1 tvg-id="thvl1" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/htvl1/KenhCoBan",Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/htvl1/KenhCoBan",Vĩnh Long 1
 https://tv.TruyenHinh.Click/CoBan/htvl1/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="thvl2" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/thvl2/KenhCoBan",Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/thvl2/KenhCoBan",Vĩnh Long 2
 https://tv.TruyenHinh.Click/CoBan/thvl2/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="thvl3" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/thvl3/KenhCoBan",Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/thvl3/KenhCoBan",Vĩnh Long 3
 https://tv.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="thvl4" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/thvl4/KenhCoBan",Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/thvl4/KenhCoBan",Vĩnh Long 4
 https://tv.TruyenHinh.Click/CoBan/thvl4/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="137" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/137/KenhCoBan",Đà Nẵng 1
 https://tv.TruyenHinh.Click/CoBan/137/TuyetDoiKhongKinhDoanh
@@ -268,13 +268,16 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 #EXTINF:-1 tvg-id="kaction" group-title="K+", K+ACTION HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
-http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
+#http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
+http://113.180.42.7:12343/rtp/232.84.1.33:8172
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+", K+CINE HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
-http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
+#http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
+http://113.180.42.7:12343/rtp/232.84.1.38:8202
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+",K+KIDS HD SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
+#http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
+http://14.176.78.54:9981/stream/channelid/1350692597?profile=pass
