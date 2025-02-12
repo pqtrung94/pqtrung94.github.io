@@ -1,0 +1,127 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml, http://trada.info/epg.xml"
+
+
+# VTV
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg", VTV5
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg", VTV Cần Thơ
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg", VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg", VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg", VTV9
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png", VTV5 TN
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.png", VTV5 TNB
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
+#--*.*--HTV--*.*--#
+
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/htv2hd.jpg", Vie Channel
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg", HTV1 HD
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://img.lichphatsong.xyz/logo/htv3.png", HTV3 HD
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htvkey" tvg-logo="https://img.lichphatsong.xyz/logo/htvkey.jpg", HTV Key HD
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/htv7hd.jpg", HTV7 HD
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/htv9hd.jpg", HTV9 HD
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img.lichphatsong.xyz/logo/htvthethaohd.jpg", HTV Thể Thao HD
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+
+#--*.*--HTVC--*.*--#
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://img.lichphatsong.xyz/logo/htvcthuanviet.jpg", HTVC Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://img.lichphatsong.xyz/logo/htvcdulichhd.jpg", HTVC DU LỊCH & CUỘC SỐNG HD
+https://live.fptplay53.net/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg", HTVC GIA ĐÌNH HD
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg", HTVC Phụ Nữ
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphimhd.jpg", HTVC Phim HD
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://img.lichphatsong.xyz/logo/htvcplushd.jpg", HTVC PLUS
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://img.lichphatsong.xyz/logo/htvccanhachd.jpg", HTVC CA NHẠC
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+
+#--*.*--Thiết yếu--*.*--#
+
+#EXTINF:0 tvg-id="sctv6hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png", SCTV6 HD
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img.lichphatsong.xyz/logo/antv.png", ANTV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg", QPVN
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
+#-*--Địa phương-*--#
+
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg"", THVL1 HD - Vĩnh Long 1
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" , THVL2 HD - Vĩnh Long 2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong3hd.jpg" , THVL3 HD - Vĩnh Long 3
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png", THVL4 HD - Vĩnh Long 4
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="haiphong" tvg-logo="https://img.lichphatsong.xyz/logo/haiphong.png", THP HD
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+
+#QUỐC TẾ
+
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/afn.jpg", Asian Food Network
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png", Da Vinci
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg", Outdoor Channel
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/main/icon/kix.jpg", Kix
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
+
+
