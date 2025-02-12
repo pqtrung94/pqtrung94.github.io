@@ -126,22 +126,6 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#---On Plus
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="ON Plus", ON Sports HD (ON PLUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="ON Plus", ON Sports+ (ON PLUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/onplus/HAY_TV/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON Plus", ON Football HD (ON PLUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="ON Plus", ON Sports News (ON PLUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
-
-
 #---SCTV
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV", SCTV1 HD
@@ -257,16 +241,18 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 #EXTINF:-1 tvg-id="kaction" group-title="K+", K+ACTION HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
-http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
+#http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
 #https://HaNoiIPTV.short.gy/HaNoiIPTV-K_ACTION_HD
+#http://113.160.152.31:5050/rtp/232.84.1.33:8172
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+", K+CINE HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
-http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
+#http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
 #https://HaNoiIPTV.short.gy/HaNoiIPTV-K_CINE_HD
+#http://113.160.152.31:5050/rtp/232.84.1.38:8202
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+",K+KIDS HD SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
-#https://HaNoiIPTV.short.gy/HaNoiIPTV-K_KIDS_HD
+#http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
+#http://14.176.78.54:9981/stream/channelid/1350692597?profile=pass
