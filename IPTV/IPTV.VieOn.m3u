@@ -1,0 +1,81 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
+#-*--VTV*VIEON-*--#
+
+#EXTINF:0 tvg-id="vtv1hd" ,VTV1
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv1
+
+#EXTINF:0 tvg-id="vtv2hd" ,VTV2
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv2
+
+#EXTINF:0 tvg-id="vtv3hd" ,VTV3
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv3
+
+#EXTINF:0 tvg-id="vtv4hd" ,VTV4
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv4
+
+#EXTINF:-1 tvg-id="vtv5hd" ,VTV5
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv5
+
+#EXTINF:-1 tvg-id="vtv6hd" ,VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtvct
+
+#EXTINF:0 tvg-id="vtv7hd" ,VTV7
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv7
+
+#EXTINF:-1 tvg-id="vtv8hd" ,VTV8
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv8
+
+#EXTINF:-1 tvg-id="vtv9hd" ,VTV9
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv9
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" ,VTV5 HD Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv5tnb
+
+#EXTINF:-1 tvg-id="vtv5hdtn" ,VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=vtv5tn
+
+#-*-Quê hương VIEON-*--#
+
+#EXTINF:0 tvg-id="hanoi1" ,Hà Nội 1
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=hanoi1
+
+#EXTINF:0 tvg-id="hanoi2" ,Hà Nội 2
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=hanoi2
+
+#EXTINF:0 tvg-id="vinhlong1hd" ,Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=thvl1
+
+#EXTINF:0 tvg-id="vinhlong2hd" ,Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=thvl2
+
+#EXTINF:0 tvg-id="vinhlong3hd" ,Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=thvl3
+
+#EXTINF:0 tvg-id="vinhlong4hd" ,Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=thvl4
+
+#EXTINF:0 tvg-id="antvhd" ,An Ninh TV
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=anninh
+
+#EXTINF:0 tvg-id="quocphong" ,QPVN
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/Vieon.php?id=quocphong
