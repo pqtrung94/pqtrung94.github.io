@@ -1,0 +1,64 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
+#-*--VTV*TV360-*--#
+
+#EXTINF:0 tvg-id="vtv1hd" ,VTV1
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=2
+
+#EXTINF:0 tvg-id="vtv2hd" ,VTV2
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=3
+
+#EXTINF:0 tvg-id="vtv3hd" ,VTV3
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=4
+
+#EXTINF:0 tvg-id="vtv4hd" ,VTV4
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=108
+
+#EXTINF:0 tvg-id="vtv5hd" ,VTV5
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=110
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" ,VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=157
+
+#EXTINF:-1 tvg-id="vtv5hdtn" ,VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=207
+
+#EXTINF:0 tvg-id="vtv6hd" ,VTVCT
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=98
+
+#EXTINF:0 tvg-id="vtv7hd" ,VTV7
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=6
+
+#EXTINF:0 tvg-id="vtv8hd" ,VTV8
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=115
+
+#EXTINF:0 tvg-id="vtv9hd" ,VTV9
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=8
+
+
+#EXTINF:0 tvg-id="vinhlong1hd" ,Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=25
+
+#EXTINF:0 tvg-id="vinhlong2hd" ,Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=26
+
+#EXTINF:0 tvg-id="vinhlong3hd" ,Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=219
+
+#EXTINF:0 tvg-id="vinhlong4hd" ,Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.62.229:8889/ace/tv360mpd.php?id=220
