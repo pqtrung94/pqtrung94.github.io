@@ -106,7 +106,7 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png", THVL4 HD - Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="haiphong" tvg-logo="https://img.lichphatsong.xyz/logo/haiphong.png", THP HD
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://img.lichphatsong.xyz/logo/haiphong.png", THP HD
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
 #QUỐC TẾ
