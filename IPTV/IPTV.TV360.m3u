@@ -2,23 +2,23 @@
 
 #-*--VTV-*--#
 
-#EXTINF:0 tvg-id="vtv1hd",VTV1
+#EXTINF:-1 tvg-id="vtv1hd",VTV1
 http://14.162.62.229:8889/ace/tv360mpd.php?id=2
-#EXTINF:0 tvg-id="vtv2hd",VTV2
+#EXTINF:-1 tvg-id="vtv2hd",VTV2
 http://14.162.62.229:8889/ace/tv360mpd.php?id=3
-#EXTINF:0 tvg-id="vtv3hd",VTV3
+#EXTINF:-1 tvg-id="vtv3hd",VTV3
 http://14.162.62.229:8889/ace/tv360mpd.php?id=4
-#EXTINF:0 tvg-id="vtv4hd",VTV4
+#EXTINF:-1 tvg-id="vtv4hd",VTV4
 http://14.162.62.229:8889/ace/tv360mpd.php?id=108
-#EXTINF:0 tvg-id="vtv5hd",VTV5
+#EXTINF:-1 tvg-id="vtv5hd",VTV5
 http://14.162.62.229:8889/ace/tv360mpd.php?id=110
-#EXTINF:0 tvg-id="vtv6hd",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd",VTV Cần Thơ
 http://14.162.62.229:8889/ace/tv360mpd.php?id=98
-#EXTINF:0 tvg-id="vtv7hd",VTV7
+#EXTINF:-1 tvg-id="vtv7hd",VTV7
 http://14.162.62.229:8889/ace/tv360mpd.php?id=6
-#EXTINF:0 tvg-id="vtv8hd",VTV8
+#EXTINF:-1 tvg-id="vtv8hd",VTV8
 http://14.162.62.229:8889/ace/tv360mpd.php?id=115
-#EXTINF:0 tvg-id="vtv9hd",VTV9
+#EXTINF:-1 tvg-id="vtv9hd",VTV9
 http://14.162.62.229:8889/ace/tv360mpd.php?id=8
 #EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
 http://14.162.62.229:8889/ace/tv360mpd.php?id=157
@@ -60,106 +60,106 @@ http://14.162.62.229:8889/ace/tv360mpd.php?id=132
 
 #-*-Khác-*--#
 
-#EXTINF:0 tvg-id="antvhd",ANTV
+#EXTINF:-1 tvg-id="antvhd",ANTV
 http://14.162.62.229:8889/ace/tv360mpd.php?id=20
-#EXTINF:0 tvg-id="qpvnhd",QPVN
+#EXTINF:-1 tvg-id="qpvnhd",QPVN
 http://14.162.62.229:8889/ace/tv360mpd.php?id=19
-#EXTINF:0 tvg-id="vinhlong1hd",Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd",Vĩnh Long 1
 http://14.162.62.229:8889/ace/tv360mpd.php?id=25
-#EXTINF:0 tvg-id="vinhlong2hd",Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd",Vĩnh Long 2
 http://14.162.62.229:8889/ace/tv360mpd.php?id=26
-#EXTINF:0 tvg-id="vinhlong3hd",Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd",Vĩnh Long 3
 http://14.162.62.229:8889/ace/tv360mpd.php?id=219
-#EXTINF:0 tvg-id="vinhlong4hd",Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd",Vĩnh Long 4
 http://14.162.62.229:8889/ace/tv360mpd.php?id=220
-#EXTINF:0 tvg-id="haiphong",Hải Phòng
+#EXTINF:-1 tvg-id="haiphong",Hải Phòng
 http://14.162.62.229:8889/ace/tv360mpd.php?id=60
 
 
 #-*-Khác-*--#
 
-#EXTINF:0 tvg-id="",SCTV6
+#EXTINF:-1 tvg-id="",SCTV6
 #http://14.162.62.229:8889/ace/tv360mpd.php?id=232
-#EXTINF:0 tvg-id="",BTV9
+#EXTINF:-1 tvg-id="",BTV9
 #http://14.162.62.229:8889/ace/tv360mpd.php?id=151
-#EXTINF:0 tvg-id="hanoi1",Hà Nội 1
+#EXTINF:-1 tvg-id="hanoi1",Hà Nội 1
 #http://14.162.62.229:8889/ace/tv360mpd.php?id=33
-#EXTINF:0 tvg-id="hanoi2",Hà Nội 2
+#EXTINF:-1 tvg-id="hanoi2",Hà Nội 2
 #http://14.162.62.229:8889/ace/tv360mpd.php?id=34
-#EXTINF:0 tvg-id="danang1",Đà Nẵng 1
+#EXTINF:-1 tvg-id="danang1",Đà Nẵng 1
 #http://14.162.62.229:8889/ace/tv360mpd.php?id=49
 
 
 #-*-Quốc Tế-*--#
 
-#EXTINF:0 tvg-id="afnhd",AFN
+#EXTINF:-1 tvg-id="afnhd",AFN
 http://14.162.62.229:8889/ace/tv360mpd.php?id=215
-#EXTINF:0 tvg-id="boxmovie1",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1",Box Movie 1
 http://14.162.62.229:8889/ace/tv360mpd.php?id=159
-#EXTINF:0 tvg-id="hollywoodclassics",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics",Hollywood Classics
 http://14.162.62.229:8889/ace/tv360mpd.php?id=160
-#EXTINF:0 tvg-id="inthebox",In The Box
+#EXTINF:-1 tvg-id="inthebox",In The Box
 http://14.162.62.229:8889/ace/tv360mpd.php?id=235
-#EXTINF:0 tvg-id="boxhits",Box Hits
+#EXTINF:-1 tvg-id="boxhits",Box Hits
 http://14.162.62.229:8889/ace/tv360mpd.php?id=239
-#EXTINF:0 tvg-id="davinci",DaVinci
+#EXTINF:-1 tvg-id="davinci",DaVinci
 http://14.162.62.229:8889/ace/tv360mpd.php?id=214
-#EXTINF:0 tvg-id="oudoorhd",Outdoor
+#EXTINF:-1 tvg-id="oudoorhd",Outdoor
 http://14.162.62.229:8889/ace/tv360mpd.php?id=216
-#EXTINF:0 tvg-id="drfithd",Dr.Fit
+#EXTINF:-1 tvg-id="drfithd",Dr.Fit
 http://14.162.62.229:8889/ace/tv360mpd.php?id=162
-#EXTINF:0 tvg-id="woman",Woman
+#EXTINF:-1 tvg-id="woman",Woman
 http://14.162.62.229:8889/ace/tv360mpd.php?id=163
-#EXTINF:0 tvg-id="man",MAN
+#EXTINF:-1 tvg-id="man",MAN
 http://14.162.62.229:8889/ace/tv360mpd.php?id=237
 
-#EXTINF:0 tvg-id="france24eng",France 24
+#EXTINF:-1 tvg-id="france24eng",France 24
 http://14.162.62.229:8889/ace/tv360mpd.php?id=96
-#EXTINF:0 tvg-id="nhkworld",NHK
+#EXTINF:-1 tvg-id="nhkworld",NHK
 http://14.162.62.229:8889/ace/tv360mpd.php?id=106
-#EXTINF:0 tvg-id="dw",DW
+#EXTINF:-1 tvg-id="dw",DW
 http://14.162.62.229:8889/ace/tv360mpd.php?id=109
-#EXTINF:0 tvg-id="planetearthhd",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd",Planet Earth
 http://14.162.62.229:8889/ace/tv360mpd.php?id=135
-#EXTINF:0 tvg-id="happykids",Happy Kids
+#EXTINF:-1 tvg-id="happykids",Happy Kids
 http://14.162.62.229:8889/ace/tv360mpd.php?id=212
-#EXTINF:0 tvg-id="kbsworld",KBS World
+#EXTINF:-1 tvg-id="kbsworld",KBS World
 http://14.162.62.229:8889/ace/tv360mpd.php?id=213
-#EXTINF:0 tvg-id="musicbox",Music Box
+#EXTINF:-1 tvg-id="musicbox",Music Box
 http://14.162.62.229:8889/ace/tv360mpd.php?id=289
 
 
 #-*-VTVCab-*--#
 
-#EXTINF:0 tvg-id="ono2tv",ON O2TV
+#EXTINF:-1 tvg-id="ono2tv",ON O2TV
 http://14.162.62.229:8889/ace/tv360mpd.php?id=136
-#EXTINF:0 tvg-id="ongolf",ON Golf
+#EXTINF:-1 tvg-id="ongolf",ON Golf
 http://14.162.62.229:8889/ace/tv360mpd.php?id=169
-#EXTINF:0 tvg-id="onphimviet",ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet",ON Phim Việt
 http://14.162.62.229:8889/ace/tv360mpd.php?id=175
-#EXTINF:0 tvg-id="oncine",ON Cine
+#EXTINF:-1 tvg-id="oncine",ON Cine
 http://14.162.62.229:8889/ace/tv360mpd.php?id=176
-#EXTINF:0 tvg-id="onviedramas",ON Vie DRAMAS
+#EXTINF:-1 tvg-id="onviedramas",ON Vie DRAMAS
 http://14.162.62.229:8889/ace/tv360mpd.php?id=177
-#EXTINF:0 tvg-id="onbibi",ON Bibi
+#EXTINF:-1 tvg-id="onbibi",ON Bibi
 http://14.162.62.229:8889/ace/tv360mpd.php?id=178
-#EXTINF:0 tvg-id="onkids",ON Kids
+#EXTINF:-1 tvg-id="onkids",ON Kids
 http://14.162.62.229:8889/ace/tv360mpd.php?id=179
-#EXTINF:0 tvg-id="onviegiaitri",ON Vie Giải Trí
+#EXTINF:-1 tvg-id="onviegiaitri",ON Vie Giải Trí
 http://14.162.62.229:8889/ace/tv360mpd.php?id=180
-#EXTINF:0 tvg-id="onmovies",ON Movies
+#EXTINF:-1 tvg-id="onmovies",ON Movies
 http://14.162.62.229:8889/ace/tv360mpd.php?id=181
-#EXTINF:0 tvg-id="onechannel",ON Echannel
+#EXTINF:-1 tvg-id="onechannel",ON Echannel
 http://14.162.62.229:8889/ace/tv360mpd.php?id=182
-#EXTINF:0 tvg-id="onstyle",ON Style
+#EXTINF:-1 tvg-id="onstyle",ON Style
 http://14.162.62.229:8889/ace/tv360mpd.php?id=184
-#EXTINF:0 tvg-id="onmusic",ON Music
+#EXTINF:-1 tvg-id="onmusic",ON Music
 http://14.162.62.229:8889/ace/tv360mpd.php?id=185
-#EXTINF:0 tvg-id="ontrending",ON Trending
+#EXTINF:-1 tvg-id="ontrending",ON Trending
 http://14.162.62.229:8889/ace/tv360mpd.php?id=186
-#EXTINF:0 tvg-id="onvfamily",ON VFamily
+#EXTINF:-1 tvg-id="onvfamily",ON VFamily
 http://14.162.62.229:8889/ace/tv360mpd.php?id=187
-#EXTINF:0 tvg-id="onlife",ON Life
+#EXTINF:-1 tvg-id="onlife",ON Life
 http://14.162.62.229:8889/ace/tv360mpd.php?id=188
-#EXTINF:0 tvg-id="oninfo",ON Info
+#EXTINF:-1 tvg-id="oninfo",ON Info
 http://14.162.62.229:8889/ace/tv360mpd.php?id=189
