@@ -10,10 +10,10 @@ https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
 #---Khác
-#EXTINF:0,HBO
+#EXTINF:-1,HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:0,Cinemax
+#EXTINF:-1,Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
@@ -56,66 +56,66 @@ https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
 
 #---SCTV Link 1
 
-#EXTINF:0 tvg-id="sctv1hd",SCTV1
+#EXTINF:-1 tvg-id="sctv1hd",SCTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
-#EXTINF:0 tvg-id="sctv2hd",SCTV2 - Today TV
+#EXTINF:-1 tvg-id="sctv2hd",SCTV2 - Today TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
-#EXTINF:0 tvg-id="sctv3hd",SCTV3 - SEE TV
+#EXTINF:-1 tvg-id="sctv3hd",SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8
-#EXTINF:0 tvg-id="sctv4hd",SCTV4
+#EXTINF:-1 tvg-id="sctv4hd",SCTV4
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
-#EXTINF:0 tvg-id="sctv5hd",SCTV5 - SCJ
+#EXTINF:-1 tvg-id="sctv5hd",SCTV5 - SCJ
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
-#EXTINF:0 tvg-id="sctv6hd",SCTV6
+#EXTINF:-1 tvg-id="sctv6hd",SCTV6
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
-#EXTINF:0 tvg-id="sctv7hd",SCTV7
+#EXTINF:-1 tvg-id="sctv7hd",SCTV7
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
-#EXTINF:0 tvg-id="sctv8hd",SCTV8 - VITV
+#EXTINF:-1 tvg-id="sctv8hd",SCTV8 - VITV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
-#EXTINF:0 tvg-id="sctv9hd",SCTV9
+#EXTINF:-1 tvg-id="sctv9hd",SCTV9
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
-#EXTINF:0 tvg-id="sctv10hd",SCTV10
+#EXTINF:-1 tvg-id="sctv10hd",SCTV10
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
-#EXTINF:0 tvg-id="sctv11hd",SCTV11
+#EXTINF:-1 tvg-id="sctv11hd",SCTV11
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
-#EXTINF:0 tvg-id="sctv12hd",SCTV12
+#EXTINF:-1 tvg-id="sctv12hd",SCTV12
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
-#EXTINF:0 tvg-id="sctv13hd",SCTV13
+#EXTINF:-1 tvg-id="sctv13hd",SCTV13
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
-#EXTINF:0 tvg-id="sctv14hd",SCTV14 - Kênh Phim Việt
+#EXTINF:-1 tvg-id="sctv14hd",SCTV14 - Kênh Phim Việt
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8
 
-#EXTINF:0 tvg-id="sctv16hd",SCTV16
+#EXTINF:-1 tvg-id="sctv16hd",SCTV16
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 
-#EXTINF:0 tvg-id="sctv18hd",SCTV18
+#EXTINF:-1 tvg-id="sctv18hd",SCTV18
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
-#EXTINF:0 tvg-id="sctv19hd",SCTV19 - T Channel
+#EXTINF:-1 tvg-id="sctv19hd",SCTV19 - T Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8
-#EXTINF:0 tvg-id="sctv20hd",SCTV20
+#EXTINF:-1 tvg-id="sctv20hd",SCTV20
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
-#EXTINF:0 tvg-id="sctv21hd",SCTV21
+#EXTINF:-1 tvg-id="sctv21hd",SCTV21
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
-#EXTINF:0 tvg-id="sctvhdpth",SCTV Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
