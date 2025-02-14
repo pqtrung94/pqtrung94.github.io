@@ -2,19 +2,19 @@
 
 #-*--VTV*VIEON-*--#
 
-#EXTINF:0 tvg-id="vtv1hd",VTV1
+#EXTINF:-1 tvg-id="vtv1hd",VTV1
 http://14.162.62.229:8889/Vieon.php?id=vtv1
-#EXTINF:0 tvg-id="vtv2hd",VTV2
+#EXTINF:-1 tvg-id="vtv2hd",VTV2
 http://14.162.62.229:8889/Vieon.php?id=vtv2
-#EXTINF:0 tvg-id="vtv3hd",VTV3
+#EXTINF:-1 tvg-id="vtv3hd",VTV3
 http://14.162.62.229:8889/Vieon.php?id=vtv3
-#EXTINF:0 tvg-id="vtv4hd",VTV4
+#EXTINF:-1 tvg-id="vtv4hd",VTV4
 http://14.162.62.229:8889/Vieon.php?id=vtv4
 #EXTINF:-1 tvg-id="vtv5hd",VTV5
 http://14.162.62.229:8889/Vieon.php?id=vtv5
 #EXTINF:-1 tvg-id="vtv6hd",VTV Cần Thơ
 http://14.162.62.229:8889/Vieon.php?id=vtvct
-#EXTINF:0 tvg-id="vtv7hd",VTV7
+#EXTINF:-1 tvg-id="vtv7hd",VTV7
 http://14.162.62.229:8889/Vieon.php?id=vtv7
 #EXTINF:-1 tvg-id="vtv8hd",VTV8
 http://14.162.62.229:8889/Vieon.php?id=vtv8
@@ -56,26 +56,26 @@ http://14.162.62.229:8889/Vieon.php?id=htvcphim
 http://14.162.62.229:8889/Vieon.php?id=htvcplus
 
 #-*-Quê hương VIEON-*--#
-#EXTINF:0 tvg-id="antvhd",An Ninh TV
+#EXTINF:-1 tvg-id="antvhd",An Ninh TV
 http://14.162.62.229:8889/Vieon.php?id=anninh
-#EXTINF:0 tvg-id="quocphong",QPVN
+#EXTINF:-1 tvg-id="quocphong",QPVN
 http://14.162.62.229:8889/Vieon.php?id=quocphong
-#EXTINF:0 tvg-id="vinhlong1hd",Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd",Vĩnh Long 1
 http://14.162.62.229:8889/Vieon.php?id=thvl1
-#EXTINF:0 tvg-id="vinhlong2hd",Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd",Vĩnh Long 2
 http://14.162.62.229:8889/Vieon.php?id=thvl2
-#EXTINF:0 tvg-id="vinhlong3hd",Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd",Vĩnh Long 3
 http://14.162.62.229:8889/Vieon.php?id=thvl3
-#EXTINF:0 tvg-id="vinhlong4hd",Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd",Vĩnh Long 4
 http://14.162.62.229:8889/Vieon.php?id=thvl4
-#EXTINF:0 tvg-id="haiphong",THP
+#EXTINF:-1 tvg-id="haiphong",THP
 http://14.162.62.229:8889/Vieon.php?id=haiphong
 
-#EXTINF:0 tvg-id="hanoi1",Hà Nội 1
+#EXTINF:-1 tvg-id="hanoi1",Hà Nội 1
 http://14.162.62.229:8889/Vieon.php?id=hanoi1
-#EXTINF:0 tvg-id="hanoi2",Hà Nội 2
+#EXTINF:-1 tvg-id="hanoi2",Hà Nội 2
 http://14.162.62.229:8889/Vieon.php?id=hanoi2
-#EXTINF:0 tvg-id="danang1",Đà Nẵng 1
+#EXTINF:-1 tvg-id="danang1",Đà Nẵng 1
 http://14.162.62.229:8889/Vieon.php?id=danang1
-#EXTINF:0 tvg-id="danang2",Đà Nẵng 2
+#EXTINF:-1 tvg-id="danang2",Đà Nẵng 2
 http://14.162.62.229:8889/Vieon.php?id=danang2
