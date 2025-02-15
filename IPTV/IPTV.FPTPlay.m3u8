@@ -3,23 +3,23 @@
 
 #--*-VTV-*--#
 
-#EXTINF:0 tvg-id="vtv1hd",VTV1
+#EXTINF:-1 tvg-id="vtv1hd",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv2hd",VTV2
+#EXTINF:-1 tvg-id="vtv2hd",VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv3hd",VTV3
+#EXTINF:-1 tvg-id="vtv3hd",VTV3
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv4hd",VTV4
+#EXTINF:-1 tvg-id="vtv4hd",VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv5hd",VTV5
+#EXTINF:-1 tvg-id="vtv5hd",VTV5
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv6hd",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd",VTV Cần Thơ
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv7hd",VTV7
+#EXTINF:-1 tvg-id="vtv7hd",VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv8hd",VTV8
+#EXTINF:-1 tvg-id="vtv8hd",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv9hd",VTV9
+#EXTINF:-1 tvg-id="vtv9hd",VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
@@ -28,11 +28,10 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 
 
 #-*-HTV-*--#
-
+#EXTINF:-1 tvg-id="htv2hd",Vie Channel
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv1",HTV1
 https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv2hd",HTV2
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3",HTV3
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv4",HTV Key
@@ -43,6 +42,8 @@ https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd",HTVC Phim
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd",HTVC Gia Đình
@@ -53,27 +54,25 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd",HTVC Ca Nhạc
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcphimhd",HTVC Phim
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcplus",HTVC+
+#EXTINF:-1 tvg-id="htvcplushd",HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 
 #-*-Khác-*--#
 
 #EXTINF:-1 tvg-id="sctv6hd",SCTV6
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="antvhd",ANTV
+#https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="quocphong",QPVN
+#EXTINF:-1 tvg-id="quocphong",QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vinhlong1hd",THVL1
+#EXTINF:-1 tvg-id="vinhlong1hd",THVL1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vinhlong2hd",THVL2
+#EXTINF:-1 tvg-id="vinhlong2hd",THVL2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vinhlong3hd",THVL3
+#EXTINF:-1 tvg-id="vinhlong3hd",THVL3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vinhlong4hd",THVL4
+#EXTINF:-1 tvg-id="vinhlong4hd",THVL4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphong",Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
@@ -90,162 +89,68 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 
-#-*-Quốc Tế 2-*--#
+#---SCTV Link 1
 
+#EXTINF:-1 tvg-id="sctv1hd",SCTV1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd",SCTV2 - Today TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="sctv3hd",SCTV3 - SEE TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="sctvh4d",SCTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+#EXTINF:-1 tvg-id="sctv5hd",SCTV5 - SCJ
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd",SCTV6
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
+#EXTINF:-1 tvg-id="sctv7hd",SCTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd",SCTV8 - VITV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd",SCTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="sctv10hd",SCTV10
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
+#EXTINF:-1 tvg-id="sctv11hd",SCTV11
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd",SCTV12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd",SCTV13
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd",SCTV14 - Kênh Phim Việt
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8
 
-#EXTINF:-1 tvg-id="cnbchd",CNBC
-https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kbsworld",KBS WORLD
-https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhk",NHK
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dw",DW
-https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="arirang",Arirang
-https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="channelnewsasia",CNA
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="france24eng",France 24
-https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="tv5monde",TV5 Monde
-https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="sctv16hd",SCTV16
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 
+#EXTINF:-1 tvg-id="sctv18hd",SCTV18
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd",SCTV19 - T Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd",SCTV20
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd",SCTV21
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth",SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
-#-*--Địa phương 1-*--#
-
-#EXTINF:0 tvg-id="hanoi1",Hà Nội 1
-https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="hanoi2",Hà Nội 2
-https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang1",Đà Nẵng 1
-https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang2",Đà Nẵng 2
-https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
-
-
-#-*--Địa phương 2-*--#
-
-#EXTINF:-1 tvg-id="angiang",An Giang
-https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="baria",Bà Rịa - Vũng Tàu
-https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="bacgiang",Bắc Giang
-https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="bacninh",Bắc Ninh
-https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="backan",Bắc Kạn
-https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="baclieu",Bạc Liêu
-https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="bentre",Bến Tre
-https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhdinh",Bình Định
-https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhduong1",BTV1 - Bình Dương 1
-https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhduong2",BTV2 - Bình Dương 2
-https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhphuoc1",Bình Phước 1
-https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhphuoc2",Bình Phước 2
-https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhthuan",Bình Thuận
-https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="camau",Cà Mau
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="cantho",Cần Thơ
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="caobang",Cao Bằng
-https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="daklak",Đắk Lắk
-https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dienbien",Điện Biên
-https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongnai1",Đồng Nai 1
-https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongnai2",Đồng Nai 2
-https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongthap1",Đồng Tháp 1
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongthap2",Đồng Tháp 2
-https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="gialai",Gia Lai
-https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hagiang",Hà Giang
-https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hanam",Hà Nam
-https://live.fptplay53.net/fnxsd1/hanam_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hatinh",Hà Tĩnh
-https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="haiduong",Hải Dương
-https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="haugiang",Hậu Giang
-https://live.fptplay53.net/epzsd1/haugiang_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hoabinh",Hoà Bình
-https://live.fptplay53.net/fnxsd1/hoabinh_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hungyen",Hưng Yên
-https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="khanhhoa",Khánh Hoà
-https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kiengiang",Kiên Giang
-https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="komtum",Kontum
-https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="laichau",Lai Châu
-https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="lamdong",Lâm Đồng
-https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="langson",Lạng Sơn
-https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="laocai",Lào Cai
-https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="longan",Long An
-https://live.fptplay53.net/epzsd1/longan_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="namdinh",Nam Định
-https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="nghean",Nghệ An
-https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ninhbinh",Ninh Bình
-https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ninhthuan",Ninh Thuận
-https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="phutho",Phú Thọ
-https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="phuyen",Phú Yên
-https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangbinh",Quảng Bình
-https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangnam",Quảng Nam
-https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangngai",Quảng Ngãi
-https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangninh1",Quảng Ninh 1
-https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangninh3",Quảng Ninh 3
-https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangtri",Quảng Trị
-https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="soctrang1",Sóc Trăng
-https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="sonla",Sơn La
-https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="tayninh",Tây Ninh
-https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="thaibinh",Thái Bình
-https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="thainguyen",Thái Nguyên
-https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="thanhhoa",Thanh Hoá
-https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hue",Huế
-https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="tiengiang",Tiền Giang
-https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="travinh1",Trà Vinh
-https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="tuyenquang",Tuyên Quang
-https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhphuc",Vĩnh Phúc
-https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="yenbai",Yên Bái
-https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist.m3u8
