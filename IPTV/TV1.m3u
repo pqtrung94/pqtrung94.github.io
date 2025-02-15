@@ -53,11 +53,11 @@ udp://@225.1.4.62:30120
 udp://@225.1.4.64:30120
 #EXTINF:-1 tvg-id="htvcphunuhd", HTVC Phụ nữ HD
 udp://@225.1.4.66:30120
-#EXTINF:-1 tvg-id="htvcdulichhd", HTVC Du lịch Cuộc sống HD
+#EXTINF:-1 tvg-id="htvcdulichhd", HTVC Du lịch HD
 udp://@225.1.4.67:30120
 #EXTINF:-1 tvg-id="htvccanhachd", HTVC Ca nhạc HD
 udp://@225.1.4.223:30120
-#EXTINF:-1 tvg-id="htvcplushd", HTVC Plus HD
+#EXTINF:-1 tvg-id="htvcplushd", HTVC+ HD
 udp://@225.1.4.91:30120
 
 
@@ -65,7 +65,7 @@ udp://@225.1.4.91:30120
 #-*--Thiết yếu-*--#
 
 #EXTINF:-1 tvg-id="sctv6hd",SCTV 6
-udp://@225.1.4.211:30120
+#udp://@225.1.4.211:30120
 #EXTINF:-1 tvg-id="antvhd", ANTV HD
 udp://@225.1.4.221:30120
 #EXTINF:-1 tvg-id="qpvnhd", QPVN HD
