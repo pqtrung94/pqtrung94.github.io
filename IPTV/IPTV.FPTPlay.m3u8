@@ -60,32 +60,37 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #-*-Khác-*--#
 
-#EXTINF:-1 tvg-id="sctv6hd",SCTV6
-#https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="antvhd",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="quocphong",QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong1hd",THVL1
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd",THVL2
-https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd",THVL3
-https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd",THVL4
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="haiphong",Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
 
 
-#-*-Quốc Tế 1-*--#
+#-*-Quốc Tế-*--#
 
 #EXTINF:-1 tvg-id="afnhd",AFN
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kixhd",Kix
+#EXTINF:-1 tvg-id="kixhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/refs/heads/main/icon/kix.jpg",Kix
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="davinci",DaVinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 
+
+#-*-Dự Phòng-*--#
+
+#EXTINF:-1 tvg-id="sctv6hd",SCTV6
+#https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd",THVL1
+#https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd",THVL2
+#https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd",THVL3
+#https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd",THVL4
+#https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
