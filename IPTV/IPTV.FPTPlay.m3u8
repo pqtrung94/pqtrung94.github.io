@@ -96,3 +96,20 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2",Đà Nẵng 2
 #https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="cnbcfhd", CNBC
+#https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="kbsworld", KBS World
+#https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="nhk, NHK World
+#https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dw", DW
+#https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="arirang", Arirang
+#https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="channelnewsasia", CNA
+#https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="france24eng", France 24
+#https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="tv5monde", TV5Monde
+#https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
