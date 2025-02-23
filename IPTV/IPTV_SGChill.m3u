@@ -1,248 +1,503 @@
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml"
-
-#EXTINF:-1,VTV1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv1/index.m3u8
-#EXTINF:-1,VTV2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv2/index.m3u8
-#EXTINF:-1,VTV3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv3/index.m3u8
-#EXTINF:-1,VTV4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv4/index.m3u8
-#EXTINF:-1,VTV5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv5/index.m3u8
-#EXTINF:-1,VTV Cần Thơ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv6/index.m3u8
-#EXTINF:-1,VTV7 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv7/index.m3u8
-#EXTINF:-1,VTV8 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv8/index.m3u8
-#EXTINF:-1,VTV9 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv9/index.m3u8
-#EXTINF:-1,VTV5 HD - Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv5tnb/index.m3u8
-#EXTINF:-1,VTV5 HD - Tây Nguyên
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv5tn/index.m3u8
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 
-#EXTINF:-1,HTV2 HD
+#*--_--*#| Kênh VTV*--_--*#
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv1.png",VTV1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/2/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv2.png",VTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/3/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv3.png",VTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/4/index.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv4.png",VTV4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/108/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv5.png",VTV5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/110/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv6.png",VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/98/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv7.png",VTV7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/6/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv8.png",VTV8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/115/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv9.png",VTV9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/8/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv5tnb.png",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/157/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv5tn.png",VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/207/index.m3u8
+
+
+#*--_--#| Kênh HTV/C*--_--*#
+#EXTINF:-1 tvg-id="htv2hd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv2.png",HTV2 - Vie Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv2/index.m3u8
-#EXTINF:48,HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv1.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv1/index.m3u8
-#EXTINF:-1,HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv3.png",HTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv3/index.m3u8
-#EXTINF:-1,HTV Key
+#EXTINF:-1 tvg-id="htvkey" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv4.png",HTV Keys
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv4/index.m3u8
-#EXTINF:-1,HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv7.png",HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv7/index.m3u8
-#EXTINF:-1,HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htv9.png",HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htv9/index.m3u8
-#EXTINF:-1,HTV Thể Thao HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvthethao.png",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/195/index.m3u8
-#EXTINF:-1,HTVC Phim HD
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcphim.png",HTVC Phim
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcphim/index.m3u8
-#EXTINF:-1,HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcthuanviet.png",HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcthuanviet/index.m3u8
-#EXTINF:-1,HTVC Gia Đình HD
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcgiadinh.png",HTVC Gia Đình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcgiadinh/index.m3u8
-#EXTINF:-1,HTVC Phụ Nữ HD
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcphunu.png",HTVC Phụ Nữ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcphunu/index.m3u8
-#EXTINF:-1,HTVC Ca Nhạc HD
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvccanhac.png",HTVC Ca Nhạc
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvccanhac/index.m3u8
-#EXTINF:-1,HTVC Du Lịch HD
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcdulich.png",HTVC Du Lịch
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcdulich/index.m3u8
-#EXTINF:-1,HTVC Plus HD
+#EXTINF:-1 tvg-id="htvcplushd" group-title="#| Kênh HTV/C" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/hplus/htvcplus.png",HTVC Plus
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/htvcplus/index.m3u8
 
 
-#EXTINF:-1,ANTV HD
+#*--_--*#| Kênh Thiết yếu*--_--*#
+
+#EXTINF:-1 tvg-id="antvhd" group-title="#| Kênh Thiết yếu" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/thietyeu/antv.png",An Ninh TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/antv/index.m3u8
-#EXTINF:-1,QPVN HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="#| Kênh Thiết yếu" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/thietyeu/qpvn.png",Quốc Phòng VN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/quocphong/index.m3u8
-
-
-#EXTINF:-1,Box Hits HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/239/index.m3u8
-#EXTINF:-1,Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/159/index.m3u8
-#EXTINF:-1,In The Box HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/235/index.m3u8
-#EXTINF:-1,Hollywood Classics
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/160/index.m3u8
-
-
-#EXTINF:-1 ,THP
+#EXTINF:-1 tvg-id="haiphong" group-title="#| Kênh Thiết yếu" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png",Hải Phòng
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-id="afnhd" group-title="#| Kênh Thiết yếu" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/afn.png",AFN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/215/index.m3u8
 
+#*--_--*#| Kênh VTVcab*--_--*#
 
-#EXTINF:-1,Happy Kids HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/212/index.m3u8
-#EXTINF:-1,Dr.Fit HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/162/index.m3u8
-#EXTINF:-1,Music Box HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/289/index.m3u8
-#EXTINF:-1,Planet Earth HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/135/index.m3u8
-#EXTINF:-1,Man HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/237/index.m3u8
-#EXTINF:-1,Woman HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/163/index.m3u8
-#EXTINF:-1,HBO HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv528/hbo/index.m3u8
-#EXTINF:-1,Cinemax HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv528/cinemax/index.m3u8
-
-
-#EXTINF:-1,ON Vie Giải trí
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab1.png",ON Vie GIẢI TRÍ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/180/index.m3u8
-#EXTINF:-1,ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab2.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/175/index.m3u8
-#EXTINF:-1,ON Movies
+#EXTINF:-1 tvg-id="onsports" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab3.png",ON Sports
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://live2onsport.vtvcab.vn/onplus/THETHAO_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onmovies" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab4.png",ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/181/index.m3u8
-#EXTINF:-1,ON EChannel
+#EXTINF:-1 tvg-id="onechannel" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab5.png",ON EChannel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/182/index.m3u8
-#EXTINF:-1,ON O2TV
+#EXTINF:-1 tvg-id="onsportsplus" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab6.png",ON Sports+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://live2onsport.vtvcab.vn/onplus/HAY_TV/manifest.mpd
+#EXTINF:-1 tvg-id="ono2tv" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab7.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/136/index.m3u8
-#EXTINF:-1,ON BiBi
+#EXTINF:-1 tvg-id="onbibi" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab8.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/178/index.m3u8
-#EXTINF:-1,ON Info TV
+#EXTINF:-1 tvg-id="oninfotv" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab9.png",ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/189/index.m3u8
-#EXTINF:-1,ON Cine
+#EXTINF:-1 tvg-id="oncine" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab10.png",ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/176/index.m3u8
-#EXTINF:-1,ON Style
+#EXTINF:-1 tvg-id="onstyle" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab12.png",ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/184/index.m3u8
-#EXTINF:-1,ON Homeshopping
+#EXTINF:-1 tvg-id="vtvcab13" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab13.png",ON Homeshopping
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/27/index.m3u8
-#EXTINF:-1,ON Music
+#EXTINF:-1 tvg-id="onmusic" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab15.png",ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/185/index.m3u8
-#EXTINF:-1,ON Trending
+#EXTINF:-1 tvg-id="onfootball" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab16.png",ON Football
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://live2onsport.vtvcab.vn/onplus/BONGDA_HD/manifest.mpd
+#EXTINF:-1 tvg-id="ontrending" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab17.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/186/index.m3u8
-#EXTINF:-1,ON Vie DRAMAS
+#EXTINF:-1 tvg-id="onsportsnews" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab18.png",ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://live2onsport.vtvcab.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onviedramas" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab19.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/177/index.m3u8
-#EXTINF:-1,ON VFamily
+#EXTINF:-1 tvg-id="onvfamily" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab20.png",ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/187/index.m3u8
-#EXTINF:-1,ON Kids
+#EXTINF:-1 tvg-id="onkids" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab21.png",ON Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/179/index.m3u8
-#EXTINF:-1,ON Life
+#EXTINF:-1 tvg-id="onlife" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab22.png",ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/188/index.m3u8
-#EXTINF:-1,ON Golf
+#EXTINF:-1 tvg-id="ongolf" group-title="#| Kênh VTVcab" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtvcab/vtvcab23.png",ON Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/169/index.m3u8
 
 
-#EXTINF:-1,SCTV1 HD
+
+
+
+#*--_--*#| Kênh SCTV*--_--*#
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv1.png",SCTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
-#EXTINF:-1,SCTV2 HD
+#EXTINF:-1 tvg-id="sctv2hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv2.png",SCTV2 - Today TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
-#EXTINF:-1,SCTV3 HD
+#EXTINF:-1 tvg-id="sctv3hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv3.png",SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8
-#EXTINF:-1,SCTV4 HD
+#EXTINF:-1 tvg-id="sctv4hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv4.png",SCTV4
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
-#EXTINF:-1,SCTV5 HD
+#EXTINF:-1 tvg-id="sctv5hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv5.png",SCTV5 - SCJ
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
-#EXTINF:-1,SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv6.png",SCTV6
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
-#EXTINF:-1,SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv7.png",SCTV7
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
-#EXTINF:-1,SCTV8 HD
+#EXTINF:-1 tvg-id="sctv8hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv8.png",SCTV8 - VITV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
-#EXTINF:-1,SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv9.png",SCTV9
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
-#EXTINF:-1,SCTV10 HD
+#EXTINF:-1 tvg-id="sctv10hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv10.png",SCTV10
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
-#EXTINF:-1,SCTV11 HD
+#EXTINF:-1 tvg-id="sctv11hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv11.png",SCTV11
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
-#EXTINF:-1,SCTV12 HD
+#EXTINF:-1 tvg-id="sctv12hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv12.png",SCTV12
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
-#EXTINF:-1,SCTV13 HD
+#EXTINF:-1 tvg-id="sctv13hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv13.png",SCTV13
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
-#EXTINF:-1,SCTV14 HD
+#EXTINF:-1 tvg-id="sctv14hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv14.png",SCTV14 - Kênh Phim Việt
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8
-#EXTINF:-1,SCTV16 HD
+#EXTINF:-1 tvg-id="sctv15hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv15.png",SCTV15 - Ssport2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://live2onsport.vtvcab.vn/onplus/SCTV15HD/manifest.mpd
+#EXTINF:-1 tvg-id="sctv16hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv16.png",SCTV16
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
-#EXTINF:-1,SCTV18 HD
+#EXTINF:-1 tvg-id="sctv17hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv17.png",SCTV17 - Ssport
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://live2onsport.vtvcab.vn/onplus/SCTV17/manifest.mpd
+#EXTINF:-1 tvg-id="sctv18hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv18.png",SCTV18
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
-#EXTINF:-1,SCTV19 HD
+#EXTINF:-1 tvg-id="sctv19hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv19.png",SCTV19 - T Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8
-#EXTINF:-1,SCTV20 HD
+#EXTINF:-1 tvg-id="sctv20hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv20.png",SCTV20
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
-#EXTINF:-1,SCTV21 HD
+#EXTINF:-1 tvg-id="sctv21hd" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv21.png",SCTV21
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
-#EXTINF:-1,SCTV HD Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="#| Kênh SCTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctvpth.png",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+
+
+
+
+
+#*--_--*#| Kênh Box*--_--*#
+#EXTINF:-1 tvg-id="boxhits" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/boxhits.png",Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/239/index.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/boxmovie1.png",Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/159/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/inthebox.png",In The Box Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/235/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/hollywoodclassics.png",Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/160/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/happykids.png",Happy Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/212/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/drfit.png",Dr.Fit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/162/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/musicbox.png",Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/289/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/planetearth.png",Planet Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/135/index.m3u8
+#EXTINF:-1 tvg-id="man" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/man.png",Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/237/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="#| Kênh Box" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/inthebox/woman.png",Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/163/index.m3u8
+
+
+#*--_--*#| Kênh HBO GO*--_--*#
+
+#EXTINF:-1 tvg-id="hbohd" group-title="#| Kênh HBO GO" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/hbo.png",HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="#| Kênh HBO GO" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/cinemax.png",Cinemax
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#*--_--*#| Kênh Quốc Tế*--_--*#
+#EXTINF:-1 tvg-id="axnhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/axn.png",AXN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="arirang" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/arirang.png",Arirang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/111/index.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/animal-planet.png",Animal Planet
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+#EXTINF:-1 tvg-id="abcaustralia" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/abc-australia.png",ABC Australia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cbeebies" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/bbc-cbeebies.png",BBC CBeebies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbcearth" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/bbc-earth.png",BBC Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/bbc-lifestyle.png",BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/bbc-news.png",BBC News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+#EXTINF:-1 tvg-id="bloomberg" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/bloomberg.png",Bloomberg
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
+#EXTINF:-1 tvg-id="boomerang" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/boomerang.png",Boomerang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cartoonhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/cartoon-network.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/cinemaworld.png",CinemaWorld
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cnbc" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/cnbc.png",CNBC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/9855/index.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/cna.png",CNA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/cna/index.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/cnn.png",CNN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="dw" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/dw.png",DW
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/dw/index.m3u8
+#EXTINF:-1 tvg-id="dmax" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/dmax.png",DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1 tvg-id="davinci" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/davinci.png",Da Vinci
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/214/index.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/dreamworks.png",Dreamworks
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamworks.smil/manifest.mpd
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/discovery-asia.png",Discovery Asia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#EXTINF:-1 tvg-id="discoveryhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/discovery-channel.png",Discovery Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="fashionhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/fashiontv.png",Fashion TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+#EXTINF:-1 tvg-id="france24eng" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/france24_eng.png",France 24 English
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/france24_eng/index.m3u8
+#EXTINF:-1 tvg-id="france24fr" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/france24_fr.png",France 24 Francais
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/france24_fr/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/hgtv.png",HGTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/99/index.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/history.png",History
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/9856/index.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/kix.png",KIX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/9901/index.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/kbsworld.png",KBS World
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/kbsworld/index.m3u8
+#EXTINF:-1 tvg-id="nhkworld" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/nhkworldjp.png",NHK World
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/nhkworld/index.m3u8
+#EXTINF:-1 tvg-id="outdoorhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/outdoor.png",Outdoor Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/216/index.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/tlc.png",TLC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+#EXTINF:-1 tvg-id="tv5monde" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/tv5monde.png",TV5Monde
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="#| Kênh Quốc Tế" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/global/warnertv.png",Warner TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v8/key/tv.xml
+http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
+
+###---Dự Phòng
+#EXTINF:-1 tvg-id="vtv1hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv1.png",VTV1 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv1/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv2.png",VTV2 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv2/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv3.png",VTV3 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv3/index.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv4.png",VTV4 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv4/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv5.png",VTV5 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv5/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv6.png",VTV Cần Thơ (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv6/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv7.png",VTV7 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv8.png",VTV8 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv9.png",VTV9 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv9/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv5tnb.png",VTV5 Tây Nam Bộ (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv5tnb/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="#| Kênh VTV" group-logo="https://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/tv/vtv/vtv5tn.png",VTV5 Tây Nguyên (Dự phòng)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/vtv5tn/index.m3u8
