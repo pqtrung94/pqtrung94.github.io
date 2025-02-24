@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
 
 
 #--*-VTV-*--#
@@ -21,13 +21,14 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd",VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb"tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 
 
 #-*-HTV-*--#
+
 #EXTINF:-1 tvg-id="htv2hd",Vie Channel
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv1",HTV1
@@ -62,22 +63,153 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="antvhd",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="quocphong",QPVN
+#EXTINF:-1 tvg-id="qpvnhd",QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphong",Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="afnhd",AFN
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+
+
+#VTVCab
+
+#EXTINF:-1 tvg-id="onviegiaitri",ON Vie Giải Trí
+https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onphimviet",ON Phim Việt
+https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onmovies",ON Movies
+https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onechannel",ON Echannel
+https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="ono2tv",ON O2TV
+https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onbibi",ON Bibi
+https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="oninfotv",ON Info
+https://tv.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="oncine",ON Cine
+https://tv.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onstyle",ON Style
+https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onhomeshopping",ON Homeshopping
+https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onmusic",ON Music
+https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="ontrending",ON Trending
+https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onviedramas",ON Vie Dramas
+https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onvfamily",ON VFamily
+https://tv.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onkids",ON Kids
+https://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onlife",ON Life
+https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="onsportsnews",ON Sports News
+#https://tv.TruyenHinh.Click/CoBan/vtvcab3hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onsportsplus",ON Sports+
+#https://tv.TruyenHinh.Click/CoBan/vtvcab6hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="onfootball",ON Football HD
+#https://tv.TruyenHinh.Click/CoBan/vtvcab16hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="ongolf",ON Golf
+#https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
+
+
+
+
+
+#SCTV
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV",SCTV1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV",SCTV2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV",SCTV3 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV",SCTV4 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV",SCTV5 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV",SCTV6 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV",SCTV7 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV",SCTV8 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV",SCTV9 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV",SCTV10 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV",SCTV11 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV",SCTV12 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV",SCTV13 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV",SCTV14 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV",SCTV16 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV",SCTV18 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV",SCTV19 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV",SCTV20 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV",SCTV21 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV",SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+
 
 
 #-*-Quốc Tế-*--#
 
-#EXTINF:-1 tvg-id="afnhd",AFN
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kixhd" tvg-logo="https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/refs/heads/main/icon/kix.jpg",Kix
+#EXTINF:-1 tvg-id="kix",Kix
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="davinci",DaVinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="cnbcfhd", CNBC
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="kbsworld", KBS World
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="nhk, NHK World
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dw", DW
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="arirang", Arirang
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="channelnewsasia", CNA
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="france24eng", France 24
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="tv5monde", TV5Monde
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
 
 #-*-Dự Phòng-*--#
@@ -96,20 +228,3 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2",Đà Nẵng 2
 #https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="cnbcfhd", CNBC
-#https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kbsworld", KBS World
-#https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhk, NHK World
-#https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dw", DW
-#https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="arirang", Arirang
-#https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="channelnewsasia", CNA
-#https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="france24eng", France 24
-#https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="tv5monde", TV5Monde
-#https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
