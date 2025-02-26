@@ -12,7 +12,7 @@ udp://@225.1.4.3:30120
 udp://@225.1.4.4:30120
 #EXTINF:-1 tvg-id="vtv5hd", VTV5
 udp://@225.1.4.5:30120
-#EXTINF:-1 tvg-id="vtv6hd", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtvcantho", VTV Cần Thơ
 udp://@225.1.4.108:30120
 #EXTINF:-1 tvg-id="vtv7hd", VTV7
 udp://@225.1.4.201:30120
