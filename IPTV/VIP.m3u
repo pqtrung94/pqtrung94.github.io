@@ -19,41 +19,6 @@ http://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
 
 
-#---K+
-#EXTINF:-1 tvg-id="kaction" group-title="K+", K+ACTION HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
-https://HaNoiIPTV.short.gy/HaNoiIPTV-K_ACTION_HD
-http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
-https://live-cdn04.qphim.net:8443/pini=tv.localhost.ini/Z2ljOSsvOUw5MHd3Z0pleEhoMkFlL3JXZjBPSXBlQVJJTC9BbFJwNXlacml5WlB1MGRFY05oOGc3ZjAzTVhLRkNpU2NLSGt3bEhKYzBKTS9QblJvb21EaDZPVWxVWWdEamVMaTI0d0V4ZU09/master.m3u8
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+", K+CINE HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
-https://HaNoiIPTV.short.gy/HaNoiIPTV-K_CINE_HD
-http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
-https://live-cdn04.qphim.net:8443/pini=tv.localhost.ini/Z2ljOSsvOUw5MHd3Z0pleEhoMkFlL3JXZjBPSXBlQVJJTC9BbFJwNXlacml5WlB1MGRFY05oOGc3ZjAzTVhLRnVReDBJYXQxM1lqY1piM0hTWGx0LzlsSEtuNU5zakp5VGZQczhNdEM1clE9/master.m3u8
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+",K+KIDS HD SCTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
-https://HaNoiIPTV.short.gy/HaNoiIPTV-K_KIDS_HD
-https://live-cdn04.qphim.net:8443/pini=tv.localhost.ini/Z2ljOSsvOUw5MHd3Z0pleEhoMkFlL3JXZjBPSXBlQVJJTC9BbFJwNXlacml5WlB1MGRFY05oOGc3ZjAzTVhLRjNSdmdCZDBqQWlsZ1JWTW13cHRjMjN3YjFFYkpqYjRYUTVacGx4QnRWekk9/master.m3u8
-
-#---On Plus
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="ON Plus", ON Sports HD (ON PLUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="ON Plus", ON Sports+ (ON PLUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/onplus/HAY_TV/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="ON Plus", ON Football HD (ON PLUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="ON Plus", ON Sports News (ON PLUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
 
 
 #---SCTV Link 1
