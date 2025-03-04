@@ -2,7 +2,7 @@
 
 
 
-#---VTV
+#-VTV
 
 #EXTINF:0 tvg-id="vtv1hd",VTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
@@ -35,15 +35,18 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
 
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
 
-#---HTV
 
-#EXTINF:0 tvg-id="htv1",HTV1
-https://vc.101vn.com/htv/htvcmb.php?id=2631
+#-HTV
+
 #EXTINF:0 tvg-id="htv2hd",HTV2 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8
+#EXTINF:0 tvg-id="htv1",HTV1
+https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:0 tvg-id="htv3",HTV3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
@@ -59,7 +62,29 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 
 
 
-#---Khác
+
+#-HTVC 
+
+#EXTINF:-1 tvg-id="htvthethaohd",HTV Thể Thao
+https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd",HTVC Phim
+https://1011154949.vnns.net/CDN-FPT/HTVC-PHIM-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet",HTVC Thuần Việt
+https://1011154949.vnns.net/CDN-FPT/HTVC-THUANVIET-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd",HTVC Gia Đình
+https://1011154949.vnns.net/CDN-FPT/HTVC-GIADINH-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd",HTVC Phụ Nữ
+https://1011154949.vnns.net/CDN-FPT/HTVC-PHUNU-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd",HTVC Du Lịch
+https://1011154949.vnns.net/CDN-FPT/HTVC-DULICH-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd",HTVC Ca Nhạc
+https://1011154949.vnns.net/CDN-FPT/HTVC-CANHAC-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcplushd",HTVC+
+https://1011154949.vnns.net/CDN-FPT/HTVC-PLUS-HD-ABR/playlist.m3u8
+
+
+
+#-Khác
 
 #EXTINF:0 tvg-id="antv",ANTV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
@@ -67,13 +92,10 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/antv/index.m3u8
 #EXTINF:0 tvg-id="qpvn",QPVN HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8
-#EXTINF:0 tvg-id="vinhlong1hd",THVL1 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
-#EXTINF:0 tvg-id="vinhlong2hd",THVL2 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
-
+#EXTINF:-1 ,Hải Phòng
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-id="afnhd",AFN
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 
 
 #---Khác 2
@@ -86,11 +108,17 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
 #https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTINF:-1 ,VTV5 Tây Nam Bộ
 #https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
-#EXTINF:-1 ,Hải Phòng
-https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
-#EXTINF:-1 ,Hải Phòng +
-https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
+#EXTINF:0 tvg-id="vinhlong1hd",THVL1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+#https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
+#EXTINF:0 tvg-id="vinhlong2hd",THVL2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+#https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
+#EXTINF:-1 tvg-id="hanoi1",Hà Nội 1
+#http://p1.cvtv.xyz/hn1?token=live
+#EXTINF:-1 ,Hải Phòng +
+#https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
 
 #---VTVCab ON
@@ -212,7 +240,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics",Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="drfithd",Dr.Fit
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
@@ -225,6 +253,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="woman",Woman
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
+
+
+
+
 
 
 
