@@ -1,0 +1,41 @@
+
+
+#EXTINF:-1 ,VTV1
+http://p1.cvtv.xyz/vtv1?token=live
+#EXTINF:-1 ,VTV2
+http://p1.cvtv.xyz/vtv2?token=live
+#EXTINF:-1 ,VTV3
+http://p1.cvtv.xyz/vtv3?token=live
+#EXTINF:-1 ,VTV5
+http://p1.cvtv.xyz/vtv5?token=live
+
+#EXTINF:-1 ,HTV1
+#https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:-1 ,HTV2
+#https://vc.101vn.com/htv/htvcmb.php?id=2669
+#EXTINF:-1 ,HTV3
+#https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1 ,HTV Key
+#https://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTINF:-1 ,HTV7
+#https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:-1 ,HTV9
+#https://vc.101vn.com/htv/htvcmb.php?id=2667
+
+#EXTINF:-1 tvg-id="hanoi1",Hà Nội 1
+#http://p1.cvtv.xyz/hn1?token=live
+#EXTINF:-1 ,Hải Phòng +
+#https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+
+#EXTINF:-1 ,ANTV
+#https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 ,QPVN
+#https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+#EXTINF:-1 ,VTV5
+#https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+#EXTINF:-1 ,VTV5 Tây Nam Bộ
+#https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+
+
+
+
