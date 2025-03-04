@@ -1,0 +1,41 @@
+#EXTINF:-1 tvg-id="htv2hd",Vie Channel
+https://1011154949.vnns.net/CDN-FPT/HTV2-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htv1",HTV1
+https://1011154949.vnns.net/CDN-FPT/HTV1-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3",HTV3
+https://1011154949.vnns.net/CDN-FPT/HTV3-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htv4",HTV Key
+https://1011154949.vnns.net/CDN-FPT/HTV4-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd",HTV7
+https://1011154949.vnns.net/CDN-FPT/HTV7-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv9hd",HTV9
+https://1011154949.vnns.net/CDN-FPT/HTV9-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd",HTV Thể Thao
+https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd",HTVC Phim
+https://1011154949.vnns.net/CDN-FPT/HTVC-PHIM-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet",HTVC Thuần Việt
+https://1011154949.vnns.net/CDN-FPT/HTVC-THUANVIET-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd",HTVC Gia Đình
+https://1011154949.vnns.net/CDN-FPT/HTVC-GIADINH-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd",HTVC Phụ Nữ
+https://1011154949.vnns.net/CDN-FPT/HTVC-PHUNU-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd",HTVC Du Lịch
+https://1011154949.vnns.net/CDN-FPT/HTVC-DULICH-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd",HTVC Ca Nhạc
+https://1011154949.vnns.net/CDN-FPT/HTVC-CANHAC-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcplushd",HTVC+
+https://1011154949.vnns.net/CDN-FPT/HTVC-PLUS-HD-ABR/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="antv",ANTV HD
+https://1011154949.vnns.net/CDN-FPT/ANTV-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="qpvn",QPVN HD
+https://1011154949.vnns.net/CDN-FPT/QPTV-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd",THVL1 HD
+https://1011154949.vnns.net/CDN-FPT/THVL1-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd",THVL2 HD
+https://1011154949.vnns.net/CDN-FPT/THVL2-HD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd",VTV1 HD
+https://1011154949.vnns.net/CDN-FPT/VTV1-HD-ABR/playlist.m3u8
+
