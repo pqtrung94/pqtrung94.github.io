@@ -24,8 +24,10 @@ http://p1.cvtv.xyz/vtv5?token=live
 
 #EXTINF:-1 tvg-id="hanoi1",Hà Nội 1
 #http://p1.cvtv.xyz/hn1?token=live
+#EXTINF:-1 ,Hải Phòng
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
 #EXTINF:-1 ,Hải Phòng +
-#https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 
 #EXTINF:-1 ,ANTV
 #https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
