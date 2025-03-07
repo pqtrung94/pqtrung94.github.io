@@ -20,12 +20,10 @@ udp://@225.1.4.201:30120
 udp://@225.1.4.7:30120
 #EXTINF:-1 tvg-id="vtv9hd", VTV9
 udp://@225.1.4.8:30120
-
-#EXTINF:0 tvg-id="vtv5hdtn",VTV5 Tây Nguyên
-udp://@225.1.4.179:30120
 #EXTINF:0 tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
 udp://@225.1.4.184:30120
-
+#EXTINF:0 tvg-id="vtv5hdtn",VTV5 Tây Nguyên
+udp://@225.1.4.179:30120
 
 
 
