@@ -1,0 +1,271 @@
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml"
+
+#EXTINF:0,VTV1 HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/a3RBVVB2eTI1dzVNN1Q4ZlFhTkcwdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV2 HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/MGxqbCtNSTZnNEtIZm5zaTdDdGlWdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV3 HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/WFdGenltcERsL20zcHRiZ3ZDTGw5UT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV4 HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/aWtrTlJBL0RhY2NUTjJIS2R2NkxWdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV5 HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/SWVLZFo1ZzBmbXA5REhHc2NlTW1Odz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV Cần Thơ HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/blEvQVd0bFBNMWYzUi9naEc4TEdTQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV7 HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/RHVlc1MyZFY5Ni9pdVFLL2tXSjRiZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV8 HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/WjlUbkl5NVVIcDZjTXNuKzlzRFo3QT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV9 HD
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/bXJmRXpjV290Nmt2eENTQVdjTXFVdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV5 HD - Tây Nam Bộ
+Bhttp://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/QTgwbkF3ditPQnc0VW9aRGtad2tWUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV5 HD - Tây Nguyên
+http://bentre5.hoangai.vn:8086/stream/QjZuRnVMZ1cvSjZaa012K0lMSW9sQT09/b25lOTJLdXJCMG5vWkozQURFUFVqZz09/Zin1903/1903/playlist.mpegts
+
+
+
+#EXTINF:0,HTV2 HD Vie Channel
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15YUR4VnhMY1NNWTBVK0RLU3hweEY5VDFzdkNpYUtUZXlvMDh5eStMV2MyYU1kcC85SFJmMmNTY2lsVXZnM1R3QXRiV2oxVGVCVklrRkx2b1hvSXlTOTg=/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTV1
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15YmdpQ1RTRFNhTnJ6eEp0dnBscDhOZStXbitiWjFKSndhQU5EeDQ2NGVNV2NaWGtDeXpsbkwzcEtyQjhHeThUZG9QVEJHUlhaZEptY0Q2SytmYXR6M1RlcUV3ZUUwWkFEUzNrQ0RUMllkU1FIV2h3Z1JXbVFJbEFFcEhJNXF3WHhVPQ==/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTV3
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15YmdpQ1RTRFNhTnJ6eEp0dnBscDhOZStXbitiWjFKSndhQU5EeDQ2NGVNV2NaWGtDeXpsbkwzcEtyQjhHeThUZG9QVEJHUlhaZEptY0Q2SytmYXR6M1RlcUV3ZUUwWkFEUzNrQ0RUMllkU1FNdFB6MnlsQk1OREdBSk1KWGNCbEJ3PQ==/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTV Key
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15YmdpQ1RTRFNhTnJ6eEp0dnBscDhOZStXbitiWjFKSndhQU5EeDQ2NGVNV2NaWGtDeXpsbkwzcEtyQjhHeThUZG9QVEJHUlhaZEptY0Q2SytmYXR6M1RlcUV3ZUUwWkFEUzNrQ0RUMllkU1FBTldmZGpmaHJ2UHIxTW40bElXUXNvPQ==/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTV7 HD
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15YUR4VnhMY1NNWTBVK0RLU3hweEY5VDFzdkNpYUtUZXlvMDh5eStMV2MyYUZuQ2czWDAvdFFmbjZ0UGlpczJ5ang2VzhFSkxlM2w2UjF6NWlqcEJlNWo=/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTV9 HD
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15YUR4VnhMY1NNWTBVK0RLU3hweEY5VDFzdkNpYUtUZXlvMDh5eStMV2MyYVBuV1FRLzByeXJLTEJnNHhpYS9XdElhR2lHNEdITVIyRFBXYlJqQ1kvTWY=/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTV Thể Thao HD
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15YUR4VnhMY1NNWTBVK0RLU3hweEY5VDFzdkNpYUtUZXlvMDh5eStMV2MyYUtXckdDbXIrS1IyNWxybW1kNEliSEU4RlVhRW1TODVTZktxeGk4bDNoKzk=/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTVC Phim HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WXREdkU0dDFHd3FJVmdMYm9hSEFoUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTVC Thuần Việt
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/NWttOWlQeTdCM1FXdVdkUjJCRitsQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTVC Gia Đình HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/bWphc09pZXFEZWlVMTJxR05icXNyZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTVC Phụ Nữ HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/QzVQTDY5N1JGTHVGMFBTVktJbFd3QT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTVC Du Lịch HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TENKU3ROOFloV2dyTmJwL1AzKzdUdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTVC Ca Nhạc HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TVRFVDlGM1VvYWdrUUFndS9kV3owdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HTVC Plus HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/dGRMNkNqdTJPTDQ0UlBGQ1hDWkRLQT09/Zin1903/1903/playlist.mpegts
+
+
+
+#EXTINF:0,SCTV6
+#http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/eTdmbHFtZUpzZnJEZ1RUbGxVb2swQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,ANTV HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/RkNRZzVEcW1EejFmdXB0WWQ2MXdHdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,QPVN HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/QTcrWmJXWnEvTU1LemkxRTNiblNodz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Hải Phòng
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/L3JnWkorUVBXQWJNK0RCdThRdVNodz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,AFN HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/YmVMb1BuOU5ZdGV5RVhIcFcyNGYrUT09/Zin1903/1903/playlist.mpegts
+
+
+
+#EXTINF:0,ON Vie Giải Trí
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/aDdCOUxXb0FVSmM3Y3VlSmNOa1F4QT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Phim Việt
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/QkFPUGdWYWV5RldEVDRhR2dzWnpqQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, On Movies
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/R2RDSTh2ZjBhT3pOVFR1SkZwWjlNdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Echannel
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/cUpudDNpc250U25kMTEvLzZGa2Q5dz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON O2TV
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/UmNIUkFMTzg5UEo1R1RCMW1ONEdTdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON BiBi
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/cmh6Mmc2b0lyd2JnYkJyRVNZRUcyZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Info TV
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/Z1Y0Z1RRMnZiditQb3VabDU4TGZPdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Cine
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/Y2pxOExUbGFmV0lja05NOWR0NGw2Zz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Style
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/SVBlaG44Y0gxQitwbndHRW5abFQ2Zz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, On Music
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/WllqK1lNekVBQzRkVjNvcVNVdDFmZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Trending
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/eVc1NEl0bUNod1p4WDc4Z1FtMGdHdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Vie DRAMAS
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/Ty9SQmdMdzExZHBSdldlRWFhcERRZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON VFamily
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/cDhUT3Z2ZXFxZS82QWc4bWVxMDFpZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Kids
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/OHlZVmYrOUZuZUZYVDNmSTdqc0I1UT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, ON Life
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/SW1vMTNxRXliTWNNblMxUTAvWjltQT09/Zin1903/1903/playlist.mpegts
+
+
+
+#EXTINF:0, SCTV1 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/aTF0L2NlL3B1ZG1JTWMzZjZzR0UvZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV2 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/V295dlBURm9GN0hsME1kRWxxQW5PQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV3 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV4 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/Z2lIK1BrTll1VnZ4TUR5bTdTeHJvZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV5 HD - SCJ
+#http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/Zk50UEt4QWJoVFZNRDJJOFBndE93UT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV6 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/STNJQ3BuTkRlRHdJUmxTZTMzNko2Zz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV7 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/MEMyRFdzeGRYeDJkaG1PSlhmY1FmZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV8 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/cnFxcm83WlF1Y2wvUmU3SC9ZeWxqZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV9 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/MlorMHZNb3Y2bTgrSGlsMlAveDhUZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV10
+#http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/aC96TFlrSTJqV2lMOHJZUGN3cjkwUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV11 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/Zk1GRjlrczY2Sm1lbDQvSDJQc1EyQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV12 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/MjE0RTJXR1JQKzNXcHI0MHJ6L1BXdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV13 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/UVRmMFV3eTF1UzBrVmxtQlJlem9ydz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV14 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/aXh4RmxPVk9Db2FkMnBZTzFlNjArdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV18 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/dGM2YURDUHhDZ3daL0NzRWI4azZzQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV19 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/Q2pjRTRYSCsxVk9XQmR5ckIyZWtHZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV20 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/SmZZbFpUNGhwZnMxUDJlQWZ1VTF0UT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV21 HD
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/YXVPT3l4Y20zb0VpZ01Rek1ROWY0dz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, SCTV HD Phim Tổng Hợp
+http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/S1RZbzhFNlkxRUx3NVhaWXUwalhrdz09/Zin1903/1903/playlist.mpegts
+
+
+
+#EXTINF:0,ABC Australia
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MlFKOFFPU1JVcTk0UDgvcis0MHpXZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Animal Planet HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SXplby9qSzQ5Q2l0Q0VoK1hNWkt3QT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,AXN HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MDdEY3FwYW5uUzEyd3ZhNjNCOFBsdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,CbeeBies
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/c1g0MzZnTnRFSTA3N1FBY0N1cnBOdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,BBC Earth
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/eW9MR2FFVXJLL21RaGhsNmZhYVpYUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,BBC Life Style
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/dDdRRmU1SkdMeE5NMFdCbFYrOTlpUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,BBC World News
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/Y21hRTJiQlljWDJIQTdRS09icHlpUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Bloomberg
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/alNYRWxUdm5abjBQU3dneWJtcEtkUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Cartoonito
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/OThyMERNU3ZEd2hUeFc2cWJqRkRnUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Cartoon Network HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/NjZyTmIvWDR4QjJBbmZBeVliak9Bdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Cinema World HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/UU5iNktKa1FuSUZONmhmcEVTSlluZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Cinemax HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,CNA
+#http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MGVwWFdsNjFZSlVuckR0UWZ5RVhqQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,CNN
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/YU1BeXdpUkdIdkt1N1ZCMmE5Q0FEdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,DaVinci HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/Vyt3U0dNc001ZVhaaG9xdENqTzJVUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Discovery Asia HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TTk5Y0ordFJTRFNNTCt0WWpPSGxPUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Discovery Channel HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MHN2eHgrWFlaZE5QSTFYNnVselRDdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Dreamworks HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SHI4eHpmQ2kwTy9LNVpoNS9MYkZ2QT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,DW HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/ZFEwemlnQWV1NjhDSkRXdXNTMkp2UT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Fashion TV HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WXpGYzVJMWk4ZWRpdm5jUldXNlJUUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,France 24 English
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/eFZTTU8xMXo2TGdzYXpFL0ZYOU1nUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HBO HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/YmEvbk9paFN1MFhxenBNS0hGNVRSUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,HBO hD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/ZHlFbVU3MXZRaGdyTHV6YUdmVG0wdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,KBS World
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/ZGp4U0NIUmt6V1daVUpOY0JFWWlKZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,KIX
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,NHK World
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/bzlLcnZqMVJNVEZBQUpQdU5URnNKQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Outdoor Channel HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WnlFZE5uVTJqU09RMEs3aVc4VVpxUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Travel & Living HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/b0cvbXBvYmhhV2JhR1FLbHdpbWlVUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,TV5 Monde
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/OW9HUHZPbXZBZ3FBRjI0STViQVdLZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Warner TV HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TmNjY0kvNEN3aHNWV3l2YXMwSG1nQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Arirang
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SUpGblIyMzlibGQ3TjVDUjFTL3NBdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,CNBC
+#http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/YXhBbFRGZnhIbTFiS1dwYjlNeDlwQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Box Movie 1
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/VXk4NkpTN3EvVVdIa2hCYzdPeFI2QT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Hollywood Classics
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/aVhab1BFMWtxL05CNkNPcTAvbDBNQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, In The Box HD
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/anFjLzVZUW95VUtIRVJOYjB4K0pudz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Box Hits HD
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/dE9jcDU3a1djTE8yeUU2QXhkWmlrUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Man HD
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/UEJiMmQxUGN3SUJyUGNDaWxNT1YyZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Music Box HD
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/YXQrb25TTXNEOUVjNVpTZkgva0RDZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Dr.Fit HD
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/b2dIN05ZQ2JtcFJFNEdONExNNVVVdz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Happy Kids HD
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/SGhBSE9vYWVyeXBXZVhieXlxMEJ1Zz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Planet Earth HD
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/OFBOTG1wdzJoZWRkZEUzYXlJUUJodz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0, Woman hD
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/TDE4YlVUV0JUcS8vSWxLUHBFcHJ1UT09/Zin1903/1903/playlist.mpegts
+
+
+
+#EXTINF:0,VTV1 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TUVJWGJ1eGlkZVBramlpejJ5YWRRZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV2 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SS8yQjRUenoveWxnUFVsV0xCSjMvZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV3 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MXRRVXY5T24rb2Jydmx1ditNamFoUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV4 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/V3JkcjhjVVRrcldyMlJZUm93S2xlZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV5 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/U0F6SEZrUnZlOVl5Y1BnYzBVNmhaQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV Cần Thơ HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TW9ob01xb2IvbkRQcXl1anlianJMQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV7 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/ZUFXZ1VsWVlpZ1ZIYlZ4RCtmNWloUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV8 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/T0h1NTg0RVBjNFl0SjBlOWRMY0Fidz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV9 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TFV0OGQwdTRGSktpbFpyNE9nZFczUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV5 HD - Tây Nam Bộ
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/dGYyQXprWnFtODM1dkF1aVYvaVBMZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,VTV5 HD - Tây Nguyên
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WkgzY1h2RDJEOXhrOGVRclcxRGRPZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Hà Nội 1
+Nhttp://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SHduNWl0QzExL3hXc0dZQ2k0NUxRUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Hà Nội 2
+Nhttp://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/QjVFM1R3dUlNR0hYcXpackRXRFhTQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Hải Phòng +
+Hhttp://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/bm00cktGQVg1OUthdXBFak1JZmNNZz09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Đà Nẵng 1 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/NVBCTWhOdm8zR0ltNXR1YVd2SHQvUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,Đà Nẵng 2
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/Y1FCdkthellkRWhSdGllcmZ3TEJsQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,THVL1 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/NHRHQjQzOWpNWHRMNFFUS2tUdUFpQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,THVL2 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/R25VNGtBSC9zZTRHVzM0U0NsMG1GQT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,THVL3 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/QnRpSjVPYW1Hd2lhZU03SUF3L2cyUT09/Zin1903/1903/playlist.mpegts
+#EXTINF:0,THVL4 HD
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/N2RidEt3OXRMV05ZOXgrc2JkUnNrUT09/Zin1903/1903/playlist.mpegts
